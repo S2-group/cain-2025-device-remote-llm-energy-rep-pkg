@@ -1,0 +1,6 @@
+pandas
+psutil
+tabulate
+dill
+jsonpickle
+python-dotenv
