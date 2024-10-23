@@ -110,7 +110,7 @@ class RunnerConfig:
 
         model = context.run_variation["model"]
         method = context.run_variation["method"]
-        size = context.run_variation["size"]
+        size = context.run_variation["length"]
 
         topic_list_data = pd.read_csv(Path.cwd()/"experiment/topics.csv")
         topics = topic_list_data["Topic"].tolist()
