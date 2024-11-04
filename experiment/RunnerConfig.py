@@ -78,7 +78,7 @@ class RunnerConfig:
         """Create and return the run_table model here. A run_table is a List (rows) of tuples (columns),
         representing each run performed"""
         factor1 = FactorModel("model", ['llama3.1:8b', 'gemma:2b', 'gemma:7b', 'phi3:3.8b', 'qwen2:1.5b', 'qwen2:7b', 'mistral:7b'])
-        factor2 = FactorModel("method", ['remote', 'local'])
+        factor2 = FactorModel("method", ['remote', 'on_device'])
         factor3 = FactorModel("length", ['100','500','1000'])
         self.run_table_model = RunTableModel(
             factors=[factor1, factor2, factor3],
@@ -119,7 +119,7 @@ class RunnerConfig:
 
         prompt = f"In {size} words, please give me information about " + self.topic
 
-        if method == "local":
+        if method == "on_device":
             url = "localhost"
         else:
             load_dotenv()
