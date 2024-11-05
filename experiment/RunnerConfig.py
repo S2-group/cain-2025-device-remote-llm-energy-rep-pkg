@@ -82,7 +82,7 @@ class RunnerConfig:
         factor3 = FactorModel("length", ['100','500','1000'])
         self.run_table_model = RunTableModel(
             factors=[factor1, factor2, factor3],
-            data_columns=['topic', 'execution_time', '%cpu_usage','%gpu_usage', '%memory_usage'],
+            data_columns=['topic', 'execution_time', 'cpu_usage','gpu_usage', 'memory_usage'],
             shuffle=True,
             repetitions = 30,
         )
@@ -229,9 +229,9 @@ class RunnerConfig:
         run_data = {
             'topic': self.topic,
             'execution_time': (self.timestamp_end - self.timestamp_start).total_seconds(),
-            '%cpu_usage': round(self.performance_profiler_df['cpu_usage'].mean(), 3),
-            '%gpu_usage': round(gpu_percentage_mean, 3),
-            '%memory_usage': round(self.performance_profiler_df['memory_usage'].mean(), 3),
+            'cpu_usage': round(self.performance_profiler_df['cpu_usage'].mean(), 3),
+            'gpu_usage': round(gpu_percentage_mean, 3),
+            'memory_usage': round(self.performance_profiler_df['memory_usage'].mean(), 3),
         }
         os.remove(context.run_dir/"powermetrics.txt") # Remove to save storage space since each file cost approx. 150mb
         return run_data
@@ -250,14 +250,14 @@ class RunnerConfig:
         # Check if the column 'codecarbon__energy_consumed' exists
             if 'codecarbon__energy_consumed' in run_table_df.columns:
                 # Convert energy consumed from kWh to Joules and create a new column
-                run_table_df['energy_consumed(J)'] = run_table_df['codecarbon__energy_consumed'] * 3_600_000
+                run_table_df['energy_usage_J'] = run_table_df['codecarbon__energy_consumed'] * 3_600_000
 
                 # Optionally, you may want to round the values to a specific number of decimal places
-                run_table_df['energy_consumed(J)'] = run_table_df['energy_consumed(J)'].round(3)
+                run_table_df['energy_usage_J'] = run_table_df['energy_usage_J'].round(3)
 
                 # Save the updated DataFrame back to CSV
                 run_table_df.to_csv(run_table_path, index=False)
-                output.console_log("Added 'energy_consumed(J)' column to run_table.csv successfully.")
+                output.console_log("Added 'energy_usage_J' column to run_table.csv successfully.")
             else:
                 output.console_log("'codecarbon__energy_consumed' column not found in run_table.csv.")
         except FileNotFoundError:
