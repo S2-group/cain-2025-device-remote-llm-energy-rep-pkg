@@ -1,0 +1,1261 @@
+__run_id,__done,model,method,length,topic,execution_time,cpu_usage,gpu_usage,memory_usage,codecarbon__energy_consumed,energy_usage_J
+run_32_repetition_9,DONE,qwen2:7b,on_device,1000,World War I,49.812157,3.151,95.507,73.341,0.0001414828239,509.3381659
+run_34_repetition_27,DONE,qwen2:7b,remote,500,Elvis Presley,15.413524,2.888,0.196,51.1,1.52E-05,5.46E+01
+run_10_repetition_17,DONE,gemma:2b,remote,500,John F. Kennedy,9.873243,5.033,0.448,55.267,5.80E-06,2.09E+01
+run_21_repetition_14,DONE,phi3:3.8b,remote,100,Tom Brady,9.877062,10.767,0.459,52.367,5.80E-06,2.09E+01
+run_4_repetition_11,DONE,llama3.1:8b,remote,500,Adolf Hitler,15.385836,4.588,0.225,53.2,1.51E-05,5.43E+01
+run_41_repetition_10,DONE,mistral:7b,remote,1000,William Shakespeare,14.300526,6.814,0.091,52.629,1.32E-05,4.76E+01
+run_6_repetition_27,DONE,gemma:2b,on_device,100,LeBron James,9.887016,10.333,100,64.033,5.81E-06,2.09E+01
+run_26_repetition_6,DONE,qwen2:1.5b,on_device,1000,Tom Cruise,31.991349,4.083,97.08,63.296,8.00E-05,2.88E+02
+run_32_repetition_26,DONE,qwen2:7b,on_device,1000,Pablo Escobar,45.386965,4.06,90.504,73.6,0.0001335996604,480.9587776
+run_12_repetition_4,DONE,gemma:7b,on_device,100,World War I,16.577776,3.589,93.144,77.856,1.73E-05,6.22E+01
+run_29_repetition_22,DONE,qwen2:1.5b,remote,1000,How I Met Your Mother,11.995291,4.24,0.228,54.9,9.50E-06,3.42E+01
+run_37_repetition_25,DONE,mistral:7b,on_device,500,Vietnam War,42.041176,3.338,98.491,72.091,0.0001244171769,447.9018368
+run_36_repetition_5,DONE,mistral:7b,on_device,100,Adolf Hitler,16.582584,2.711,86.127,74.744,1.69E-05,6.10E+01
+run_13_repetition_12,DONE,gemma:7b,on_device,500,Bruce Lee,39.846774,3.593,87.488,84.773,0.0001446446304,520.7206693
+run_22_repetition_2,DONE,phi3:3.8b,remote,500,Chernobyl disaster,14.341256,2.857,0.278,76.343,1.33E-05,4.78E+01
+run_23_repetition_8,DONE,phi3:3.8b,remote,1000,Bill Gates,18.74021,14.645,0.215,57.282,2.08E-05,7.47E+01
+run_23_repetition_28,DONE,phi3:3.8b,remote,1000,Eminem,24.245602,3,0.208,53.2,5.51E-05,1.98E+02
+run_27_repetition_1,DONE,qwen2:1.5b,remote,100,Israel,8.781825,8.6,0.848,70.4,3.98E-06,1.43E+01
+run_14_repetition_6,DONE,gemma:7b,on_device,1000,Abraham Lincoln,42.064943,20.991,92.393,85.331,0.0001298838765,467.5819554
+run_2_repetition_20,DONE,llama3.1:8b,on_device,1000,Academy Awards,56.364539,3.973,91.212,72.522,0.0001652213203,594.7967532
+run_15_repetition_15,DONE,gemma:7b,remote,100,Queen Victoria,8.704974,12.65,0.732,55.65,3.94E-06,1.42E+01
+run_5_repetition_17,DONE,llama3.1:8b,remote,1000,Abraham Lincoln,22.100727,3.286,0.246,64.986,5.15E-05,1.85E+02
+run_16_repetition_24,DONE,gemma:7b,remote,500,New York City,14.312725,3.371,0.226,59.071,1.33E-05,4.80E+01
+run_19_repetition_16,DONE,phi3:3.8b,on_device,500,Eminem,60.901479,3.818,100,67.845,0.0001700197459,612.0710854
+run_5_repetition_28,DONE,llama3.1:8b,remote,1000,Mark Zuckerberg,19.751157,2.658,0.185,53.142,2.26E-05,8.13E+01
+run_39_repetition_2,DONE,mistral:7b,remote,100,Barack Obama,9.875277,5.167,0.473,54.9,5.83E-06,2.10E+01
+run_11_repetition_15,DONE,gemma:2b,remote,1000,Japan,12.110653,6.24,0.355,69.94,9.52E-06,3.43E+01
+run_8_repetition_14,DONE,gemma:2b,on_device,1000,Kobe Bryant,20.990096,3.408,91.294,65.5,2.46E-05,8.85E+01
+run_2_repetition_11,DONE,llama3.1:8b,on_device,1000,New York City,77.516076,2.997,98.717,73.148,0.0002367191056,852.1887801
+run_24_repetition_1,DONE,qwen2:1.5b,on_device,100,India,15.469566,4.588,84.12,62.925,1.51E-05,5.45E+01
+run_30_repetition_24,DONE,qwen2:7b,on_device,100,Elizabeth II,17.656385,2.92,69.169,69.64,1.92E-05,6.92E+01
+run_8_repetition_18,DONE,gemma:2b,on_device,1000,Pablo Escobar,17.569263,2.43,99.45,63.76,1.90E-05,6.84E+01
+run_27_repetition_18,DONE,qwen2:1.5b,remote,100,Adolf Hitler,7.717391,16,0.743,74.9,2.11E-06,7.59E+00
+run_25_repetition_13,DONE,qwen2:1.5b,on_device,500,Star Wars,15.430669,3.887,89.636,56.85,1.52E-05,5.47E+01
+run_17_repetition_19,DONE,gemma:7b,remote,1000,Kobe Bryant,14.282346,3.214,0.209,60.129,1.33E-05,4.78E+01
+run_13_repetition_1,DONE,gemma:7b,on_device,500,Chernobyl disaster,38.690654,3.479,85.167,74.393,0.0001132224647,407.600873
+run_2_repetition_23,DONE,llama3.1:8b,on_device,1000,Charles III,64.259812,2.892,93.141,75.613,0.0001886565543,679.1635956
+run_5_repetition_5,DONE,llama3.1:8b,remote,1000,Ted Bundy,17.541038,3.35,0.138,53.49,1.89E-05,6.81E+01
+run_37_repetition_27,DONE,mistral:7b,on_device,500,Singapore,38.76532,3.269,88.702,74.3,0.0001098135794,395.3288857
+run_21_repetition_13,DONE,phi3:3.8b,remote,100,Pablo Escobar,8.760708,14.5,0.789,52.8,3.94E-06,1.42E+01
+run_35_repetition_18,DONE,qwen2:7b,remote,1000,"Princess Margaret, Countess of Snowdon",14.299986,3.971,0.195,55.014,1.33E-05,4.78E+01
+run_3_repetition_26,DONE,llama3.1:8b,remote,100,Michael Jackson,8.761677,7.55,0.751,56.8,3.94E-06,1.42E+01
+run_10_repetition_9,DONE,gemma:2b,remote,500,Rihanna,9.928289,9.3,0.542,47,5.79E-06,2.09E+01
+run_15_repetition_25,DONE,gemma:7b,remote,100,Muhammad Ali,8.787523,7.55,0.348,65.2,3.96E-06,1.43E+01
+run_11_repetition_17,DONE,gemma:2b,remote,1000,Jay-Z,10.944429,11.15,0.513,58.2,7.95E-06,2.86E+01
+run_0_repetition_18,DONE,llama3.1:8b,on_device,100,United States,17.627322,3.57,64.58,71.34,1.92E-05,6.92E+01
+run_10_repetition_29,DONE,gemma:2b,remote,500,September 11 attacks,9.88958,5.767,2.855,64.033,5.83E-06,2.10E+01
+run_32_repetition_24,DONE,qwen2:7b,on_device,1000,Charles III,38.709231,3.921,90.7,71.569,0.0001128560353,406.2817271
+run_0_repetition_3,DONE,llama3.1:8b,on_device,100,Jay-Z,15.443269,6.188,96.626,76.462,1.55E-05,5.58E+01
+run_21_repetition_17,DONE,phi3:3.8b,remote,100,Lionel Messi,8.773514,7,0.802,63,3.96E-06,1.43E+01
+run_15_repetition_16,DONE,gemma:7b,remote,100,Angelina Jolie,7.630433,14.6,1.213,55.4,2.09E-06,7.52E+00
+run_20_repetition_17,DONE,phi3:3.8b,on_device,1000,Charles Manson,52.080458,2.893,94.312,76.222,0.000149227062,537.2174232
+run_24_repetition_22,DONE,qwen2:1.5b,on_device,100,List of presidents of the United States,7.701777,14.6,69.851,62.8,2.10E-06,7.56E+00
+run_29_repetition_16,DONE,qwen2:1.5b,remote,1000,Barack Obama,9.855043,6.067,0.595,53.267,5.82E-06,2.09E+01
+run_37_repetition_7,DONE,mistral:7b,on_device,500,Kim Kardashian,43.154207,3.309,95.192,75.2,0.0001250177053,450.0637392
+run_7_repetition_7,DONE,gemma:2b,on_device,500,Mark Zuckerberg,17.690991,3.44,94.338,65.16,1.90E-05,6.84E+01
+run_17_repetition_22,DONE,gemma:7b,remote,1000,Japan,14.298798,6.429,0.063,53.314,1.33E-05,4.78E+01
+run_5_repetition_7,DONE,llama3.1:8b,remote,1000,Michael Jackson,18.696909,2.791,0.196,57.8,2.07E-05,7.46E+01
+run_11_repetition_26,DONE,gemma:2b,remote,1000,Keanu Reeves,9.849776,9.1,0.698,59.467,5.85E-06,2.11E+01
+run_19_repetition_9,DONE,phi3:3.8b,on_device,500,Queen Victoria,39.782343,4.75,94.025,75.293,0.0001085922842,390.9322232
+run_41_repetition_25,DONE,mistral:7b,remote,1000,Chernobyl disaster,16.501239,3.567,0.151,55.811,1.70E-05,6.12E+01
+run_16_repetition_18,DONE,gemma:7b,remote,500,Kim Kardashian,14.326906,3.314,0.19,46.514,1.33E-05,4.78E+01
+run_14_repetition_13,DONE,gemma:7b,on_device,1000,Kobe Bryant,42.004938,3.609,86.491,75.788,0.0001301147387,468.4130593
+run_21_repetition_10,DONE,phi3:3.8b,remote,100,Australia,8.715654,11,0.747,58.15,3.97E-06,1.43E+01
+run_1_repetition_8,DONE,llama3.1:8b,on_device,500,United States,43.143522,3.255,98.127,76.291,0.0001283399637,462.0238693
+run_38_repetition_26,DONE,mistral:7b,on_device,1000,The Walking Dead (TV series),35.386759,2.558,97.883,74.958,8.87E-05,3.19E+02
+run_25_repetition_24,DONE,qwen2:1.5b,on_device,500,The Big Bang Theory,15.477621,5.075,83.159,62.838,1.52E-05,5.46E+01
+run_31_repetition_11,DONE,qwen2:7b,on_device,500,Ryan Reynolds,37.683865,2.546,97.861,71.839,0.0001102819933,397.0151758
+run_27_repetition_10,DONE,qwen2:1.5b,remote,100,John F. Kennedy,7.651553,13.4,0.636,55.3,2.09E-06,7.54E+00
+run_16_repetition_29,DONE,gemma:7b,remote,500,List of presidents of the United States,14.295372,3.371,0.263,61.786,1.33E-05,4.78E+01
+run_34_repetition_17,DONE,qwen2:7b,remote,500,Kobe Bryant,14.287003,2.943,0.234,60.843,1.33E-05,4.78E+01
+run_31_repetition_8,DONE,qwen2:7b,on_device,500,Justin Bieber,37.627802,2.457,98.918,73.55,0.0001107902599,398.8449356
+run_41_repetition_8,DONE,mistral:7b,remote,1000,Albert Einstein,14.211233,5.429,0.185,57.157,1.33E-05,4.77E+01
+run_21_repetition_20,DONE,phi3:3.8b,remote,100,Jeffrey Dahmer,8.782516,8.6,0.675,55.65,3.98E-06,1.43E+01
+run_19_repetition_19,DONE,phi3:3.8b,on_device,500,Lady Gaga,49.795481,3.795,99.246,64.738,0.0001307434708,470.676495
+run_17_repetition_26,DONE,gemma:7b,remote,1000,Bruce Lee,15.353338,3.1,0.169,51.7,1.51E-05,5.44E+01
+run_8_repetition_12,DONE,gemma:2b,on_device,1000,Arnold Schwarzenegger,18.739615,3.609,86.99,65.127,2.08E-05,7.49E+01
+run_28_repetition_10,DONE,qwen2:1.5b,remote,500,World War I,9.867976,34.8,0.469,53.7,6.01E-06,2.16E+01
+run_39_repetition_12,DONE,mistral:7b,remote,100,Lionel Messi,8.76483,47.9,0.755,54.9,4.15E-06,1.49E+01
+run_16_repetition_28,DONE,gemma:7b,remote,500,Ariana Grande,13.164154,7.2,0.209,53.967,1.14E-05,4.09E+01
+run_14_repetition_5,DONE,gemma:7b,on_device,1000,Marilyn Monroe,39.842783,3.07,87.786,76.757,0.0001154968505,415.7886618
+run_18_repetition_9,DONE,phi3:3.8b,on_device,100,Canada,16.563879,3.811,77.567,73.311,1.70E-05,6.12E+01
+run_35_repetition_27,DONE,qwen2:7b,remote,1000,India,18.624164,2.655,0.204,49.864,2.07E-05,7.46E+01
+run_16_repetition_1,DONE,gemma:7b,remote,500,Bill Gates,14.360729,3.329,0.238,55.014,1.32E-05,4.77E+01
+run_11_repetition_28,DONE,gemma:2b,remote,1000,Charles III,8.770433,9.05,0.737,56.65,3.97E-06,1.43E+01
+run_21_repetition_24,DONE,phi3:3.8b,remote,100,World War II,8.76662,8,0.637,57.5,3.96E-06,1.42E+01
+run_5_repetition_29,DONE,llama3.1:8b,remote,1000,Charles Manson,19.83373,3.508,0.181,57.825,2.26E-05,8.14E+01
+run_15_repetition_7,DONE,gemma:7b,remote,100,United Kingdom,9.821093,6.5,0.616,57.167,5.82E-06,2.10E+01
+run_15_repetition_18,DONE,gemma:7b,remote,100,LeBron James,8.752516,7.6,0.76,57.6,3.96E-06,1.43E+01
+run_9_repetition_4,DONE,gemma:2b,remote,100,Breaking Bad,7.624231,16,1.359,55.9,2.10E-06,7.57E+00
+run_28_repetition_9,DONE,qwen2:1.5b,remote,500,India,10.966887,7.65,0.345,52.35,7.69E-06,2.77E+01
+run_34_repetition_4,DONE,qwen2:7b,remote,500,The Walking Dead (TV series),15.401963,3.175,0.197,56.312,1.51E-05,5.43E+01
+run_14_repetition_19,DONE,gemma:7b,on_device,1000,Charles III,40.938752,2.752,86.894,84.774,0.0001432770508,515.7973828
+run_6_repetition_7,DONE,gemma:2b,on_device,100,Lionel Messi,11.000299,5.25,66.428,61.375,7.73E-06,2.78E+01
+run_40_repetition_1,DONE,mistral:7b,remote,500,Russia,14.292106,3.671,0.184,55.714,1.33E-05,4.78E+01
+run_26_repetition_14,DONE,qwen2:1.5b,on_device,1000,Dwayne Johnson,14.323634,4.057,99.845,61.214,1.33E-05,4.80E+01
+run_19_repetition_4,DONE,phi3:3.8b,on_device,500,Harry Potter,37.656113,3.411,99.532,64.679,0.0001052837787,379.0216034
+run_40_repetition_10,DONE,mistral:7b,remote,500,Ted Bundy,14.325372,8.543,0.131,46.5,1.32E-05,4.76E+01
+run_17_repetition_3,DONE,gemma:7b,remote,1000,Elon Musk,14.279991,5.114,0.216,61.929,1.32E-05,4.77E+01
+run_22_repetition_23,DONE,phi3:3.8b,remote,500,Justin Bieber,13.12082,5.767,0.232,54.1,1.14E-05,4.10E+01
+run_26_repetition_12,DONE,qwen2:1.5b,on_device,1000,World War I,22.137678,3.843,94.402,63.029,5.16E-05,1.86E+02
+run_6_repetition_19,DONE,gemma:2b,on_device,100,Singapore,10.996507,6.8,55.048,64.625,7.69E-06,2.77E+01
+run_13_repetition_0,DONE,gemma:7b,on_device,500,Harry Potter,32.105936,2.526,97.419,85.557,0.0002156044823,776.1761363
+run_2_repetition_15,DONE,llama3.1:8b,on_device,1000,Joe Biden,70.860048,3.197,95.982,75.976,0.0002045502749,736.3809897
+run_37_repetition_16,DONE,mistral:7b,on_device,500,Japan,48.704706,20.303,93.054,74.976,0.0001368422807,492.6322107
+run_31_repetition_29,DONE,qwen2:7b,on_device,500,Germany,43.156679,3.727,91.124,73.103,0.0001292544791,465.3161249
+run_24_repetition_26,DONE,qwen2:1.5b,on_device,100,Jeffrey Dahmer,8.82832,12.05,59.338,63.3,3.98E-06,1.43E+01
+run_27_repetition_14,DONE,qwen2:1.5b,remote,100,Donald Trump,7.623668,18.1,0.724,46.8,2.09E-06,7.53E+00
+run_38_repetition_5,DONE,mistral:7b,on_device,1000,Jay-Z,49.805004,16.159,97.603,71.333,0.0001376681465,495.6053275
+run_2_repetition_1,DONE,llama3.1:8b,on_device,1000,Abraham Lincoln,62.056461,3.938,95.671,76.3,0.0001850187321,666.0674355
+run_25_repetition_17,DONE,qwen2:1.5b,on_device,500,Queen Victoria,15.410434,4.325,92.308,63.113,1.52E-05,5.47E+01
+run_35_repetition_22,DONE,qwen2:7b,remote,1000,Jennifer Aniston,16.415921,4.644,0.144,57,1.70E-05,6.13E+01
+run_11_repetition_13,DONE,gemma:2b,remote,1000,The Walking Dead (TV series),11.001107,4.4,0.343,54.925,7.70E-06,2.77E+01
+run_15_repetition_11,DONE,gemma:7b,remote,100,Queen Victoria,9.889418,5.733,0.606,62.567,5.89E-06,2.12E+01
+run_38_repetition_3,DONE,mistral:7b,on_device,1000,Breaking Bad,43.186941,3.394,91.733,74.836,0.0001247460692,449.0858493
+run_25_repetition_10,DONE,qwen2:1.5b,on_device,500,Dwayne Johnson,13.257304,29.233,83.793,62.983,1.17E-05,4.23E+01
+run_17_repetition_27,DONE,gemma:7b,remote,1000,Muhammad Ali,13.199697,5.967,0.258,55.817,1.14E-05,4.12E+01
+run_37_repetition_1,DONE,mistral:7b,on_device,500,Michael Jackson,38.77149,2.476,91.206,74.445,0.0001095450246,394.3620887
+run_18_repetition_17,DONE,phi3:3.8b,on_device,100,Will Smith,14.37889,4.043,64.744,73.314,1.33E-05,4.79E+01
+run_19_repetition_8,DONE,phi3:3.8b,on_device,500,France,52.005613,3.066,95.196,75.329,0.0001501670854,540.6015074
+run_27_repetition_0,DONE,qwen2:1.5b,remote,100,Vietnam War,7.616154,16,0.744,57.1,2.11E-06,7.58E+00
+run_10_repetition_19,DONE,gemma:2b,remote,500,Miley Cyrus,9.795662,18.333,0.428,58.733,6.33E-06,2.28E+01
+run_26_repetition_7,DONE,qwen2:1.5b,on_device,1000,"Diana, Princess of Wales",18.766377,2.782,87.615,61.173,2.07E-05,7.46E+01
+run_14_repetition_2,DONE,gemma:7b,on_device,1000,Tom Brady,40.887518,3.074,85.064,84.587,0.0001035536883,372.7932778
+run_11_repetition_20,DONE,gemma:2b,remote,1000,Angelina Jolie,9.863176,10.933,0.151,53.533,5.82E-06,2.09E+01
+run_24_repetition_28,DONE,qwen2:1.5b,on_device,100,Chernobyl disaster,9.898038,8.067,80.306,62.2,5.82E-06,2.09E+01
+run_28_repetition_17,DONE,qwen2:1.5b,remote,500,Will Smith,8.783304,7.95,0.918,59.2,3.97E-06,1.43E+01
+run_24_repetition_13,DONE,qwen2:1.5b,on_device,100,Rihanna,10.909724,12.15,73.301,61.875,7.69E-06,2.77E+01
+run_4_repetition_13,DONE,llama3.1:8b,remote,500,Marilyn Monroe,14.344286,6.471,0.184,58.529,1.33E-05,4.78E+01
+run_32_repetition_22,DONE,qwen2:7b,on_device,1000,Arnold Schwarzenegger,51.988146,2.193,93.097,71.988,0.0001607957882,578.8648377
+run_20_repetition_8,DONE,phi3:3.8b,on_device,1000,List of Marvel Cinematic Universe films,56.442082,3.658,98.768,76.164,0.0001617343003,582.2434812
+run_7_repetition_4,DONE,gemma:2b,on_device,500,Barack Obama,17.681101,3.89,88.756,62.8,1.90E-05,6.83E+01
+run_11_repetition_19,DONE,gemma:2b,remote,1000,Arnold Schwarzenegger,9.872534,6.167,0.53,63.667,5.79E-06,2.09E+01
+run_14_repetition_10,DONE,gemma:7b,on_device,1000,Muhammad Ali,40.933897,2.687,88.223,76.613,0.0001213453872,436.843394
+run_15_repetition_3,DONE,gemma:7b,remote,100,Johnny Depp,8.775099,13.9,0.728,60.15,3.95E-06,1.42E+01
+run_14_repetition_8,DONE,gemma:7b,on_device,1000,Stephen Hawking,39.835838,3.037,88.532,84.453,0.0001157888387,416.8398194
+run_41_repetition_16,DONE,mistral:7b,remote,1000,Donald Trump,14.279763,5.429,0.225,53.214,1.33E-05,4.79E+01
+run_33_repetition_19,DONE,qwen2:7b,remote,100,Adolf Hitler,9.855952,6.167,0.561,57.967,5.82E-06,2.10E+01
+run_13_repetition_7,DONE,gemma:7b,on_device,500,Taylor Swift,31.824135,2.513,97.319,84.825,0.0002241347823,806.8852163
+run_37_repetition_22,DONE,mistral:7b,on_device,500,Nicki Minaj,46.50158,16.511,92.492,74.925,0.0001315976005,473.7513619
+run_12_repetition_3,DONE,gemma:7b,on_device,100,France,22.201024,4.293,72.627,83.414,5.31E-05,1.91E+02
+run_37_repetition_26,DONE,mistral:7b,on_device,500,Winston Churchill,43.179183,2.879,92.088,74.821,0.0001255586752,452.0112307
+run_1_repetition_27,DONE,llama3.1:8b,on_device,500,Vietnam War,50.940087,3.508,91.931,75.665,0.0001425067415,513.0242696
+run_32_repetition_6,DONE,qwen2:7b,on_device,1000,Charles III,43.189395,3.7,94.453,70.124,0.0001302266508,468.815943
+run_19_repetition_21,DONE,phi3:3.8b,on_device,500,Stephen Hawking,34.300728,3.804,98.481,67.7,8.34E-05,3.00E+02
+run_18_repetition_29,DONE,phi3:3.8b,on_device,100,Tom Cruise,15.458149,4.8,86.456,66.038,1.53E-05,5.50E+01
+run_29_repetition_28,DONE,qwen2:1.5b,remote,1000,Adolf Hitler,9.857632,8.2,0.451,52.4,5.86E-06,2.11E+01
+run_4_repetition_4,DONE,llama3.1:8b,remote,500,Titanic,16.50659,3.111,0.154,57.544,1.69E-05,6.10E+01
+run_23_repetition_10,DONE,phi3:3.8b,remote,1000,World War II,17.60509,2.43,0.192,65.57,1.89E-05,6.80E+01
+run_23_repetition_7,DONE,phi3:3.8b,remote,1000,Australia,13.17845,2.967,0.254,46.917,1.15E-05,4.12E+01
+run_14_repetition_25,DONE,gemma:7b,on_device,1000,Charles III,40.921382,3.194,86.12,84.894,0.0001059700269,381.4920969
+run_37_repetition_18,DONE,mistral:7b,on_device,500,Lady Gaga,42.02347,3.556,95.01,74.744,0.0001237884741,445.6385069
+run_30_repetition_13,DONE,qwen2:7b,on_device,100,Earth,17.704144,3.16,65.971,70.57,1.89E-05,6.79E+01
+run_1_repetition_4,DONE,llama3.1:8b,on_device,500,Manchester United F.C.,43.187529,4.333,90.275,75.176,0.0001283243605,461.9676977
+run_0_repetition_29,DONE,llama3.1:8b,on_device,100,Jennifer Aniston,18.754029,3.982,64.459,70.427,2.08E-05,7.47E+01
+run_35_repetition_19,DONE,qwen2:7b,remote,1000,Charles Manson,19.839102,3.525,0.259,58.05,2.27E-05,8.17E+01
+run_29_repetition_17,DONE,qwen2:1.5b,remote,1000,Lil Wayne,8.771938,7.45,0.273,67.9,3.96E-06,1.43E+01
+run_39_repetition_13,DONE,mistral:7b,remote,100,Arnold Schwarzenegger,8.777581,16.6,0.832,58.5,3.94E-06,1.42E+01
+run_7_repetition_1,DONE,gemma:2b,on_device,500,Kobe Bryant,15.435094,10.988,92.513,60.962,1.54E-05,5.56E+01
+run_9_repetition_20,DONE,gemma:2b,remote,100,Ryan Reynolds,7.681939,18.6,1.58,67,2.08E-06,7.48E+00
+run_13_repetition_21,DONE,gemma:7b,on_device,500,Nicki Minaj,35.443044,3.969,95.986,86.123,9.22E-05,3.32E+02
+run_35_repetition_25,DONE,qwen2:7b,remote,1000,Rihanna,15.404584,2.912,0.166,45.5,1.51E-05,5.45E+01
+run_37_repetition_6,DONE,mistral:7b,on_device,500,William Shakespeare,44.300111,3.344,92,69.465,0.0001276244359,459.4479693
+run_12_repetition_22,DONE,gemma:7b,on_device,100,Australia,21.024188,4.831,69.837,82.862,2.48E-05,8.93E+01
+run_35_repetition_8,DONE,qwen2:7b,remote,1000,Selena Gomez,17.616083,4.42,0.216,55.18,1.88E-05,6.76E+01
+run_11_repetition_2,DONE,gemma:2b,remote,1000,Tom Brady,9.82926,6.6,0.139,54.767,5.82E-06,2.10E+01
+run_41_repetition_3,DONE,mistral:7b,remote,1000,John F. Kennedy,14.30439,4.214,0.193,63.843,1.33E-05,4.78E+01
+run_22_repetition_11,DONE,phi3:3.8b,remote,500,The Walking Dead (TV series),12.011312,5.28,0.303,54.5,9.53E-06,3.43E+01
+run_19_repetition_24,DONE,phi3:3.8b,on_device,500,Manchester United F.C.,38.730064,6.772,98.545,74.41,0.000107012157,385.2437652
+run_37_repetition_0,DONE,mistral:7b,on_device,500,Harry Potter,37.643886,2.964,97.366,75.325,0.0001075575437,387.2071572
+run_40_repetition_0,DONE,mistral:7b,remote,500,Donald Trump,13.210604,10.217,0.343,65.933,1.15E-05,4.12E+01
+run_28_repetition_24,DONE,qwen2:1.5b,remote,500,Arnold Schwarzenegger,9.875206,6.5,0.532,54.767,5.83E-06,2.10E+01
+run_25_repetition_2,DONE,qwen2:1.5b,on_device,500,Cristiano Ronaldo,13.244764,6.167,83.43,62.767,1.15E-05,4.15E+01
+run_12_repetition_15,DONE,gemma:7b,on_device,100,Bruce Lee,15.408477,4.037,86.616,85.525,1.51E-05,5.45E+01
+run_30_repetition_5,DONE,qwen2:7b,on_device,100,Elon Musk,19.90128,3.25,71.224,71.642,2.27E-05,8.18E+01
+run_31_repetition_19,DONE,qwen2:7b,on_device,500,"Meghan, Duchess of Sussex",44.232726,3.938,90.456,72.932,0.0001308402006,471.0247223
+run_1_repetition_13,DONE,llama3.1:8b,on_device,500,Scarlett Johansson,43.14243,7.47,89.479,74.821,0.0001274597129,458.8549666
+run_26_repetition_2,DONE,qwen2:1.5b,on_device,1000,Barack Obama,19.870754,3.4,98.305,62.567,2.26E-05,8.15E+01
+run_2_repetition_14,DONE,llama3.1:8b,on_device,1000,Donald Trump,67.537956,3.24,93.101,72.547,0.0002100558905,756.2012057
+run_19_repetition_23,DONE,phi3:3.8b,on_device,500,Titanic,38.769895,2.879,95.462,64.4,0.0001065453215,383.5631576
+run_31_repetition_25,DONE,qwen2:7b,on_device,500,Israel,48.719979,18.963,91.614,65.208,0.0001404176268,505.5034566
+run_8_repetition_3,DONE,gemma:2b,on_device,1000,Adolf Hitler,17.645203,4.59,99.279,62.8,1.89E-05,6.81E+01
+run_13_repetition_15,DONE,gemma:7b,on_device,500,Chernobyl disaster,35.472728,3.027,90.328,84.685,9.15E-05,3.29E+02
+run_4_repetition_18,DONE,llama3.1:8b,remote,500,John Cena,14.332938,4.114,0.224,75.857,1.33E-05,4.79E+01
+run_20_repetition_1,DONE,phi3:3.8b,on_device,1000,Japan,35.424569,9.981,94.27,67.823,8.54E-05,3.07E+02
+run_33_repetition_7,DONE,qwen2:7b,remote,100,Academy Awards,9.869173,6.133,0.559,64.467,5.83E-06,2.10E+01
+run_3_repetition_2,DONE,llama3.1:8b,remote,100,Elvis Presley,8.775875,8.2,0.363,65.7,3.96E-06,1.43E+01
+run_18_repetition_6,DONE,phi3:3.8b,on_device,100,Jeffrey Dahmer,17.713146,4.28,85.08,75.32,1.92E-05,6.93E+01
+run_24_repetition_21,DONE,qwen2:1.5b,on_device,100,Titanic,8.774473,10.7,78.883,62.85,3.97E-06,1.43E+01
+run_7_repetition_18,DONE,gemma:2b,on_device,500,Donald Trump,18.807574,2.818,87.525,59.745,2.08E-05,7.50E+01
+run_33_repetition_10,DONE,qwen2:7b,remote,100,Lil Wayne,9.791183,4.267,0.143,57.8,5.82E-06,2.10E+01
+run_33_repetition_20,DONE,qwen2:7b,remote,100,World War II,10.975207,5.275,0.341,45.625,7.68E-06,2.77E+01
+run_1_repetition_2,DONE,llama3.1:8b,on_device,500,Pablo Escobar,44.165079,3.362,89.994,71.815,0.0001296022907,466.5682465
+run_11_repetition_16,DONE,gemma:2b,remote,1000,Harry Potter,9.85483,5.767,0.48,52.9,5.85E-06,2.11E+01
+run_40_repetition_9,DONE,mistral:7b,remote,500,Abraham Lincoln,16.529274,3.578,0.171,55.233,1.70E-05,6.11E+01
+run_23_repetition_13,DONE,phi3:3.8b,remote,1000,Academy Awards,12.07357,3.66,0.304,46.82,9.56E-06,3.44E+01
+run_6_repetition_1,DONE,gemma:2b,on_device,100,Vietnam War,8.779524,8.55,86.085,65.7,3.98E-06,1.43E+01
+run_36_repetition_9,DONE,mistral:7b,on_device,100,Nicki Minaj,19.922949,19.983,73.376,73.167,2.34E-05,8.42E+01
+run_3_repetition_21,DONE,llama3.1:8b,remote,100,Brad Pitt,8.744337,29.15,2.274,52.7,3.94E-06,1.42E+01
+run_17_repetition_6,DONE,gemma:7b,remote,1000,Lady Gaga,13.189513,4.267,0.297,64.75,1.14E-05,4.11E+01
+run_41_repetition_14,DONE,mistral:7b,remote,1000,"Prince Philip, Duke of Edinburgh",37.635097,2.989,0.261,56.314,5.80E-05,2.09E+02
+run_14_repetition_3,DONE,gemma:7b,on_device,1000,Jay-Z,38.783513,3.245,93.758,84.866,0.000112912514,406.4850505
+run_10_repetition_22,DONE,gemma:2b,remote,500,Tupac Shakur,8.761256,15.8,0.253,58.05,3.95E-06,1.42E+01
+run_7_repetition_3,DONE,gemma:2b,on_device,500,Albert Einstein,17.655541,3.43,96.226,66.01,1.90E-05,6.85E+01
+run_0_repetition_14,DONE,llama3.1:8b,on_device,100,Stephen Hawking,17.658335,4.42,64.444,67.26,1.89E-05,6.82E+01
+run_12_repetition_10,DONE,gemma:7b,on_device,100,New York City,19.914514,4,64.602,82.85,2.33E-05,8.40E+01
+run_9_repetition_6,DONE,gemma:2b,remote,100,Lil Wayne,7.63228,17.9,0.488,55.7,2.09E-06,7.52E+00
+run_10_repetition_14,DONE,gemma:2b,remote,500,Michael Jackson,8.766036,7.45,0.216,53.95,3.96E-06,1.43E+01
+run_9_repetition_5,DONE,gemma:2b,remote,100,John F. Kennedy,7.642066,13.8,1.711,76.3,2.09E-06,7.52E+00
+run_27_repetition_4,DONE,qwen2:1.5b,remote,100,Steve Jobs,7.656289,12.5,1.299,68.6,2.09E-06,7.53E+00
+run_9_repetition_2,DONE,gemma:2b,remote,100,Star Wars,8.760974,7.5,0.669,55.1,3.95E-06,1.42E+01
+run_5_repetition_15,DONE,llama3.1:8b,remote,1000,List of Marvel Cinematic Universe films,30.918324,3.386,0.311,59.45,3.15E-05,1.13E+02
+run_10_repetition_23,DONE,gemma:2b,remote,500,Steve Jobs,9.923298,10.333,0.562,64.533,5.82E-06,2.09E+01
+run_36_repetition_2,DONE,mistral:7b,on_device,100,"Prince Philip, Duke of Edinburgh",18.846008,2.773,75.12,72.6,2.11E-05,7.60E+01
+run_25_repetition_8,DONE,qwen2:1.5b,on_device,500,Lil Wayne,19.803974,3.975,99.605,53.742,2.25E-05,8.11E+01
+run_15_repetition_5,DONE,gemma:7b,remote,100,Stephen Hawking,8.755685,9.1,0.947,48.5,3.97E-06,1.43E+01
+run_18_repetition_16,DONE,phi3:3.8b,on_device,100,Germany,15.449812,4.15,85.163,66.762,1.53E-05,5.50E+01
+run_20_repetition_22,DONE,phi3:3.8b,on_device,1000,Darth Vader,59.803979,4.617,96.554,76.325,0.0001682423662,605.6725185
+run_14_repetition_23,DONE,gemma:7b,on_device,1000,Joe Biden,38.823131,3.031,93.167,85.345,0.000113797603,409.6713707
+run_9_repetition_10,DONE,gemma:2b,remote,100,Nicki Minaj,7.644352,14.6,1.034,62.6,2.09E-06,7.53E+00
+run_3_repetition_8,DONE,llama3.1:8b,remote,100,The Walking Dead (TV series),8.751612,9.65,0.955,66.3,3.96E-06,1.43E+01
+run_39_repetition_21,DONE,mistral:7b,remote,100,LeBron James,8.747916,10.35,0.779,55.6,3.97E-06,1.43E+01
+run_30_repetition_25,DONE,qwen2:7b,on_device,100,Lady Gaga,24.355538,3.1,80.393,72.1,5.64E-05,2.03E+02
+run_36_repetition_22,DONE,mistral:7b,on_device,100,Adolf Hitler,23.241399,3.647,72.618,73.913,5.42E-05,1.95E+02
+run_16_repetition_11,DONE,gemma:7b,remote,500,Elon Musk,14.293094,4.429,0.188,51.171,1.32E-05,4.76E+01
+run_35_repetition_17,DONE,qwen2:7b,remote,1000,Israel,18.739144,2.564,0.185,57.782,2.07E-05,7.47E+01
+run_14_repetition_0,DONE,gemma:7b,on_device,1000,Charles Manson,40.852035,3.503,91.849,83.871,0.0001439081884,518.0694781
+run_18_repetition_7,DONE,phi3:3.8b,on_device,100,Germany,13.243919,5.067,72.864,74.85,1.17E-05,4.22E+01
+run_12_repetition_5,DONE,gemma:7b,on_device,100,Jennifer Aniston,12.184282,8.2,82.616,86.14,9.52E-06,3.43E+01
+run_8_repetition_27,DONE,gemma:2b,on_device,1000,Albert Einstein,19.793796,3.5,87.185,60.875,2.26E-05,8.15E+01
+run_41_repetition_20,DONE,mistral:7b,remote,1000,Marilyn Monroe,15.417695,2.725,0.245,53.775,1.51E-05,5.43E+01
+run_29_repetition_1,DONE,qwen2:1.5b,remote,1000,Eminem,8.749724,9.925,0.337,54.625,7.68E-06,2.77E+01
+run_6_repetition_11,DONE,gemma:2b,on_device,100,Tom Brady,9.894532,12.433,97.831,65.433,5.86E-06,2.11E+01
+run_3_repetition_17,DONE,llama3.1:8b,remote,100,Charles Manson,7.628469,16.9,1.422,49.5,2.09E-06,7.51E+00
+run_18_repetition_19,DONE,phi3:3.8b,on_device,100,Ryan Reynolds,14.303304,5.5,86.994,75.614,1.35E-05,4.85E+01
+run_31_repetition_3,DONE,qwen2:7b,on_device,500,Ryan Reynolds,43.130151,3.388,95.151,73.07,0.0001298529972,467.4707899
+run_11_repetition_24,DONE,gemma:2b,remote,1000,Germany,10.988408,4.975,0.365,55.25,7.68E-06,2.77E+01
+run_24_repetition_23,DONE,qwen2:1.5b,on_device,100,Marilyn Monroe,11.018641,15.7,77.281,63.3,7.69E-06,2.77E+01
+run_28_repetition_26,DONE,qwen2:1.5b,remote,500,Academy Awards,8.794183,10.1,0.504,64.8,3.95E-06,1.42E+01
+run_2_repetition_4,DONE,llama3.1:8b,on_device,1000,Dwayne Johnson,76.347962,3.544,94.807,69.319,0.0002358042444,848.8952798
+run_19_repetition_10,DONE,phi3:3.8b,on_device,500,Arnold Schwarzenegger,61.919162,3.394,95.699,75.1,0.0001722489167,620.0961003
+run_7_repetition_10,DONE,gemma:2b,on_device,500,Mark Zuckerberg,15.443068,4.012,100,64.688,1.52E-05,5.48E+01
+run_3_repetition_10,DONE,llama3.1:8b,remote,100,Tupac Shakur,8.759131,11.3,1.066,53.8,4.08E-06,1.47E+01
+run_1_repetition_23,DONE,llama3.1:8b,on_device,500,Lady Gaga,46.530824,17.853,90.855,75.639,0.0001357451787,488.6826434
+run_19_repetition_17,DONE,phi3:3.8b,on_device,500,Vietnam War,42.028613,3.475,99.307,64.75,0.0001175962326,423.3464374
+run_13_repetition_25,DONE,gemma:7b,on_device,500,Australia,37.737468,3.532,90.49,85.139,0.0001118587476,402.6914914
+run_4_repetition_5,DONE,llama3.1:8b,remote,500,The Beatles,14.283969,6.157,0.191,57.9,1.33E-05,4.78E+01
+run_26_repetition_9,DONE,qwen2:1.5b,on_device,1000,Lionel Messi,15.458071,11.238,92.789,62.975,1.54E-05,5.55E+01
+run_10_repetition_21,DONE,gemma:2b,remote,500,Steve Jobs,9.855182,6.6,0.474,59.133,5.86E-06,2.11E+01
+run_33_repetition_13,DONE,qwen2:7b,remote,100,How I Met Your Mother,9.863591,5.433,0.544,54.633,5.83E-06,2.10E+01
+run_21_repetition_1,DONE,phi3:3.8b,remote,100,Marilyn Monroe,8.744806,7.65,0.7,56.45,3.96E-06,1.43E+01
+run_23_repetition_6,DONE,phi3:3.8b,remote,1000,"Prince Philip, Duke of Edinburgh",34.251236,2.828,0.315,55.964,3.70E-05,1.33E+02
+run_14_repetition_21,DONE,gemma:7b,on_device,1000,France,34.289979,3.244,99.183,85.524,9.02E-05,3.25E+02
+run_33_repetition_21,DONE,qwen2:7b,remote,100,John Cena,10.929715,4.075,0.332,53.325,7.67E-06,2.76E+01
+run_24_repetition_8,DONE,qwen2:1.5b,on_device,100,Earth,9.914343,7.9,65.548,60.633,5.84E-06,2.10E+01
+run_31_repetition_22,DONE,qwen2:7b,on_device,500,World War II,53.1282,2.912,92.635,70.307,0.0001628963659,586.4269172
+run_26_repetition_25,DONE,qwen2:1.5b,on_device,1000,The Big Bang Theory,16.5381,3.578,94.203,62.156,1.71E-05,6.14E+01
+run_18_repetition_28,DONE,phi3:3.8b,on_device,100,Brad Pitt,15.504153,10.075,77.71,75.05,1.52E-05,5.48E+01
+run_18_repetition_3,DONE,phi3:3.8b,on_device,100,Rihanna,14.352614,4.714,89.395,75.957,1.33E-05,4.80E+01
+run_12_repetition_11,DONE,gemma:7b,on_device,100,Titanic,17.699908,16.73,70.225,83.34,1.97E-05,7.08E+01
+run_12_repetition_20,DONE,gemma:7b,on_device,100,The Walking Dead (TV series),21.112223,5.431,83.702,83.946,2.50E-05,8.99E+01
+run_20_repetition_12,DONE,phi3:3.8b,on_device,1000,Tom Brady,72.007058,3.234,97.745,76.12,0.00020964286,754.7142961
+run_6_repetition_8,DONE,gemma:2b,on_device,100,Manchester United F.C.,11.057004,6.225,52.591,57.85,7.71E-06,2.77E+01
+run_20_repetition_10,DONE,phi3:3.8b,on_device,1000,Nicki Minaj,75.35395,2.821,97.472,75.994,0.0002155380712,775.9370562
+run_4_repetition_8,DONE,llama3.1:8b,remote,500,Adolf Hitler,16.50663,2.844,0.189,52.411,1.69E-05,6.10E+01
+run_7_repetition_16,DONE,gemma:2b,on_device,500,Russia,23.232245,5.54,87.739,61.313,5.37E-05,1.93E+02
+run_6_repetition_12,DONE,gemma:2b,on_device,100,New York City,8.691394,8.65,94.655,62.8,3.97E-06,1.43E+01
+run_32_repetition_11,DONE,qwen2:7b,on_device,1000,Michael Jackson,57.564494,3.098,92.431,73.126,0.0001803174225,649.1427211
+run_16_repetition_3,DONE,gemma:7b,remote,500,The Big Bang Theory,14.3143,5.357,0.234,63.029,1.33E-05,4.80E+01
+run_26_repetition_21,DONE,qwen2:1.5b,on_device,1000,Canada,17.648427,4.13,89.877,56.18,1.89E-05,6.79E+01
+run_36_repetition_19,DONE,mistral:7b,on_device,100,How I Met Your Mother,18.83151,5.509,67.273,73.564,2.07E-05,7.46E+01
+run_36_repetition_3,DONE,mistral:7b,on_device,100,Jay-Z,23.197679,3.527,82.369,70.02,5.42E-05,1.95E+02
+run_27_repetition_28,DONE,qwen2:1.5b,remote,100,Michael Jackson,8.742414,7,0.762,58,3.98E-06,1.43E+01
+run_41_repetition_9,DONE,mistral:7b,remote,1000,Lady Gaga,15.399463,3.7,0.432,56.012,1.52E-05,5.46E+01
+run_6_repetition_23,DONE,gemma:2b,on_device,100,John Cena,15.431694,5.475,76.822,63.575,1.52E-05,5.46E+01
+run_23_repetition_22,DONE,phi3:3.8b,remote,1000,Kanye West,14.314914,6.214,0.178,55.814,1.33E-05,4.79E+01
+run_5_repetition_0,DONE,llama3.1:8b,remote,1000,Eminem,22.090636,2.686,0.165,52.3,5.16E-05,1.86E+02
+run_15_repetition_26,DONE,gemma:7b,remote,100,Mark Zuckerberg,9.908827,9.7,0.536,47.267,5.81E-06,2.09E+01
+run_36_repetition_18,DONE,mistral:7b,on_device,100,Kim Kardashian,15.489061,3.588,86.225,74.925,1.55E-05,5.57E+01
+run_12_repetition_1,DONE,gemma:7b,on_device,100,Keanu Reeves,12.119859,6.76,100,75.68,9.70E-06,3.49E+01
+run_3_repetition_6,DONE,llama3.1:8b,remote,100,Charles Manson,8.771237,10.8,0.862,65.1,3.96E-06,1.42E+01
+run_35_repetition_21,DONE,qwen2:7b,remote,1000,LeBron James,17.645295,3.33,0.14,63.31,1.89E-05,6.80E+01
+run_22_repetition_12,DONE,phi3:3.8b,remote,500,Jay-Z,13.17556,3.117,0.218,45.517,1.14E-05,4.11E+01
+run_9_repetition_7,DONE,gemma:2b,remote,100,Mark Zuckerberg,7.623193,14.6,1.483,54.5,2.09E-06,7.52E+00
+run_3_repetition_3,DONE,llama3.1:8b,remote,100,Miley Cyrus,7.669377,14.8,1.689,67.2,2.09E-06,7.53E+00
+run_20_repetition_13,DONE,phi3:3.8b,on_device,1000,Justin Bieber,43.22593,2.982,97.993,76.124,0.0001189324745,428.1569082
+run_41_repetition_27,DONE,mistral:7b,remote,1000,Angelina Jolie,16.518631,2.956,0.156,58.111,1.70E-05,6.12E+01
+run_21_repetition_12,DONE,phi3:3.8b,remote,100,September 11 attacks,8.757413,41.4,0.618,58.15,4.13E-06,1.49E+01
+run_9_repetition_15,DONE,gemma:2b,remote,100,Singapore,7.652189,12.7,1.264,55.5,2.09E-06,7.53E+00
+run_23_repetition_1,DONE,phi3:3.8b,remote,1000,Elon Musk,14.25198,2.629,0.2,55.671,1.33E-05,4.78E+01
+run_38_repetition_29,DONE,mistral:7b,on_device,1000,Chernobyl disaster,45.365535,3.166,92.217,70.334,0.0001284720283,462.4993017
+run_3_repetition_28,DONE,llama3.1:8b,remote,100,Chernobyl disaster,7.588906,16,1.404,45.3,2.09E-06,7.51E+00
+run_39_repetition_4,DONE,mistral:7b,remote,100,Kim Kardashian,9.899873,40,0.478,61.567,6.04E-06,2.17E+01
+run_2_repetition_8,DONE,llama3.1:8b,on_device,1000,Taylor Swift,70.904511,2.795,97.741,73.822,0.0002254207765,811.5147954
+run_36_repetition_23,DONE,mistral:7b,on_device,100,John F. Kennedy,15.410781,6.7,91.092,75.462,1.53E-05,5.51E+01
+run_8_repetition_26,DONE,gemma:2b,on_device,1000,Australia,21.018966,2.515,98.037,61.046,2.46E-05,8.86E+01
+run_9_repetition_24,DONE,gemma:2b,remote,100,Earth,8.772066,8,0.832,56.5,3.97E-06,1.43E+01
+run_26_repetition_5,DONE,qwen2:1.5b,on_device,1000,Eminem,15.477666,4.55,94.608,63.188,1.52E-05,5.47E+01
+run_24_repetition_14,DONE,qwen2:1.5b,on_device,100,Nicki Minaj,9.90568,6.4,71.163,55.067,5.85E-06,2.11E+01
+run_11_repetition_5,DONE,gemma:2b,remote,1000,Titanic,9.849794,7.733,0.467,56.267,5.81E-06,2.09E+01
+run_0_repetition_27,DONE,llama3.1:8b,on_device,100,France,17.683109,3.28,78.005,72.55,1.92E-05,6.92E+01
+run_17_repetition_13,DONE,gemma:7b,remote,1000,Abraham Lincoln,14.212511,3.714,0.183,59.343,1.33E-05,4.78E+01
+run_6_repetition_0,DONE,gemma:2b,on_device,100,New York City,10.945945,17.875,73.794,62.925,7.71E-06,2.77E+01
+run_11_repetition_23,DONE,gemma:2b,remote,1000,Manchester United F.C.,10.962167,4.65,0.36,57.9,7.66E-06,2.76E+01
+run_41_repetition_2,DONE,mistral:7b,remote,1000,Germany,16.494468,4.189,0.152,52.111,1.69E-05,6.10E+01
+run_6_repetition_16,DONE,gemma:2b,on_device,100,Michael Jackson,12.152825,6.16,68.884,63.04,9.59E-06,3.45E+01
+run_39_repetition_17,DONE,mistral:7b,remote,100,COVID-19 pandemic,8.732666,9.4,0.907,64.2,3.96E-06,1.43E+01
+run_1_repetition_0,DONE,llama3.1:8b,on_device,500,The Walking Dead (TV series),47.2113,12.789,91.016,71.217,0.0001862756512,670.5923443
+run_24_repetition_7,DONE,qwen2:1.5b,on_device,100,Albert Einstein,8.793471,10.85,85.866,60.95,3.97E-06,1.43E+01
+run_14_repetition_17,DONE,gemma:7b,on_device,1000,Albert Einstein,42.15261,5.088,91.343,85.134,0.0001302384234,468.8583242
+run_13_repetition_16,DONE,gemma:7b,on_device,500,China,38.77105,2.821,86.806,75.655,0.0001140260073,410.4936261
+run_25_repetition_6,DONE,qwen2:1.5b,on_device,500,India,15.443246,3.9,88.072,63.212,1.52E-05,5.47E+01
+run_34_repetition_25,DONE,qwen2:7b,remote,500,Taylor Swift,12.058676,17.6,0.373,56.3,9.74E-06,3.51E+01
+run_15_repetition_21,DONE,gemma:7b,remote,100,Kim Kardashian,8.686334,5.75,0.747,57.55,3.97E-06,1.43E+01
+run_18_repetition_8,DONE,phi3:3.8b,on_device,100,William Shakespeare,15.476688,4.075,80.807,67.425,1.52E-05,5.45E+01
+run_25_repetition_21,DONE,qwen2:1.5b,on_device,500,Germany,14.338083,5.029,87.72,60.757,1.33E-05,4.79E+01
+run_40_repetition_2,DONE,mistral:7b,remote,500,Marilyn Monroe,14.244974,4.243,0.212,56.043,1.33E-05,4.77E+01
+run_30_repetition_19,DONE,qwen2:7b,on_device,100,Ryan Reynolds,23.228495,3,79.638,69.36,5.42E-05,1.95E+02
+run_32_repetition_10,DONE,qwen2:7b,on_device,1000,Elon Musk,44.349515,3.426,92.086,72.379,0.0001317688346,474.3678047
+run_38_repetition_22,DONE,mistral:7b,on_device,1000,Elvis Presley,44.225254,3.735,98.909,68.574,0.0001274429323,458.7945563
+run_30_repetition_9,DONE,qwen2:7b,on_device,100,Lionel Messi,26.528354,17.383,81.454,71.222,7.61E-05,2.74E+02
+run_27_repetition_13,DONE,qwen2:1.5b,remote,100,Arnold Schwarzenegger,8.720599,6.4,0.732,54.5,3.94E-06,1.42E+01
+run_38_repetition_7,DONE,mistral:7b,on_device,1000,Bill Gates,43.161891,3.794,90.818,71.579,0.0001262738173,454.5857425
+run_31_repetition_1,DONE,qwen2:7b,on_device,500,Johnny Depp,38.850826,3.745,93.656,70.062,0.0001133336869,408.0012729
+run_28_repetition_25,DONE,qwen2:1.5b,remote,500,Rihanna,8.736599,35.2,0.257,62.2,4.03E-06,1.45E+01
+run_31_repetition_2,DONE,qwen2:7b,on_device,500,Tom Cruise,40.947614,2.59,96.832,71.819,0.0001199304853,431.749747
+run_2_repetition_3,DONE,llama3.1:8b,on_device,1000,India,83.093399,3.042,94.164,75.914,0.0002622752473,944.1908904
+run_15_repetition_1,DONE,gemma:7b,remote,100,John Cena,8.767789,18.85,0.871,57.75,3.94E-06,1.42E+01
+run_20_repetition_24,DONE,phi3:3.8b,on_device,1000,Jay-Z,55.390585,12.68,99.482,67.87,0.0001719921005,619.1715618
+run_17_repetition_25,DONE,gemma:7b,remote,1000,List of highest-grossing films,14.288357,3.529,0.216,65.014,1.33E-05,4.79E+01
+run_30_repetition_23,DONE,qwen2:7b,on_device,100,Winston Churchill,22.157968,3.057,77.479,71.807,5.21E-05,1.88E+02
+run_24_repetition_3,DONE,qwen2:1.5b,on_device,100,Michael Jordan,9.857878,6.033,57.918,62.167,5.82E-06,2.10E+01
+run_13_repetition_17,DONE,gemma:7b,on_device,500,"Prince Philip, Duke of Edinburgh",38.796583,3.372,87.324,72.262,0.000113638602,409.0989672
+run_32_repetition_3,DONE,qwen2:7b,on_device,1000,Jennifer Aniston,50.926267,2.995,96.473,73.285,0.000143049034,514.9765224
+run_7_repetition_13,DONE,gemma:2b,on_device,500,Star Wars,19.822971,6.683,87.678,65.242,2.26E-05,8.15E+01
+run_33_repetition_5,DONE,qwen2:7b,remote,100,Bill Gates,9.855927,5.733,0.494,45.667,5.82E-06,2.10E+01
+run_33_repetition_11,DONE,qwen2:7b,remote,100,Game of Thrones,9.868769,6.867,0.524,56.333,5.84E-06,2.10E+01
+run_37_repetition_20,DONE,mistral:7b,on_device,500,Jeffrey Dahmer,44.252178,2.894,90.326,73.491,0.0001272142206,457.9711941
+run_6_repetition_9,DONE,gemma:2b,on_device,100,Ryan Reynolds,13.241292,4.183,70.913,64.8,1.15E-05,4.12E+01
+run_23_repetition_25,DONE,phi3:3.8b,remote,1000,John F. Kennedy,17.679069,3.05,0.289,65.04,1.89E-05,6.81E+01
+run_18_repetition_15,DONE,phi3:3.8b,on_device,100,John Cena,15.476922,3.6,83.401,75.225,1.55E-05,5.57E+01
+run_11_repetition_11,DONE,gemma:2b,remote,1000,Star Wars,10.969605,4.825,0.356,54.85,7.67E-06,2.76E+01
+run_1_repetition_12,DONE,llama3.1:8b,on_device,500,Lady Gaga,45.434574,3.06,90.489,73.414,0.000132054809,475.3973126
+run_9_repetition_25,DONE,gemma:2b,remote,100,Steve Jobs,7.627914,14.1,0.747,52.5,2.10E-06,7.55E+00
+run_35_repetition_26,DONE,qwen2:7b,remote,1000,Cristiano Ronaldo,18.739935,4.191,0.21,55.718,2.08E-05,7.47E+01
+run_16_repetition_23,DONE,gemma:7b,remote,500,Charles Manson,13.190168,7.817,0.081,59.017,1.14E-05,4.09E+01
+run_33_repetition_24,DONE,qwen2:7b,remote,100,Eminem,10.933378,7.6,0.471,57.725,7.71E-06,2.78E+01
+run_24_repetition_16,DONE,qwen2:1.5b,on_device,100,Earth,9.874664,8.7,84.371,58.933,5.83E-06,2.10E+01
+run_21_repetition_25,DONE,phi3:3.8b,remote,100,The Walking Dead (TV series),8.80437,6.9,0.947,66.2,3.97E-06,1.43E+01
+run_21_repetition_3,DONE,phi3:3.8b,remote,100,Titanic,9.866471,5.933,0.586,55.633,5.81E-06,2.09E+01
+run_11_repetition_8,DONE,gemma:2b,remote,1000,Keanu Reeves,9.875142,5.367,0.42,56.233,5.83E-06,2.10E+01
+run_35_repetition_6,DONE,qwen2:7b,remote,1000,Vietnam War,19.850174,2.042,0.221,64.492,2.26E-05,8.15E+01
+run_16_repetition_17,DONE,gemma:7b,remote,500,Tom Brady,13.205574,4.217,0.25,74.183,1.14E-05,4.12E+01
+run_39_repetition_7,DONE,mistral:7b,remote,100,Rihanna,9.888791,6.7,0.533,66.533,5.81E-06,2.09E+01
+run_38_repetition_20,DONE,mistral:7b,on_device,1000,Cristiano Ronaldo,42.051272,4.412,97.264,72.009,0.0001237191815,445.3890534
+run_41_repetition_5,DONE,mistral:7b,remote,1000,Albert Einstein,15.426189,3.262,0.211,76.55,1.51E-05,5.45E+01
+run_28_repetition_2,DONE,qwen2:1.5b,remote,500,Michael Jackson,9.876696,9.7,0.489,65.067,5.80E-06,2.09E+01
+run_32_repetition_19,DONE,qwen2:7b,on_device,1000,Brad Pitt,57.556082,3.63,97.874,71.935,0.0001806619439,650.3829982
+run_26_repetition_26,DONE,qwen2:1.5b,on_device,1000,China,17.667941,4.9,89.369,62.51,1.89E-05,6.79E+01
+run_21_repetition_28,DONE,phi3:3.8b,remote,100,Bill Gates,8.796783,6.75,0.88,65.8,3.97E-06,1.43E+01
+run_14_repetition_16,DONE,gemma:7b,on_device,1000,Lady Gaga,41.024329,3.229,88.714,74.168,0.0001219772133,439.117968
+run_9_repetition_16,DONE,gemma:2b,remote,100,United Kingdom,8.710824,9.75,0.875,49.55,3.97E-06,1.43E+01
+run_28_repetition_16,DONE,qwen2:1.5b,remote,500,Lionel Messi,8.739057,9.2,0.73,54.75,3.98E-06,1.43E+01
+run_21_repetition_27,DONE,phi3:3.8b,remote,100,Justin Bieber,8.77286,8.05,0.775,67.55,3.96E-06,1.43E+01
+run_40_repetition_12,DONE,mistral:7b,remote,500,Barack Obama,13.196606,24.217,0.231,61.933,1.15E-05,4.14E+01
+run_4_repetition_28,DONE,llama3.1:8b,remote,500,Charles III,14.210153,3.343,0.19,57.914,1.33E-05,4.77E+01
+run_41_repetition_22,DONE,mistral:7b,remote,1000,Tom Cruise,14.423994,4.733,0.163,60.722,1.72E-05,6.19E+01
+run_27_repetition_17,DONE,qwen2:1.5b,remote,100,Rihanna,7.631456,15,1.221,55.9,2.08E-06,7.50E+00
+run_5_repetition_19,DONE,llama3.1:8b,remote,1000,The Beatles,23.159375,3.08,0.244,52.287,5.33E-05,1.92E+02
+run_0_repetition_28,DONE,llama3.1:8b,on_device,100,Germany,17.737672,16.17,62.184,73.31,1.92E-05,6.92E+01
+run_22_repetition_26,DONE,phi3:3.8b,remote,500,Elon Musk,15.410752,3.825,0.194,58.225,1.51E-05,5.43E+01
+run_28_repetition_23,DONE,qwen2:1.5b,remote,500,Germany,8.748572,8.35,0.713,54.75,3.94E-06,1.42E+01
+run_31_repetition_21,DONE,qwen2:7b,on_device,500,World War I,56.468814,3.571,97.496,73.622,0.0001788528696,643.8703307
+run_22_repetition_9,DONE,phi3:3.8b,remote,500,List of presidents of the United States,17.615791,2.12,0.087,56.08,1.88E-05,6.77E+01
+run_21_repetition_22,DONE,phi3:3.8b,remote,100,COVID-19 pandemic,8.745981,5.85,0.787,49.2,3.96E-06,1.43E+01
+run_37_repetition_11,DONE,mistral:7b,on_device,500,Pablo Escobar,40.928756,2.445,99.745,75.552,0.0001459424738,525.3929055
+run_24_repetition_0,DONE,qwen2:1.5b,on_device,100,List of highest-grossing films,9.920568,5.867,71.697,54.033,5.83E-06,2.10E+01
+run_32_repetition_17,DONE,qwen2:7b,on_device,1000,Miley Cyrus,57.559916,2.8,97.999,73.591,0.0001803781767,649.3614361
+run_29_repetition_5,DONE,qwen2:1.5b,remote,1000,Earth,12.01914,4.22,0.325,57.38,9.51E-06,3.42E+01
+run_40_repetition_16,DONE,mistral:7b,remote,500,Chernobyl disaster,13.11358,4.75,0.199,55.417,1.14E-05,4.11E+01
+run_33_repetition_27,DONE,qwen2:7b,remote,100,Michael Jordan,9.834048,8.633,0.539,55.4,5.79E-06,2.08E+01
+run_10_repetition_5,DONE,gemma:2b,remote,500,Marilyn Monroe,8.70149,8.75,0.826,58.05,3.97E-06,1.43E+01
+run_1_repetition_14,DONE,llama3.1:8b,on_device,500,The Big Bang Theory,45.384624,3.497,89.404,72.277,0.000132398814,476.6357304
+run_2_repetition_6,DONE,llama3.1:8b,on_device,1000,Scarlett Johansson,75.277949,3.789,93.721,72.418,0.0002307586845,830.731264
+run_28_repetition_15,DONE,qwen2:1.5b,remote,500,World War I,9.876172,6.233,0.505,53.433,5.81E-06,2.09E+01
+run_6_repetition_17,DONE,gemma:2b,on_device,100,Lil Wayne,9.933163,9,67.436,63,5.84E-06,2.10E+01
+run_38_repetition_8,DONE,mistral:7b,on_device,1000,Donald Trump,49.788481,3.331,91.522,74.179,0.0001369554368,493.0395725
+run_6_repetition_14,DONE,gemma:2b,on_device,100,The Walking Dead (TV series),12.121253,6.28,71.394,65.06,9.61E-06,3.46E+01
+run_38_repetition_24,DONE,mistral:7b,on_device,1000,Johnny Depp,50.917463,4.135,99.934,75.722,0.0001392110181,501.1596651
+run_17_repetition_15,DONE,gemma:7b,remote,1000,Vladimir Putin,14.371745,3.986,0.173,58.529,1.32E-05,4.76E+01
+run_5_repetition_20,DONE,llama3.1:8b,remote,1000,Game of Thrones,18.735912,2.545,0.262,72.464,2.08E-05,7.49E+01
+run_28_repetition_20,DONE,qwen2:1.5b,remote,500,COVID-19 pandemic,9.842328,5.333,0.463,55.533,5.83E-06,2.10E+01
+run_35_repetition_3,DONE,qwen2:7b,remote,1000,William Shakespeare,17.631597,2.9,0.169,57.32,1.88E-05,6.77E+01
+run_24_repetition_27,DONE,qwen2:1.5b,on_device,100,Scarlett Johansson,11.081916,5.25,75.658,62.85,7.70E-06,2.77E+01
+run_41_repetition_21,DONE,mistral:7b,remote,1000,Australia,14.288081,5.571,0.182,46.586,1.32E-05,4.76E+01
+run_21_repetition_21,DONE,phi3:3.8b,remote,100,Japan,9.856946,8.533,0.799,58.233,5.83E-06,2.10E+01
+run_17_repetition_20,DONE,gemma:7b,remote,1000,Stephen Hawking,13.197163,10.317,0.259,56.517,1.14E-05,4.09E+01
+run_8_repetition_21,DONE,gemma:2b,on_device,1000,Jay-Z,19.79629,9.708,88.685,64.425,2.28E-05,8.22E+01
+run_30_repetition_28,DONE,qwen2:7b,on_device,100,Jennifer Aniston,19.895943,3.108,95.382,72.158,2.26E-05,8.15E+01
+run_32_repetition_18,DONE,qwen2:7b,on_device,1000,Donald Trump,55.35083,2.784,99.24,72.482,0.0001807132014,650.5675249
+run_22_repetition_6,DONE,phi3:3.8b,remote,500,"Meghan, Duchess of Sussex",14.313602,4.471,0.202,51.957,1.33E-05,4.78E+01
+run_20_repetition_7,DONE,phi3:3.8b,on_device,1000,World War II,42.059685,3.744,96.443,67.478,0.0001181891504,425.4809413
+run_17_repetition_12,DONE,gemma:7b,remote,1000,New York City,13.123784,8.417,0.236,58.1,1.14E-05,4.09E+01
+run_4_repetition_15,DONE,llama3.1:8b,remote,500,COVID-19 pandemic,10.947383,37.425,0.345,51.25,8.08E-06,2.91E+01
+run_39_repetition_18,DONE,mistral:7b,remote,100,Dwayne Johnson,8.788992,7,0.773,67.9,3.97E-06,1.43E+01
+run_28_repetition_3,DONE,qwen2:1.5b,remote,500,Miley Cyrus,9.875266,8.1,0.513,66.333,5.83E-06,2.10E+01
+run_39_repetition_6,DONE,mistral:7b,remote,100,Jay-Z,9.90828,4.933,0.232,75.633,5.83E-06,2.10E+01
+run_33_repetition_1,DONE,qwen2:7b,remote,100,Winston Churchill,9.884928,6.967,0.545,55.067,5.90E-06,2.13E+01
+run_21_repetition_11,DONE,phi3:3.8b,remote,100,Kanye West,7.65352,15,1.067,52,2.10E-06,7.56E+00
+run_4_repetition_9,DONE,llama3.1:8b,remote,500,Eminem,15.407427,2.9,0.204,74.038,1.51E-05,5.45E+01
+run_22_repetition_20,DONE,phi3:3.8b,remote,500,New York City,13.186333,6.833,0.261,64.733,1.14E-05,4.11E+01
+run_24_repetition_15,DONE,qwen2:1.5b,on_device,100,Tupac Shakur,11.031911,7.425,95.171,61.725,7.72E-06,2.78E+01
+run_22_repetition_29,DONE,phi3:3.8b,remote,500,Justin Bieber,25.407953,4.294,1.839,60.282,5.72E-05,2.06E+02
+run_38_repetition_17,DONE,mistral:7b,on_device,1000,Game of Thrones,42.07187,3.222,88.67,74.981,0.00012388993,446.0037481
+run_24_repetition_19,DONE,qwen2:1.5b,on_device,100,Scarlett Johansson,11.025269,7.15,64.468,61.7,7.68E-06,2.76E+01
+run_24_repetition_24,DONE,qwen2:1.5b,on_device,100,Breaking Bad,11.025126,6.4,95.964,62.875,7.71E-06,2.78E+01
+run_18_repetition_25,DONE,phi3:3.8b,on_device,100,Singapore,15.477311,6.263,86.257,66.7,1.53E-05,5.50E+01
+run_19_repetition_11,DONE,phi3:3.8b,on_device,500,Jay-Z,33.152167,4.108,92.713,75.729,8.10E-05,2.92E+02
+run_3_repetition_24,DONE,llama3.1:8b,remote,100,Johnny Depp,8.724093,11.95,0.679,47.65,3.94E-06,1.42E+01
+run_35_repetition_5,DONE,qwen2:7b,remote,1000,"Meghan, Duchess of Sussex",17.640551,2.84,0.187,58.07,1.89E-05,6.80E+01
+run_24_repetition_29,DONE,qwen2:1.5b,on_device,100,COVID-19 pandemic,9.825996,7.433,75.631,61.267,5.82E-06,2.10E+01
+run_36_repetition_10,DONE,mistral:7b,on_device,100,Steve Jobs,19.877218,3.05,70.965,72.792,2.26E-05,8.15E+01
+run_9_repetition_3,DONE,gemma:2b,remote,100,United Kingdom,7.696287,15,1.31,65.7,2.11E-06,7.59E+00
+run_32_repetition_8,DONE,qwen2:7b,on_device,1000,William Shakespeare,52.041688,3.849,93.185,72.912,0.0001606666363,578.3998906
+run_11_repetition_25,DONE,gemma:2b,remote,1000,Justin Bieber,10.961754,5.375,0.343,58.075,7.70E-06,2.77E+01
+run_27_repetition_12,DONE,qwen2:1.5b,remote,100,Mila Kunis,7.61967,25.6,1.234,57.8,2.09E-06,7.53E+00
+run_33_repetition_17,DONE,qwen2:7b,remote,100,Elizabeth II,10.980623,7.95,0.35,63.525,7.66E-06,2.76E+01
+run_2_repetition_18,DONE,llama3.1:8b,on_device,1000,Tom Cruise,64.248413,3.102,93.201,75.335,0.0001887538929,679.5140145
+run_21_repetition_9,DONE,phi3:3.8b,remote,100,Jennifer Aniston,8.73752,8.7,0.731,58.25,3.96E-06,1.42E+01
+run_30_repetition_8,DONE,qwen2:7b,on_device,100,Jay-Z,22.090607,3.593,94.258,73.186,5.16E-05,1.86E+02
+run_38_repetition_27,DONE,mistral:7b,on_device,1000,Cristiano Ronaldo,45.329155,6.763,91.15,74.98,0.0001288675022,463.9230078
+run_33_repetition_29,DONE,qwen2:7b,remote,100,Singapore,9.893247,15.267,0.323,59.3,5.80E-06,2.09E+01
+run_29_repetition_12,DONE,qwen2:1.5b,remote,1000,Japan,10.923501,4.95,0.372,57.85,7.79E-06,2.81E+01
+run_16_repetition_7,DONE,gemma:7b,remote,500,Queen Victoria,13.188233,6.45,0.259,58.2,1.14E-05,4.09E+01
+run_39_repetition_14,DONE,mistral:7b,remote,100,John Cena,8.752913,8.8,0.915,52.75,3.96E-06,1.42E+01
+run_34_repetition_7,DONE,qwen2:7b,remote,500,Vietnam War,16.514391,3.922,0.218,66.144,1.69E-05,6.10E+01
+run_32_repetition_16,DONE,qwen2:7b,on_device,1000,India,49.861402,3.505,92.297,73.005,0.0001412206183,508.3942258
+run_34_repetition_19,DONE,qwen2:7b,remote,500,Kobe Bryant,15.438567,3.888,0.222,57.312,1.51E-05,5.43E+01
+run_34_repetition_0,DONE,qwen2:7b,remote,500,"Prince Philip, Duke of Edinburgh",14.310786,4.771,0.176,54.714,1.33E-05,4.78E+01
+run_3_repetition_22,DONE,llama3.1:8b,remote,100,Ryan Reynolds,9.865285,11.767,0.463,52.9,5.79E-06,2.09E+01
+run_5_repetition_9,DONE,llama3.1:8b,remote,1000,World War I,20.961162,11.715,0.164,54.023,2.44E-05,8.77E+01
+run_9_repetition_22,DONE,gemma:2b,remote,100,Australia,7.653894,16,1.481,55.2,2.08E-06,7.50E+00
+run_17_repetition_18,DONE,gemma:7b,remote,1000,Tupac Shakur,14.303837,3.643,0.187,57.886,1.33E-05,4.78E+01
+run_36_repetition_24,DONE,mistral:7b,on_device,100,Tom Cruise,18.759017,27.836,77.092,70.536,2.13E-05,7.66E+01
+run_23_repetition_29,DONE,phi3:3.8b,remote,1000,Elvis Presley,33.1743,2.658,0.25,56.046,3.51E-05,1.26E+02
+run_23_repetition_15,DONE,phi3:3.8b,remote,1000,Tupac Shakur,15.420239,2.6,0.054,56.287,1.51E-05,5.45E+01
+run_11_repetition_3,DONE,gemma:2b,remote,1000,Kanye West,9.879214,6.267,0.646,61.9,5.83E-06,2.10E+01
+run_29_repetition_20,DONE,qwen2:1.5b,remote,1000,COVID-19 pandemic,9.868525,5.433,0.463,57.833,5.82E-06,2.10E+01
+run_16_repetition_10,DONE,gemma:7b,remote,500,Bruce Lee,13.12721,2.133,0.249,58.083,1.14E-05,4.10E+01
+run_0_repetition_7,DONE,llama3.1:8b,on_device,100,The Big Bang Theory,16.536229,4.178,74.595,73.933,1.73E-05,6.23E+01
+run_1_repetition_29,DONE,llama3.1:8b,on_device,500,List of presidents of the United States,65.316005,3.019,99.645,69.081,0.0001923566992,692.4841173
+run_27_repetition_23,DONE,qwen2:1.5b,remote,100,Marilyn Monroe,7.652214,14.8,1.242,55.9,2.09E-06,7.52E+00
+run_12_repetition_25,DONE,gemma:7b,on_device,100,Rihanna,17.707616,4.01,52.31,82.11,1.89E-05,6.80E+01
+run_22_repetition_15,DONE,phi3:3.8b,remote,500,John Cena,7.663862,15.5,1.287,76.8,2.08E-06,7.50E+00
+run_14_repetition_9,DONE,gemma:7b,on_device,1000,List of presidents of the United States,53.197723,3.069,91.073,85.56,0.000164755525,593.1198898
+run_8_repetition_23,DONE,gemma:2b,on_device,1000,"Meghan, Duchess of Sussex",17.646951,5.19,83.591,61.38,1.90E-05,6.84E+01
+run_6_repetition_21,DONE,gemma:2b,on_device,100,United States,9.896137,31.267,66.53,63.867,5.94E-06,2.14E+01
+run_8_repetition_28,DONE,gemma:2b,on_device,1000,Breaking Bad,17.619921,30.39,98.864,65.3,1.95E-05,7.00E+01
+run_16_repetition_6,DONE,gemma:7b,remote,500,Nicki Minaj,14.287848,22.514,0.167,56.786,1.36E-05,4.88E+01
+run_13_repetition_23,DONE,gemma:7b,on_device,500,Vladimir Putin,39.830567,2.757,85.704,77.113,0.0001152418011,414.8704839
+run_37_repetition_19,DONE,mistral:7b,on_device,500,William Shakespeare,37.770911,3.3,95.484,74.504,0.0001077478472,387.8922501
+run_3_repetition_29,DONE,llama3.1:8b,remote,100,Queen Victoria,8.76212,15,0.267,62.5,3.95E-06,1.42E+01
+run_10_repetition_27,DONE,gemma:2b,remote,500,Vladimir Putin,9.808075,10.667,0.439,62.067,5.80E-06,2.09E+01
+run_32_repetition_13,DONE,qwen2:7b,on_device,1000,The Beatles,53.027819,4.298,92.02,72.857,0.0001617806567,582.4103642
+run_24_repetition_20,DONE,qwen2:1.5b,on_device,100,Eminem,9.926955,7.9,80.127,60.167,5.83E-06,2.10E+01
+run_16_repetition_14,DONE,gemma:7b,remote,500,Game of Thrones,12.119636,8.54,0.134,63.32,9.53E-06,3.43E+01
+run_36_repetition_6,DONE,mistral:7b,on_device,100,Winston Churchill,17.668969,3.55,73.391,66.35,1.91E-05,6.89E+01
+run_30_repetition_0,DONE,qwen2:7b,on_device,100,Elizabeth II,17.669957,3.56,82.734,71.81,1.92E-05,6.92E+01
+run_2_repetition_29,DONE,llama3.1:8b,on_device,1000,Australia,71.941304,5.527,98.983,72.998,0.0002292789005,825.4040417
+run_40_repetition_29,DONE,mistral:7b,remote,500,Germany,14.276782,5.329,0.197,54.686,1.33E-05,4.79E+01
+run_3_repetition_0,DONE,llama3.1:8b,remote,100,Jeffrey Dahmer,8.703688,27.75,0.699,49,4.06E-06,1.46E+01
+run_36_repetition_13,DONE,mistral:7b,on_device,100,Arnold Schwarzenegger,15.465992,3.087,99.506,75.438,1.54E-05,5.53E+01
+run_29_repetition_19,DONE,qwen2:1.5b,remote,1000,Eminem,9.851088,7.3,0.497,62.367,5.80E-06,2.09E+01
+run_39_repetition_25,DONE,mistral:7b,remote,100,China,8.708354,15.85,0.833,76.8,3.97E-06,1.43E+01
+run_15_repetition_22,DONE,gemma:7b,remote,100,Elvis Presley,8.7533,15.25,0.749,56.05,3.94E-06,1.42E+01
+run_30_repetition_6,DONE,qwen2:7b,on_device,100,Pablo Escobar,22.132345,2.714,95.104,71.957,5.19E-05,1.87E+02
+run_15_repetition_19,DONE,gemma:7b,remote,100,Rihanna,8.726511,7.65,0.798,46.8,3.94E-06,1.42E+01
+run_30_repetition_26,DONE,qwen2:7b,on_device,100,Nicki Minaj,25.41143,5.865,80.009,72.253,5.78E-05,2.08E+02
+run_9_repetition_9,DONE,gemma:2b,remote,100,China,7.632816,16,0.756,57.5,2.11E-06,7.58E+00
+run_4_repetition_3,DONE,llama3.1:8b,remote,500,Germany,14.206966,10.429,0.188,58.029,1.33E-05,4.77E+01
+run_9_repetition_12,DONE,gemma:2b,remote,100,Taylor Swift,8.735386,6.35,0.791,45.85,3.96E-06,1.43E+01
+run_12_repetition_2,DONE,gemma:7b,on_device,100,Kim Kardashian,16.582793,4.011,59.633,82.122,1.75E-05,6.31E+01
+run_39_repetition_9,DONE,mistral:7b,remote,100,Keanu Reeves,9.889692,5.433,0.537,76.833,5.83E-06,2.10E+01
+run_23_repetition_24,DONE,phi3:3.8b,remote,1000,The Walking Dead (TV series),18.7474,3.245,0.269,66.355,2.08E-05,7.47E+01
+run_3_repetition_18,DONE,llama3.1:8b,remote,100,India,7.621934,16,1.773,59.8,2.12E-06,7.64E+00
+run_25_repetition_28,DONE,qwen2:1.5b,on_device,500,Taylor Swift,19.854809,4.333,88.608,55.058,2.26E-05,8.12E+01
+run_16_repetition_22,DONE,gemma:7b,remote,500,Keanu Reeves,13.167725,3.467,0.214,52.217,1.14E-05,4.11E+01
+run_31_repetition_4,DONE,qwen2:7b,on_device,500,Titanic,48.762855,7.703,91.526,72.858,0.0001414135929,509.0889345
+run_18_repetition_12,DONE,phi3:3.8b,on_device,100,Tom Brady,16.605835,6.589,79.658,67,1.70E-05,6.13E+01
+run_30_repetition_14,DONE,qwen2:7b,on_device,100,India,27.62542,4.226,89.856,72.511,7.82E-05,2.82E+02
+run_30_repetition_4,DONE,qwen2:7b,on_device,100,John Cena,22.162517,2.707,81.021,71.879,5.28E-05,1.90E+02
+run_39_repetition_8,DONE,mistral:7b,remote,100,Winston Churchill,8.593379,43,0.95,50.05,4.48E-06,1.61E+01
+run_7_repetition_5,DONE,gemma:2b,on_device,500,Brad Pitt,18.771142,18.991,89.265,64.764,2.14E-05,7.70E+01
+run_17_repetition_17,DONE,gemma:7b,remote,1000,Jennifer Aniston,13.176341,2.617,0.257,54.167,1.14E-05,4.10E+01
+run_18_repetition_26,DONE,phi3:3.8b,on_device,100,Ted Bundy,16.487287,3.189,99.873,67.8,1.71E-05,6.17E+01
+run_32_repetition_0,DONE,qwen2:7b,on_device,1000,Keanu Reeves,58.597015,3.564,95.138,71.119,0.0001829670298,658.6813074
+run_36_repetition_14,DONE,mistral:7b,on_device,100,Titanic,16.557407,3.978,85.077,70.311,1.71E-05,6.16E+01
+run_23_repetition_26,DONE,phi3:3.8b,remote,1000,LeBron James,17.546776,4.5,0.233,46.68,1.88E-05,6.76E+01
+run_8_repetition_17,DONE,gemma:2b,on_device,1000,Vladimir Putin,19.870926,3.133,86.789,65.175,2.26E-05,8.13E+01
+run_26_repetition_28,DONE,qwen2:1.5b,on_device,1000,"Princess Margaret, Countess of Snowdon",15.430111,4.625,85.366,62.975,1.51E-05,5.45E+01
+run_12_repetition_17,DONE,gemma:7b,on_device,100,Jennifer Aniston,16.592302,6.633,67.515,83.311,1.70E-05,6.10E+01
+run_8_repetition_9,DONE,gemma:2b,on_device,1000,Japan,22.149329,2.886,89.724,63.779,5.17E-05,1.86E+02
+run_35_repetition_1,DONE,qwen2:7b,remote,1000,Manchester United F.C.,17.621098,4.84,0.167,57.77,1.88E-05,6.77E+01
+run_10_repetition_24,DONE,gemma:2b,remote,500,Barack Obama,9.882299,5.3,0.508,65.233,5.82E-06,2.10E+01
+run_39_repetition_22,DONE,mistral:7b,remote,100,Canada,9.91311,3.8,0.55,61.967,5.83E-06,2.10E+01
+run_28_repetition_28,DONE,qwen2:1.5b,remote,500,Miley Cyrus,8.763643,9.25,0.927,75.2,3.97E-06,1.43E+01
+run_22_repetition_24,DONE,phi3:3.8b,remote,500,Johnny Depp,16.497834,3.644,0.158,57.811,1.69E-05,6.10E+01
+run_27_repetition_5,DONE,qwen2:1.5b,remote,100,Lady Gaga,8.753693,18.35,0.678,58.15,3.94E-06,1.42E+01
+run_41_repetition_17,DONE,mistral:7b,remote,1000,Jeffrey Dahmer,15.380027,3.512,0.239,63.713,1.52E-05,5.46E+01
+run_7_repetition_0,DONE,gemma:2b,on_device,500,India,16.565112,3.944,95.787,60.867,1.71E-05,6.16E+01
+run_29_repetition_11,DONE,qwen2:1.5b,remote,1000,Elvis Presley,10.997086,5.85,0.357,59.225,7.69E-06,2.77E+01
+run_22_repetition_27,DONE,phi3:3.8b,remote,500,Donald Trump,12.066406,3.2,0.261,51.22,9.55E-06,3.44E+01
+run_34_repetition_12,DONE,qwen2:7b,remote,500,Tom Cruise,15.348706,3.538,0.239,62.9,1.51E-05,5.45E+01
+run_10_repetition_2,DONE,gemma:2b,remote,500,Elon Musk,9.871186,5.333,0.617,56.5,5.80E-06,2.09E+01
+run_27_repetition_20,DONE,qwen2:1.5b,remote,100,John F. Kennedy,8.704609,7.55,0.538,61.1,3.97E-06,1.43E+01
+run_32_repetition_7,DONE,qwen2:7b,on_device,1000,Academy Awards,60.907315,3.196,98.151,65.839,0.0001853754224,667.3515207
+run_4_repetition_2,DONE,llama3.1:8b,remote,500,Ryan Reynolds,14.272454,3.143,0.177,58.214,1.33E-05,4.78E+01
+run_19_repetition_18,DONE,phi3:3.8b,on_device,500,France,36.536898,2.704,99.878,75.878,0.0001030882511,371.117704
+run_6_repetition_18,DONE,gemma:2b,on_device,100,Joe Biden,11.081938,5.65,92.455,55.675,7.73E-06,2.78E+01
+run_31_repetition_10,DONE,qwen2:7b,on_device,500,Manchester United F.C.,44.180301,4.094,98.892,73.641,0.0001320612276,475.4204192
+run_2_repetition_16,DONE,llama3.1:8b,on_device,1000,Nicki Minaj,66.436895,2.735,93.529,67.972,0.0001931727718,695.4219786
+run_12_repetition_7,DONE,gemma:7b,on_device,100,Michael Jordan,13.26263,4.05,82.617,77.867,1.14E-05,4.11E+01
+run_4_repetition_7,DONE,llama3.1:8b,remote,500,"Prince Philip, Duke of Edinburgh",16.541201,3.478,0.22,75.578,1.70E-05,6.13E+01
+run_10_repetition_15,DONE,gemma:2b,remote,500,Israel,9.851328,5.3,0.452,56.067,5.80E-06,2.09E+01
+run_20_repetition_20,DONE,phi3:3.8b,on_device,1000,Singapore,57.601593,3.378,97.132,76.228,0.0001639845808,590.3444909
+run_10_repetition_1,DONE,gemma:2b,remote,500,Ariana Grande,9.86397,6.633,0.471,54.833,5.84E-06,2.10E+01
+run_39_repetition_27,DONE,mistral:7b,remote,100,Jeffrey Dahmer,8.744698,8.85,0.75,66.45,3.96E-06,1.43E+01
+run_7_repetition_27,DONE,gemma:2b,on_device,500,Ryan Reynolds,21.075984,4.669,91.113,64.846,2.45E-05,8.80E+01
+run_15_repetition_9,DONE,gemma:7b,remote,100,Michael Jordan,8.744186,7,0.234,57.95,3.96E-06,1.43E+01
+run_23_repetition_27,DONE,phi3:3.8b,remote,1000,COVID-19 pandemic,22.135137,2.086,0.206,52.457,5.16E-05,1.86E+02
+run_10_repetition_25,DONE,gemma:2b,remote,500,Stephen Hawking,8.77044,8.1,0.36,73.6,3.96E-06,1.42E+01
+run_4_repetition_25,DONE,llama3.1:8b,remote,500,Vladimir Putin,15.382495,3.312,0.173,49.775,1.51E-05,5.45E+01
+run_20_repetition_26,DONE,phi3:3.8b,on_device,1000,Vladimir Putin,57.582472,4.783,99.066,75.837,0.0001641621995,590.9839182
+run_25_repetition_19,DONE,qwen2:1.5b,on_device,500,India,21.025526,4.908,92.239,60.492,2.45E-05,8.83E+01
+run_18_repetition_11,DONE,phi3:3.8b,on_device,100,Russia,13.275772,4.6,85.143,74.217,1.14E-05,4.11E+01
+run_40_repetition_8,DONE,mistral:7b,remote,500,France,14.326873,5.986,0.259,46.871,1.32E-05,4.76E+01
+run_32_repetition_27,DONE,qwen2:7b,on_device,1000,Bruce Lee,49.651966,5.744,91.343,72.974,0.0001415646248,509.6326492
+run_24_repetition_25,DONE,qwen2:1.5b,on_device,100,Tom Brady,8.828369,29.65,89.608,62.95,4.13E-06,1.49E+01
+run_12_repetition_6,DONE,gemma:7b,on_device,100,LeBron James,15.453914,2.775,89.549,76.212,1.51E-05,5.45E+01
+run_0_repetition_10,DONE,llama3.1:8b,on_device,100,William Shakespeare,15.437214,16.163,91.321,75.975,1.55E-05,5.60E+01
+run_1_repetition_9,DONE,llama3.1:8b,on_device,500,New York City,45.381159,4.223,94.541,75.26,0.0001327797582,478.0071295
+run_22_repetition_16,DONE,phi3:3.8b,remote,500,Jay-Z,13.162602,4.833,0.225,56.617,1.14E-05,4.11E+01
+run_41_repetition_4,DONE,mistral:7b,remote,1000,Vladimir Putin,14.355643,2.971,0.222,75.814,1.32E-05,4.76E+01
+run_4_repetition_16,DONE,llama3.1:8b,remote,500,Marilyn Monroe,14.271875,2.643,0.183,47.586,1.33E-05,4.78E+01
+run_26_repetition_24,DONE,qwen2:1.5b,on_device,1000,Vietnam War,19.860549,4.992,96.253,62.067,2.27E-05,8.16E+01
+run_2_repetition_22,DONE,llama3.1:8b,on_device,1000,COVID-19 pandemic,67.609297,3.22,94.664,72.487,0.0002106515413,758.3455488
+run_8_repetition_16,DONE,gemma:2b,on_device,1000,Star Wars,17.683505,3.72,99.734,62.41,1.90E-05,6.84E+01
+run_37_repetition_17,DONE,mistral:7b,on_device,500,Leonardo DiCaprio,42.083647,3.316,91.529,75.019,0.0001245201752,448.2726309
+run_19_repetition_15,DONE,phi3:3.8b,on_device,500,How I Met Your Mother,43.210831,3.097,93.067,76.148,0.0001187941272,427.6588578
+run_5_repetition_24,DONE,llama3.1:8b,remote,1000,India,17.626459,2.86,0.189,62.18,1.89E-05,6.80E+01
+run_22_repetition_10,DONE,phi3:3.8b,remote,500,Kobe Bryant,15.412903,16.788,0.219,56.762,1.58E-05,5.67E+01
+run_38_repetition_10,DONE,mistral:7b,on_device,1000,Michael Jackson,47.569974,3.151,97.531,75.211,0.000133361373,480.1009428
+run_0_repetition_21,DONE,llama3.1:8b,on_device,100,Joe Biden,14.357621,3.871,87.036,73.014,1.32E-05,4.76E+01
+run_31_repetition_20,DONE,qwen2:7b,on_device,500,Keanu Reeves,38.740084,2.693,97.762,73.69,0.0001127996791,406.0788449
+run_30_repetition_15,DONE,qwen2:7b,on_device,100,Ariana Grande,24.238691,3.231,82.819,67.344,5.63E-05,2.03E+02
+run_5_repetition_23,DONE,llama3.1:8b,remote,1000,Chernobyl disaster,23.198613,2.433,0.296,51.473,5.32E-05,1.92E+02
+run_21_repetition_23,DONE,phi3:3.8b,remote,100,Manchester United F.C.,12.102882,5.22,0.093,53.72,9.55E-06,3.44E+01
+run_25_repetition_1,DONE,qwen2:1.5b,on_device,500,Singapore,12.120804,5.54,96.757,63.26,9.52E-06,3.43E+01
+run_23_repetition_4,DONE,phi3:3.8b,remote,1000,Lil Wayne,15.390349,3.425,0.22,65.025,1.53E-05,5.49E+01
+run_5_repetition_22,DONE,llama3.1:8b,remote,1000,Mark Zuckerberg,20.950989,2.138,0.209,46.938,2.45E-05,8.81E+01
+run_34_repetition_15,DONE,qwen2:7b,remote,500,Ted Bundy,16.513852,3.044,0.24,55.289,1.70E-05,6.12E+01
+run_26_repetition_10,DONE,qwen2:1.5b,on_device,1000,Lady Gaga,18.756487,4.418,98.376,60.427,2.08E-05,7.50E+01
+run_17_repetition_24,DONE,gemma:7b,remote,1000,Lady Gaga,14.308061,4.8,0.223,52.486,1.32E-05,4.76E+01
+run_15_repetition_24,DONE,gemma:7b,remote,100,Germany,8.770181,7.6,0.703,65.4,3.95E-06,1.42E+01
+run_11_repetition_9,DONE,gemma:2b,remote,1000,Academy Awards,9.885782,7.233,0.677,55.567,5.82E-06,2.10E+01
+run_32_repetition_28,DONE,qwen2:7b,on_device,1000,September 11 attacks,55.363346,2.691,98.829,66.666,0.0001855549705,667.9978939
+run_31_repetition_27,DONE,qwen2:7b,on_device,500,Academy Awards,35.437671,2.762,87.57,72.519,9.16E-05,3.30E+02
+run_37_repetition_2,DONE,mistral:7b,on_device,500,"Prince Philip, Duke of Edinburgh",35.394357,3.415,93.554,69.265,8.87E-05,3.19E+02
+run_37_repetition_4,DONE,mistral:7b,on_device,500,Lady Gaga,42.02347,3.556,95.01,74.744,0.0001237884741,445.6385069
+run_14_repetition_11,DONE,gemma:7b,on_device,1000,LeBron James,39.765312,2.613,87.566,75.62,0.0001154366534,415.5719522
+run_2_repetition_17,DONE,llama3.1:8b,on_device,1000,"Prince Philip, Duke of Edinburgh",67.624691,3.12,93.93,75.644,0.000210542884,757.9543825
+run_25_repetition_29,DONE,qwen2:1.5b,on_device,500,Kim Kardashian,12.141335,4.86,80.795,59.5,9.56E-06,3.44E+01
+run_14_repetition_22,DONE,gemma:7b,on_device,1000,World War II,40.962942,3.152,87.146,85.055,0.000121932771,438.9579756
+run_12_repetition_14,DONE,gemma:7b,on_device,100,The Beatles,19.985363,4.658,56.935,82.633,2.33E-05,8.37E+01
+run_12_repetition_0,DONE,gemma:7b,on_device,100,Lady Gaga,13.228762,3.65,83.544,86.2,1.14E-05,4.11E+01
+run_26_repetition_11,DONE,qwen2:1.5b,on_device,1000,Harry Potter,16.539217,3.544,99.155,62.778,1.70E-05,6.14E+01
+run_4_repetition_27,DONE,llama3.1:8b,remote,500,Japan,15.437315,2.488,0.192,65.975,1.52E-05,5.45E+01
+run_33_repetition_8,DONE,qwen2:7b,remote,100,Johnny Depp,9.77255,5.433,0.561,55.567,5.79E-06,2.08E+01
+run_14_repetition_14,DONE,gemma:7b,on_device,1000,Rihanna,42.114996,22.844,85.59,84.997,0.0001305021456,469.807724
+run_16_repetition_20,DONE,gemma:7b,remote,500,Brad Pitt,13.185059,31.817,0.225,60.667,1.18E-05,4.24E+01
+run_18_repetition_5,DONE,phi3:3.8b,on_device,100,John F. Kennedy,16.596549,3.422,93.84,76.167,1.72E-05,6.18E+01
+run_19_repetition_26,DONE,phi3:3.8b,on_device,500,Lady Gaga,50.86298,3.248,94.644,75.85,0.0001319403071,474.9851054
+run_5_repetition_1,DONE,llama3.1:8b,remote,1000,Mark Zuckerberg,23.184977,2.373,0.303,74.887,5.34E-05,1.92E+02
+run_29_repetition_23,DONE,qwen2:1.5b,remote,1000,Lil Wayne,9.864737,6.967,0.516,66.433,5.80E-06,2.09E+01
+run_41_repetition_29,DONE,mistral:7b,remote,1000,Chernobyl disaster,13.196226,12.283,0.254,57.483,1.15E-05,4.13E+01
+run_16_repetition_26,DONE,gemma:7b,remote,500,Jay-Z,13.172624,4.4,0.211,55.617,1.14E-05,4.12E+01
+run_29_repetition_6,DONE,qwen2:1.5b,remote,1000,Rihanna,9.863873,5.467,0.517,58.733,5.92E-06,2.13E+01
+run_9_repetition_13,DONE,gemma:2b,remote,100,Muhammad Ali,7.646381,14.8,1.039,53.3,2.09E-06,7.52E+00
+run_15_repetition_6,DONE,gemma:7b,remote,100,World War I,9.840621,6.133,0.493,65.9,5.82E-06,2.10E+01
+run_7_repetition_29,DONE,gemma:2b,on_device,500,Ted Bundy,19.893988,3.7,91.139,63.208,2.27E-05,8.18E+01
+run_1_repetition_21,DONE,llama3.1:8b,on_device,500,Stephen Hawking,46.533199,2.986,90.969,72.175,0.000133919725,482.1110099
+run_37_repetition_21,DONE,mistral:7b,on_device,500,Lionel Messi,42.050234,3.034,96.292,75.113,0.0001243513046,447.6646966
+run_39_repetition_5,DONE,mistral:7b,remote,100,Keanu Reeves,8.729519,10.4,0.745,55.8,3.94E-06,1.42E+01
+run_26_repetition_19,DONE,qwen2:1.5b,on_device,1000,Tom Cruise,14.307281,3.857,93.742,62.829,1.33E-05,4.80E+01
+run_39_repetition_15,DONE,mistral:7b,remote,100,List of presidents of the United States,8.782011,6.8,0.716,62.5,3.97E-06,1.43E+01
+run_32_repetition_5,DONE,qwen2:7b,on_device,1000,Earth,55.381028,2.975,98.174,72.386,0.0001659627605,597.4659378
+run_15_repetition_28,DONE,gemma:7b,remote,100,Jay-Z,9.857989,4.967,0.504,56,5.83E-06,2.10E+01
+run_24_repetition_12,DONE,qwen2:1.5b,on_device,100,Queen Victoria,9.928196,8.233,67.227,63.533,5.82E-06,2.10E+01
+run_31_repetition_23,DONE,qwen2:7b,on_device,500,United Kingdom,49.793441,3.297,93.757,73.164,0.0001412870153,508.633255
+run_37_repetition_5,DONE,mistral:7b,on_device,500,Muhammad Ali,43.162913,3.127,95.78,75.145,0.000124755294,449.1190585
+run_13_repetition_29,DONE,gemma:7b,on_device,500,Earth,36.610114,20.544,90.355,85.363,0.0001106923313,398.4923926
+run_4_repetition_0,DONE,llama3.1:8b,remote,500,Earth,14.223784,2.986,0.203,62.929,1.33E-05,4.77E+01
+run_2_repetition_9,DONE,llama3.1:8b,on_device,1000,Elizabeth II,74.190441,3.272,94.149,73.943,0.0002319970906,835.1895261
+run_5_repetition_10,DONE,llama3.1:8b,remote,1000,Ryan Reynolds,18.703793,2.236,0.224,52.964,2.06E-05,7.41E+01
+run_12_repetition_21,DONE,gemma:7b,on_device,100,John Cena,13.243206,3.483,90.141,76.15,1.17E-05,4.20E+01
+run_25_repetition_23,DONE,qwen2:1.5b,on_device,500,Ted Bundy,14.357658,4.171,86.27,62.829,1.33E-05,4.80E+01
+run_34_repetition_6,DONE,qwen2:7b,remote,500,Tupac Shakur,13.18316,5.033,0.222,46.517,1.14E-05,4.11E+01
+run_11_repetition_21,DONE,gemma:2b,remote,1000,Ryan Reynolds,9.854121,4.633,0.442,57.933,5.83E-06,2.10E+01
+run_14_repetition_4,DONE,gemma:7b,on_device,1000,How I Met Your Mother,42.093812,4.022,90.113,85.456,0.0001299536771,467.8332376
+run_21_repetition_16,DONE,phi3:3.8b,remote,100,Russia,8.756471,8.6,0.662,65.8,3.96E-06,1.43E+01
+run_4_repetition_19,DONE,llama3.1:8b,remote,500,Marilyn Monroe,15.396782,4.138,0.173,51.2,1.51E-05,5.45E+01
+run_27_repetition_19,DONE,qwen2:1.5b,remote,100,Charles III,7.653817,37.5,1.379,64.9,2.17E-06,7.83E+00
+run_4_repetition_21,DONE,llama3.1:8b,remote,500,Manchester United F.C.,15.405432,4.25,0.207,47.012,1.51E-05,5.43E+01
+run_9_repetition_27,DONE,gemma:2b,remote,100,Breaking Bad,8.804394,7.2,0.896,64.6,3.95E-06,1.42E+01
+run_26_repetition_13,DONE,qwen2:1.5b,on_device,1000,France,20.995435,7.431,92.239,62.715,2.56E-05,9.21E+01
+run_5_repetition_26,DONE,llama3.1:8b,remote,1000,Jeffrey Dahmer,19.825291,28.15,0.112,50.175,2.34E-05,8.42E+01
+run_6_repetition_28,DONE,gemma:2b,on_device,100,List of Marvel Cinematic Universe films,12.133712,5.3,77.173,64.5,9.58E-06,3.45E+01
+run_36_repetition_16,DONE,mistral:7b,on_device,100,Joe Biden,16.516675,4.644,94.561,74.567,1.73E-05,6.23E+01
+run_35_repetition_4,DONE,qwen2:7b,remote,1000,Taylor Swift,18.769688,2.391,0.198,65.645,2.07E-05,7.44E+01
+run_10_repetition_12,DONE,gemma:2b,remote,500,Academy Awards,9.864647,5.833,0.542,55.7,5.83E-06,2.10E+01
+run_41_repetition_7,DONE,mistral:7b,remote,1000,Elon Musk,17.612475,3.8,0.163,55.61,1.88E-05,6.77E+01
+run_25_repetition_27,DONE,qwen2:1.5b,on_device,500,Jennifer Aniston,15.430732,6.612,84.813,54.862,1.51E-05,5.45E+01
+run_26_repetition_20,DONE,qwen2:1.5b,on_device,1000,Steve Jobs,14.343272,5.829,86.594,62.957,1.33E-05,4.80E+01
+run_8_repetition_22,DONE,gemma:2b,on_device,1000,Vietnam War,20.974082,3.769,99.319,65.592,2.45E-05,8.81E+01
+run_36_repetition_12,DONE,mistral:7b,on_device,100,Cristiano Ronaldo,22.145497,3.729,89.186,68.279,5.20E-05,1.87E+02
+run_40_repetition_15,DONE,mistral:7b,remote,500,Angelina Jolie,14.277873,25.429,0.204,55.614,1.35E-05,4.87E+01
+run_29_repetition_8,DONE,qwen2:1.5b,remote,1000,Mila Kunis,8.751486,7.9,0.765,52.35,3.96E-06,1.43E+01
+run_25_repetition_0,DONE,qwen2:1.5b,on_device,500,John F. Kennedy,16.541712,3.756,87.009,61.756,1.70E-05,6.13E+01
+run_14_repetition_15,DONE,gemma:7b,on_device,1000,Kim Kardashian,38.721968,2.348,96.792,74.241,0.0001131886342,407.4790832
+run_40_repetition_4,DONE,mistral:7b,remote,500,The Beatles,15.432565,3.688,0.248,54.65,1.51E-05,5.45E+01
+run_19_repetition_22,DONE,phi3:3.8b,on_device,500,Chernobyl disaster,33.236102,4.062,92.245,64.129,8.09E-05,2.91E+02
+run_16_repetition_9,DONE,gemma:7b,remote,500,Jennifer Aniston,13.213062,5.483,0.292,64.417,1.14E-05,4.11E+01
+run_5_repetition_13,DONE,llama3.1:8b,remote,1000,Jennifer Aniston,20.935618,2.792,0.171,46.923,2.45E-05,8.81E+01
+run_35_repetition_11,DONE,qwen2:7b,remote,1000,Mila Kunis,15.408618,5.712,0.238,56.988,1.52E-05,5.46E+01
+run_29_repetition_29,DONE,qwen2:1.5b,remote,1000,Academy Awards,9.818361,9.267,0.507,75.967,5.79E-06,2.09E+01
+run_0_repetition_19,DONE,llama3.1:8b,on_device,100,"Princess Margaret, Countess of Snowdon",13.267736,3.683,99.761,68.4,1.16E-05,4.19E+01
+run_19_repetition_12,DONE,phi3:3.8b,on_device,500,Angelina Jolie,43.086484,3.961,99.964,75.476,0.0001194471656,430.0097962
+run_25_repetition_22,DONE,qwen2:1.5b,on_device,500,Bill Gates,19.802019,8.058,65.491,60.883,2.27E-05,8.15E+01
+run_0_repetition_8,DONE,llama3.1:8b,on_device,100,"Diana, Princess of Wales",17.726555,17.38,68.923,73.51,2.01E-05,7.23E+01
+run_34_repetition_10,DONE,qwen2:7b,remote,500,China,7.649651,11.1,0.78,59.3,2.08E-06,7.50E+00
+run_10_repetition_8,DONE,gemma:2b,remote,500,Barack Obama,9.818085,10.067,0.859,65.567,5.81E-06,2.09E+01
+run_16_repetition_4,DONE,gemma:7b,remote,500,John F. Kennedy,13.165716,4.617,0.247,68.383,1.14E-05,4.11E+01
+run_22_repetition_5,DONE,phi3:3.8b,remote,500,COVID-19 pandemic,15.437281,3.15,0.254,62.462,1.51E-05,5.45E+01
+run_34_repetition_24,DONE,qwen2:7b,remote,500,Mila Kunis,15.375282,5.312,0.157,54.7,1.51E-05,5.43E+01
+run_12_repetition_16,DONE,gemma:7b,on_device,100,Ariana Grande,17.646189,3.26,56.123,81.73,1.96E-05,7.06E+01
+run_0_repetition_5,DONE,llama3.1:8b,on_device,100,India,17.715603,4.38,66.599,73.48,1.93E-05,6.94E+01
+run_8_repetition_5,DONE,gemma:2b,on_device,1000,Angelina Jolie,19.874295,3.442,97.435,60.733,2.27E-05,8.18E+01
+run_21_repetition_8,DONE,phi3:3.8b,remote,100,Vietnam War,7.645388,13.7,1.267,58.1,2.09E-06,7.54E+00
+run_37_repetition_24,DONE,mistral:7b,on_device,500,Scarlett Johansson,42.019967,2.819,98.864,72.059,0.0001237519598,445.5070551
+run_0_repetition_0,DONE,llama3.1:8b,on_device,100,Selena Gomez,19.952832,3.408,59.865,72.667,2.26E-05,8.14E+01
+run_20_repetition_15,DONE,phi3:3.8b,on_device,1000,India,55.380304,2.991,95.709,75.823,0.0001558296293,560.9866654
+run_1_repetition_6,DONE,llama3.1:8b,on_device,500,Canada,46.4215,13.475,90.476,70.917,0.0001791755513,645.0319848
+run_11_repetition_12,DONE,gemma:2b,remote,1000,Bruce Lee,9.860799,6.667,0.522,57.067,5.82E-06,2.10E+01
+run_11_repetition_10,DONE,gemma:2b,remote,1000,Rihanna,9.90072,4.9,0.549,65.967,5.80E-06,2.09E+01
+run_34_repetition_18,DONE,qwen2:7b,remote,500,Miley Cyrus,15.372096,2.312,0.161,57.575,1.52E-05,5.46E+01
+run_41_repetition_15,DONE,mistral:7b,remote,1000,Stephen Hawking,14.277703,15.543,0.185,55.786,1.32E-05,4.75E+01
+run_36_repetition_0,DONE,mistral:7b,on_device,100,Muhammad Ali,20.992512,3.2,85.33,72.7,2.45E-05,8.81E+01
+run_12_repetition_9,DONE,gemma:7b,on_device,100,Jeffrey Dahmer,13.242327,3.733,89.878,86.2,1.17E-05,4.22E+01
+run_7_repetition_8,DONE,gemma:2b,on_device,500,"Prince Philip, Duke of Edinburgh",16.579911,4.056,93.075,62.411,1.70E-05,6.11E+01
+run_23_repetition_3,DONE,phi3:3.8b,remote,1000,Bruce Lee,17.632821,4.03,0.204,57.27,1.88E-05,6.77E+01
+run_13_repetition_26,DONE,gemma:7b,on_device,500,How I Met Your Mother,38.792467,2.766,91.946,85.597,0.0001144044843,411.8561435
+run_29_repetition_2,DONE,qwen2:1.5b,remote,1000,Vladimir Putin,9.870401,7.467,0.451,60.333,5.86E-06,2.11E+01
+run_18_repetition_0,DONE,phi3:3.8b,on_device,100,Abraham Lincoln,13.266816,5.05,92.825,76.167,1.17E-05,4.20E+01
+run_29_repetition_3,DONE,qwen2:1.5b,remote,1000,Jay-Z,10.999174,4.6,0.399,74.275,7.69E-06,2.77E+01
+run_22_repetition_22,DONE,phi3:3.8b,remote,500,Canada,14.303257,5.057,0.255,52.2,1.33E-05,4.78E+01
+run_4_repetition_23,DONE,llama3.1:8b,remote,500,Taylor Swift,15.389936,2.512,0.169,57.612,1.52E-05,5.45E+01
+run_16_repetition_5,DONE,gemma:7b,remote,500,Darth Vader,13.195004,7.533,0.232,53.217,1.14E-05,4.12E+01
+run_23_repetition_0,DONE,phi3:3.8b,remote,1000,How I Met Your Mother,17.641784,3.15,0.167,52.71,1.89E-05,6.82E+01
+run_33_repetition_16,DONE,qwen2:7b,remote,100,Cristiano Ronaldo,10.970243,4.125,0.329,55.6,7.69E-06,2.77E+01
+run_29_repetition_15,DONE,qwen2:1.5b,remote,1000,Mark Zuckerberg,9.88139,5.9,0.474,52.867,5.82E-06,2.09E+01
+run_25_repetition_3,DONE,qwen2:1.5b,on_device,500,Taylor Swift,15.43466,4.462,94.467,61.287,1.52E-05,5.47E+01
+run_9_repetition_29,DONE,gemma:2b,remote,100,Michael Jordan,8.783761,8.55,1.083,55.05,3.97E-06,1.43E+01
+run_39_repetition_10,DONE,mistral:7b,remote,100,Charles Manson,8.758807,7.55,0.528,56.3,3.98E-06,1.43E+01
+run_15_repetition_4,DONE,gemma:7b,remote,100,Mila Kunis,8.768608,9.8,0.687,56.45,3.97E-06,1.43E+01
+run_36_repetition_29,DONE,mistral:7b,on_device,100,Earth,19.875422,3.158,72.192,68.3,2.26E-05,8.13E+01
+run_28_repetition_8,DONE,qwen2:1.5b,remote,500,New York City,8.668165,9.55,0.647,56.85,3.95E-06,1.42E+01
+run_27_repetition_22,DONE,qwen2:1.5b,remote,100,Mila Kunis,7.687441,15,1.254,64.4,2.11E-06,7.59E+00
+run_12_repetition_27,DONE,gemma:7b,on_device,100,Bill Gates,17.73646,4.69,64.285,74.41,1.93E-05,6.96E+01
+run_32_repetition_12,DONE,qwen2:7b,on_device,1000,List of highest-grossing films,71.958133,3.58,98.883,72.673,0.0002302781339,829.001282
+run_22_repetition_3,DONE,phi3:3.8b,remote,500,Japan,14.319789,6.229,0.313,64.357,1.32E-05,4.76E+01
+run_18_repetition_24,DONE,phi3:3.8b,on_device,100,Arnold Schwarzenegger,15.412946,4.562,83.831,63.8,1.53E-05,5.50E+01
+run_19_repetition_29,DONE,phi3:3.8b,on_device,500,Russia,38.749326,3.234,93.852,76.01,0.0001067403349,384.2652055
+run_26_repetition_15,DONE,qwen2:1.5b,on_device,1000,COVID-19 pandemic,17.650612,3.79,96.249,62.49,1.89E-05,6.81E+01
+run_1_repetition_25,DONE,llama3.1:8b,on_device,500,"Meghan, Duchess of Sussex",47.587138,3.116,91.374,75.378,0.0001354308238,487.5509657
+run_13_repetition_3,DONE,gemma:7b,on_device,500,Vietnam War,40.887598,3.123,86.352,72.845,0.0001010283553,363.702079
+run_8_repetition_11,DONE,gemma:2b,on_device,1000,Abraham Lincoln,17.615698,5.01,86.364,64.86,1.89E-05,6.79E+01
+run_0_repetition_2,DONE,llama3.1:8b,on_device,100,Lil Wayne,18.791211,3.209,63.291,72.109,2.08E-05,7.47E+01
+run_8_repetition_7,DONE,gemma:2b,on_device,1000,United Kingdom,24.351879,5.613,89.423,62.581,5.65E-05,2.03E+02
+run_4_repetition_17,DONE,llama3.1:8b,remote,500,Adolf Hitler,15.424692,3.088,0.204,53.925,1.51E-05,5.45E+01
+run_28_repetition_18,DONE,qwen2:1.5b,remote,500,John Cena,8.762115,17.25,0.905,60.15,3.94E-06,1.42E+01
+run_25_repetition_18,DONE,qwen2:1.5b,on_device,500,Winston Churchill,18.773546,3.445,96.395,61.836,2.08E-05,7.49E+01
+run_14_repetition_26,DONE,gemma:7b,on_device,1000,Game of Thrones,43.201646,3.109,85.778,84.791,0.0001308511178,471.0640242
+run_35_repetition_7,DONE,qwen2:7b,remote,1000,Vladimir Putin,16.509955,3.378,0.185,54.211,1.72E-05,6.21E+01
+run_34_repetition_8,DONE,qwen2:7b,remote,500,The Big Bang Theory,14.276593,4.057,0.203,63.643,1.33E-05,4.78E+01
+run_7_repetition_19,DONE,gemma:2b,on_device,500,Brad Pitt,21.014083,4.931,86.051,59.885,2.44E-05,8.77E+01
+run_22_repetition_1,DONE,phi3:3.8b,remote,500,Ted Bundy,13.205821,4.117,0.077,58.333,1.14E-05,4.12E+01
+run_35_repetition_0,DONE,qwen2:7b,remote,1000,Johnny Depp,18.787779,2.218,0.165,53.791,2.08E-05,7.48E+01
+run_18_repetition_22,DONE,phi3:3.8b,on_device,100,How I Met Your Mother,15.494393,4.75,80.906,67.55,1.52E-05,5.48E+01
+run_6_repetition_4,DONE,gemma:2b,on_device,100,Miley Cyrus,13.254848,6.267,72.363,65,1.15E-05,4.12E+01
+run_18_repetition_2,DONE,phi3:3.8b,on_device,100,Barack Obama,14.332786,4.229,76.991,66.9,1.34E-05,4.83E+01
+run_31_repetition_6,DONE,qwen2:7b,on_device,500,Charles III,44.318833,15.535,93.519,71.726,0.0001323712716,476.5365779
+run_36_repetition_26,DONE,mistral:7b,on_device,100,Bruce Lee,18.769139,2.909,72.705,72.618,2.10E-05,7.54E+01
+run_12_repetition_18,DONE,gemma:7b,on_device,100,Bill Gates,13.215514,3.683,92.131,77.817,1.16E-05,4.18E+01
+run_9_repetition_0,DONE,gemma:2b,remote,100,Canada,7.641676,14.6,1.208,53,2.09E-06,7.54E+00
+run_20_repetition_29,DONE,phi3:3.8b,on_device,1000,Kim Kardashian,61.79227,2.812,96.473,64.752,0.0001737193245,625.3895682
+run_41_repetition_11,DONE,mistral:7b,remote,1000,Elvis Presley,15.437566,2.762,0.082,65.988,1.52E-05,5.46E+01
+run_13_repetition_9,DONE,gemma:7b,on_device,500,Miley Cyrus,38.759742,9.448,90.828,83.476,0.0001136709277,409.2153398
+run_17_repetition_0,DONE,gemma:7b,remote,1000,Ted Bundy,14.298724,5.1,0.195,55.271,1.32E-05,4.76E+01
+run_35_repetition_14,DONE,qwen2:7b,remote,1000,Adolf Hitler,15.342369,3.412,0.175,51.612,1.51E-05,5.44E+01
+run_33_repetition_4,DONE,qwen2:7b,remote,100,Jeffrey Dahmer,9.782344,4.633,0.435,55.233,5.84E-06,2.10E+01
+run_41_repetition_18,DONE,mistral:7b,remote,1000,LeBron James,14.16685,13.186,2.939,45.186,1.33E-05,4.80E+01
+run_12_repetition_13,DONE,gemma:7b,on_device,100,Elon Musk,16.60953,21.122,56.885,81.278,1.80E-05,6.50E+01
+run_8_repetition_20,DONE,gemma:2b,on_device,1000,Barack Obama,22.095518,3.007,87.158,65.25,5.16E-05,1.86E+02
+run_1_repetition_17,DONE,llama3.1:8b,on_device,500,John F. Kennedy,46.508008,3.058,90.916,75.7,0.0001346505158,484.7418568
+run_11_repetition_27,DONE,gemma:2b,remote,1000,Charles III,9.858404,6.467,0.45,49.8,5.79E-06,2.09E+01
+run_40_repetition_28,DONE,mistral:7b,remote,500,New York City,13.13408,3.983,0.217,63.867,1.14E-05,4.11E+01
+run_17_repetition_29,DONE,gemma:7b,remote,1000,Cristiano Ronaldo,14.320288,2.871,0.282,63.643,1.33E-05,4.78E+01
+run_4_repetition_26,DONE,llama3.1:8b,remote,500,Israel,15.373939,3.962,0.226,55.85,1.52E-05,5.46E+01
+run_36_repetition_25,DONE,mistral:7b,on_device,100,"Meghan, Duchess of Sussex",16.573425,3.422,85.356,72.478,1.76E-05,6.32E+01
+run_22_repetition_4,DONE,phi3:3.8b,remote,500,Bruce Lee,12.107806,4,0.406,60.12,9.51E-06,3.43E+01
+run_40_repetition_13,DONE,mistral:7b,remote,500,Brad Pitt,14.304125,6.971,0.297,56.286,1.33E-05,4.78E+01
+run_1_repetition_18,DONE,llama3.1:8b,on_device,500,Dwayne Johnson,36.535369,3.252,96.673,76.23,0.0001095706262,394.4542543
+run_4_repetition_6,DONE,llama3.1:8b,remote,500,"Diana, Princess of Wales",14.295791,5.914,0.209,63.943,1.32E-05,4.77E+01
+run_41_repetition_1,DONE,mistral:7b,remote,1000,Jennifer Aniston,15.362049,3.338,0.219,54.6,1.51E-05,5.45E+01
+run_14_repetition_28,DONE,gemma:7b,on_device,1000,Tom Cruise,38.793434,2.728,92.365,84.99,0.0001135363053,408.7306989
+run_32_repetition_25,DONE,qwen2:7b,on_device,1000,The Big Bang Theory,52.052377,3.388,92.447,72.646,0.0001607097817,578.555214
+run_26_repetition_23,DONE,qwen2:1.5b,on_device,1000,Selena Gomez,16.543781,3.244,84.621,62.2,1.70E-05,6.12E+01
+run_1_repetition_26,DONE,llama3.1:8b,on_device,500,Marilyn Monroe,36.523215,5.456,99.015,76.33,0.0001084898911,390.5636078
+run_1_repetition_28,DONE,llama3.1:8b,on_device,500,Michael Jordan,44.240436,3.168,95.572,71.176,0.0001303950848,469.4223054
+run_22_repetition_13,DONE,phi3:3.8b,remote,500,List of Marvel Cinematic Universe films,20.948254,3.454,0.145,52.669,2.45E-05,8.81E+01
+run_25_repetition_7,DONE,qwen2:1.5b,on_device,500,Chernobyl disaster,14.373332,4.886,85.617,61.686,1.33E-05,4.80E+01
+run_7_repetition_6,DONE,gemma:2b,on_device,500,Donald Trump,18.758298,3.236,87.203,65.155,2.08E-05,7.50E+01
+run_0_repetition_23,DONE,llama3.1:8b,on_device,100,Tupac Shakur,14.309364,3.843,98.131,76.429,1.35E-05,4.87E+01
+run_37_repetition_10,DONE,mistral:7b,on_device,500,Japan,47.601917,3.346,97.758,71.473,0.0001327970016,478.0692057
+run_4_repetition_22,DONE,llama3.1:8b,remote,500,Mark Zuckerberg,13.159447,6.517,0.26,48.167,1.14E-05,4.11E+01
+run_0_repetition_26,DONE,llama3.1:8b,on_device,100,Michael Jackson,14.33709,2.543,96.347,76.543,1.35E-05,4.87E+01
+run_36_repetition_15,DONE,mistral:7b,on_device,100,United States,21.021176,2.838,76.484,73.369,2.50E-05,8.99E+01
+run_7_repetition_21,DONE,gemma:2b,on_device,500,Titanic,20.95835,3.577,91.63,64.1,2.46E-05,8.86E+01
+run_0_repetition_17,DONE,llama3.1:8b,on_device,100,Israel,18.797656,3.218,65.634,69.364,2.07E-05,7.46E+01
+run_9_repetition_19,DONE,gemma:2b,remote,100,Charles Manson,7.579386,12.7,0.76,56.2,2.09E-06,7.52E+00
+run_11_repetition_29,DONE,gemma:2b,remote,1000,Pablo Escobar,9.881187,7.667,0.477,55.133,5.83E-06,2.10E+01
+run_30_repetition_21,DONE,qwen2:7b,on_device,100,Jennifer Aniston,23.187213,3.28,78.313,69.047,5.45E-05,1.96E+02
+run_11_repetition_6,DONE,gemma:2b,remote,1000,Adolf Hitler,9.794668,4.567,0.461,57.967,5.83E-06,2.10E+01
+run_8_repetition_2,DONE,gemma:2b,on_device,1000,Adolf Hitler,22.13416,3.814,91.197,65.229,5.18E-05,1.86E+02
+run_31_repetition_15,DONE,qwen2:7b,on_device,500,"Diana, Princess of Wales",40.894389,2.765,89.536,72.306,0.0001356012226,488.1644015
+run_22_repetition_21,DONE,phi3:3.8b,remote,500,Leonardo DiCaprio,15.411229,3.488,0.171,58.012,1.52E-05,5.46E+01
+run_27_repetition_3,DONE,qwen2:1.5b,remote,100,Michael Jackson,7.606512,15.9,1.563,50,2.10E-06,7.55E+00
+run_0_repetition_6,DONE,llama3.1:8b,on_device,100,Jeffrey Dahmer,15.456019,3.95,85.955,71.525,1.52E-05,5.48E+01
+run_41_repetition_12,DONE,mistral:7b,remote,1000,Michael Jackson,15.428115,5.312,0.234,46.738,1.54E-05,5.54E+01
+run_29_repetition_7,DONE,qwen2:1.5b,remote,1000,Abraham Lincoln,12.09546,3.66,0.371,55.88,9.51E-06,3.43E+01
+run_35_repetition_16,DONE,qwen2:7b,remote,1000,William Shakespeare,15.439864,4.012,0.181,58.112,1.52E-05,5.48E+01
+run_34_repetition_29,DONE,qwen2:7b,remote,500,Jay-Z,15.421907,33.7,0.164,58.588,1.56E-05,5.62E+01
+run_34_repetition_16,DONE,qwen2:7b,remote,500,Queen Victoria,15.440167,3.812,0.208,54.388,1.51E-05,5.45E+01
+run_3_repetition_25,DONE,llama3.1:8b,remote,100,Michael Jordan,7.637092,13.9,1.889,65.4,2.10E-06,7.55E+00
+run_3_repetition_4,DONE,llama3.1:8b,remote,100,India,7.590685,47,1.338,49,2.18E-06,7.86E+00
+run_23_repetition_9,DONE,phi3:3.8b,remote,1000,Harry Potter,18.756497,2.527,0.256,64.155,2.08E-05,7.48E+01
+run_13_repetition_27,DONE,gemma:7b,on_device,500,How I Met Your Mother,38.817801,3.824,90.568,85.324,0.0001137110967,409.3599482
+run_11_repetition_22,DONE,gemma:2b,remote,1000,Steve Jobs,9.874531,6.133,0.152,55.8,5.83E-06,2.10E+01
+run_29_repetition_27,DONE,qwen2:1.5b,remote,1000,Michael Jordan,9.87309,7.033,0.507,57.9,5.82E-06,2.10E+01
+run_40_repetition_19,DONE,mistral:7b,remote,500,Brad Pitt,14.282001,18.214,0.191,58.314,1.37E-05,4.92E+01
+run_31_repetition_9,DONE,qwen2:7b,on_device,500,Will Smith,45.361273,3.706,92.067,72.86,0.0001332638814,479.749973
+run_39_repetition_3,DONE,mistral:7b,remote,100,"Meghan, Duchess of Sussex",8.734577,13.3,0.919,64.55,3.96E-06,1.43E+01
+run_7_repetition_28,DONE,gemma:2b,on_device,500,Australia,20.944526,12.462,90.077,64.754,2.45E-05,8.80E+01
+run_0_repetition_24,DONE,llama3.1:8b,on_device,100,Winston Churchill,17.72111,2.96,67.495,72.59,1.93E-05,6.94E+01
+run_11_repetition_14,DONE,gemma:2b,remote,1000,Michael Jackson,9.886492,5.633,0.454,57.6,5.82E-06,2.10E+01
+run_41_repetition_26,DONE,mistral:7b,remote,1000,Tom Cruise,15.333599,2.937,0.057,56.1,1.51E-05,5.44E+01
+run_33_repetition_3,DONE,qwen2:7b,remote,100,Harry Potter,9.781642,5.767,0.419,57.067,5.80E-06,2.09E+01
+run_34_repetition_26,DONE,qwen2:7b,remote,500,Winston Churchill,16.529582,2.422,0.165,54.633,1.70E-05,6.12E+01
+run_18_repetition_18,DONE,phi3:3.8b,on_device,100,John F. Kennedy,16.583121,5.856,82.872,75.078,1.74E-05,6.25E+01
+run_29_repetition_0,DONE,qwen2:1.5b,remote,1000,Marilyn Monroe,9.873987,5.333,0.145,52.033,5.85E-06,2.10E+01
+run_24_repetition_9,DONE,qwen2:1.5b,on_device,100,Tom Cruise,12.150757,7.24,82.867,54.62,9.58E-06,3.45E+01
+run_2_repetition_27,DONE,llama3.1:8b,on_device,1000,Selena Gomez,74.236801,4.5,93.42,75.803,0.0002320780239,835.4808859
+run_5_repetition_3,DONE,llama3.1:8b,remote,1000,France,24.291108,4.25,0.271,57.9,5.53E-05,1.99E+02
+run_22_repetition_18,DONE,phi3:3.8b,remote,500,World War I,13.140006,5.383,0.243,65.05,1.14E-05,4.11E+01
+run_6_repetition_15,DONE,gemma:2b,on_device,100,Kim Kardashian,9.905414,7.433,67.181,63.767,5.86E-06,2.11E+01
+run_31_repetition_18,DONE,qwen2:7b,on_device,500,World War II,38.685152,2.952,88.347,72.452,0.000111971095,403.095942
+run_29_repetition_10,DONE,qwen2:1.5b,remote,1000,Michael Jordan,9.875662,5.433,0.57,49.967,5.83E-06,2.10E+01
+run_38_repetition_16,DONE,mistral:7b,on_device,1000,Breaking Bad,44.206393,3.321,98.485,75.288,0.0001269834819,457.1405348
+run_41_repetition_6,DONE,mistral:7b,remote,1000,Abraham Lincoln,14.260236,12.143,0.189,52.614,1.36E-05,4.88E+01
+run_9_repetition_8,DONE,gemma:2b,remote,100,Michael Jordan,8.745574,16.5,0.763,55.15,3.94E-06,1.42E+01
+run_16_repetition_16,DONE,gemma:7b,remote,500,Jeffrey Dahmer,13.201875,4.367,0.214,55.7,1.14E-05,4.12E+01
+run_25_repetition_20,DONE,qwen2:1.5b,on_device,500,Michael Jackson,17.671132,4.91,90.579,63.28,1.89E-05,6.80E+01
+run_14_repetition_12,DONE,gemma:7b,on_device,1000,Singapore,40.98483,4.223,83.162,84.81,0.0001211763504,436.2348614
+run_40_repetition_14,DONE,mistral:7b,remote,500,Albert Einstein,14.235937,2.943,0.196,64.043,1.33E-05,4.78E+01
+run_8_repetition_15,DONE,gemma:2b,on_device,1000,Adolf Hitler,15.375806,4.262,95.628,63,1.53E-05,5.50E+01
+run_2_repetition_12,DONE,llama3.1:8b,on_device,1000,Stephen Hawking,68.700046,2.9,93.062,76.154,0.0002123792449,764.5652817
+run_26_repetition_18,DONE,qwen2:1.5b,on_device,1000,Queen Victoria,17.582223,4.79,91.837,51.06,1.89E-05,6.80E+01
+run_5_repetition_4,DONE,llama3.1:8b,remote,1000,List of Marvel Cinematic Universe films,26.471795,25.656,0.374,51.667,2.97E-05,1.07E+02
+run_23_repetition_17,DONE,phi3:3.8b,remote,1000,Earth,18.732532,17.391,0.202,54.991,2.11E-05,7.58E+01
+run_34_repetition_14,DONE,qwen2:7b,remote,500,How I Met Your Mother,15.393676,3.037,0.176,64.712,1.51E-05,5.45E+01
+run_11_repetition_4,DONE,gemma:2b,remote,1000,World War II,10.982488,5.925,0.568,46.625,7.70E-06,2.77E+01
+run_8_repetition_13,DONE,gemma:2b,on_device,1000,Angelina Jolie,17.64695,3.1,100,63.94,1.90E-05,6.84E+01
+run_19_repetition_20,DONE,phi3:3.8b,on_device,500,Albert Einstein,44.307249,6.006,96.663,76.112,0.0001209146386,435.2926989
+run_21_repetition_7,DONE,phi3:3.8b,remote,100,Australia,8.762396,8.95,0.707,57,3.96E-06,1.43E+01
+run_9_repetition_26,DONE,gemma:2b,remote,100,Vladimir Putin,7.612697,15.2,1.109,52.8,2.09E-06,7.52E+00
+run_23_repetition_19,DONE,phi3:3.8b,remote,1000,Lionel Messi,12.069989,4.76,0.258,57.5,9.55E-06,3.44E+01
+run_26_repetition_27,DONE,qwen2:1.5b,on_device,1000,Darth Vader,15.46318,3.475,88.327,55.038,1.51E-05,5.44E+01
+run_37_repetition_14,DONE,mistral:7b,on_device,500,Canada,35.416036,2.815,95.616,75.323,8.86E-05,3.19E+02
+run_8_repetition_19,DONE,gemma:2b,on_device,1000,Pablo Escobar,22.150536,4.8,90.48,63.136,5.20E-05,1.87E+02
+run_34_repetition_20,DONE,qwen2:7b,remote,500,Canada,14.230241,2.7,0.173,54.714,1.33E-05,4.78E+01
+run_40_repetition_6,DONE,mistral:7b,remote,500,Elvis Presley,14.271084,3.586,0.181,49.471,1.32E-05,4.76E+01
+run_11_repetition_7,DONE,gemma:2b,remote,1000,World War II,10.963989,8.3,0.4,56.125,7.68E-06,2.76E+01
+run_15_repetition_14,DONE,gemma:7b,remote,100,Vladimir Putin,8.733939,8.6,0.716,46.8,3.94E-06,1.42E+01
+run_35_repetition_15,DONE,qwen2:7b,remote,1000,Cristiano Ronaldo,17.530115,14.72,0.039,57.74,1.88E-05,6.75E+01
+run_25_repetition_14,DONE,qwen2:1.5b,on_device,500,Israel,12.128865,5.9,79.575,59.22,9.55E-06,3.44E+01
+run_5_repetition_18,DONE,llama3.1:8b,remote,1000,Mark Zuckerberg,18.737743,2.382,0.192,65.255,2.07E-05,7.44E+01
+run_33_repetition_25,DONE,qwen2:7b,remote,100,"Prince Philip, Duke of Edinburgh",9.873521,12.767,0.575,55.733,5.80E-06,2.09E+01
+run_37_repetition_8,DONE,mistral:7b,on_device,500,Freddie Mercury,35.275369,2.75,97.376,74.846,8.88E-05,3.20E+02
+run_2_repetition_0,DONE,llama3.1:8b,on_device,1000,China,68.687913,3.364,94.36,75.816,0.000213270229,767.7728244
+run_5_repetition_27,DONE,llama3.1:8b,remote,1000,Barack Obama,16.484402,11.089,0.155,46.878,1.70E-05,6.11E+01
+run_12_repetition_19,DONE,gemma:7b,on_device,100,Bruce Lee,18.841241,4.509,77.813,84.155,2.12E-05,7.62E+01
+run_28_repetition_11,DONE,qwen2:1.5b,remote,500,Australia,9.857271,5.767,0.629,63.233,5.82E-06,2.10E+01
+run_6_repetition_10,DONE,gemma:2b,on_device,100,Academy Awards,11.055724,4.925,71.785,58.25,7.73E-06,2.78E+01
+run_10_repetition_18,DONE,gemma:2b,remote,500,Selena Gomez,9.804047,7.033,0.587,57.933,5.82E-06,2.09E+01
+run_33_repetition_9,DONE,qwen2:7b,remote,100,Charles Manson,12.040898,4.4,0.299,56,9.56E-06,3.44E+01
+run_37_repetition_28,DONE,mistral:7b,on_device,500,Tupac Shakur,43.138661,3.515,90.39,75.127,0.0001257426905,452.6736858
+run_33_repetition_22,DONE,qwen2:7b,remote,100,Michael Jackson,10.980125,4.1,0.338,55.125,7.69E-06,2.77E+01
+run_33_repetition_2,DONE,qwen2:7b,remote,100,Albert Einstein,11.008081,5.275,0.463,61.925,7.69E-06,2.77E+01
+run_32_repetition_4,DONE,qwen2:7b,on_device,1000,India,46.463719,3.397,90.567,71.178,0.0001352295744,486.8264679
+run_26_repetition_22,DONE,qwen2:1.5b,on_device,1000,John Cena,15.432059,4.65,92.748,54.5,1.53E-05,5.49E+01
+run_2_repetition_2,DONE,llama3.1:8b,on_device,1000,Vietnam War,73.123862,18.497,94.805,76.1,0.0002314146677,833.0928036
+run_7_repetition_22,DONE,gemma:2b,on_device,500,Mark Zuckerberg,18.726708,8.436,86.408,64.964,2.07E-05,7.46E+01
+run_13_repetition_24,DONE,gemma:7b,on_device,500,Elizabeth II,39.880043,3.613,84.535,84.91,0.000114769685,413.170866
+run_20_repetition_27,DONE,phi3:3.8b,on_device,1000,List of Marvel Cinematic Universe films,80.899621,3.622,96.885,75.852,0.000225074537,810.2683333
+run_10_repetition_28,DONE,gemma:2b,remote,500,Lionel Messi,9.806558,5.233,0.479,54.4,5.80E-06,2.09E+01
+run_20_repetition_2,DONE,phi3:3.8b,on_device,1000,Breaking Bad,48.745081,2.934,94.334,76.174,0.0001282866679,461.8320045
+run_37_repetition_3,DONE,mistral:7b,on_device,500,Mila Kunis,46.524805,3.997,91.807,74.831,0.0001305648527,470.0334696
+run_19_repetition_13,DONE,phi3:3.8b,on_device,500,Mila Kunis,58.728147,3.349,97.366,67.945,0.0001670692559,601.4493214
+run_23_repetition_23,DONE,phi3:3.8b,remote,1000,Kim Kardashian,14.272574,6.343,0.179,57.757,1.32E-05,4.76E+01
+run_31_repetition_12,DONE,qwen2:7b,on_device,500,Canada,43.149854,4.055,90.912,70.33,0.0001300018758,468.0067528
+run_13_repetition_13,DONE,gemma:7b,on_device,500,Jay-Z,41.008071,3.394,86.38,84.61,0.0001393539173,501.6741024
+run_32_repetition_2,DONE,qwen2:7b,on_device,1000,Russia,56.480121,2.916,92.094,72.202,0.0001650569147,594.2048928
+run_0_repetition_11,DONE,llama3.1:8b,on_device,100,William Shakespeare,18.787702,3.455,63.45,70.136,2.08E-05,7.48E+01
+run_28_repetition_12,DONE,qwen2:1.5b,remote,500,Joe Biden,10.960329,20.575,0.12,61.75,7.88E-06,2.84E+01
+run_28_repetition_19,DONE,qwen2:1.5b,remote,500,"Meghan, Duchess of Sussex",8.732781,34.35,0.823,55.1,4.07E-06,1.46E+01
+run_19_repetition_6,DONE,phi3:3.8b,on_device,500,"Meghan, Duchess of Sussex",33.240229,4.117,92.656,76.104,8.12E-05,2.92E+02
+run_2_repetition_19,DONE,llama3.1:8b,on_device,1000,Justin Bieber,65.348258,3.043,93.637,75.611,0.0001910391719,687.7410187
+run_6_repetition_20,DONE,gemma:2b,on_device,100,Manchester United F.C.,13.225206,7.083,68.113,65.1,1.14E-05,4.11E+01
+run_40_repetition_26,DONE,mistral:7b,remote,500,Jennifer Aniston,13.191388,7.2,0.273,56.5,1.14E-05,4.09E+01
+run_33_repetition_14,DONE,qwen2:7b,remote,100,"Prince Philip, Duke of Edinburgh",10.903718,4.25,0.3,54.975,7.66E-06,2.76E+01
+run_17_repetition_10,DONE,gemma:7b,remote,1000,John F. Kennedy,14.298763,5.871,0.19,53,1.32E-05,4.76E+01
+run_40_repetition_11,DONE,mistral:7b,remote,500,Harry Potter,14.311883,4.014,0.235,53.286,1.33E-05,4.78E+01
+run_3_repetition_23,DONE,llama3.1:8b,remote,100,Keanu Reeves,8.748568,8.45,0.737,65.4,3.97E-06,1.43E+01
+run_10_repetition_20,DONE,gemma:2b,remote,500,Vietnam War,9.825011,10.7,0.138,55.833,5.82E-06,2.10E+01
+run_28_repetition_27,DONE,qwen2:1.5b,remote,500,Elon Musk,9.861978,5.033,0.473,47.1,5.82E-06,2.10E+01
+run_2_repetition_24,DONE,llama3.1:8b,on_device,1000,Tom Brady,63.114619,3.329,96.895,76.043,0.0001873039347,674.2941649
+run_16_repetition_8,DONE,gemma:7b,remote,500,John F. Kennedy,13.197516,3.95,0.26,46.6,1.14E-05,4.10E+01
+run_40_repetition_27,DONE,mistral:7b,remote,500,Vladimir Putin,14.286339,2.657,0.195,53.314,1.33E-05,4.78E+01
+run_11_repetition_0,DONE,gemma:2b,remote,1000,Keanu Reeves,9.86379,5.267,0.56,52.833,5.82E-06,2.10E+01
+run_27_repetition_7,DONE,qwen2:1.5b,remote,100,September 11 attacks,8.759613,7.1,0.729,55.75,3.96E-06,1.43E+01
+run_22_repetition_17,DONE,phi3:3.8b,remote,500,Dwayne Johnson,10.998338,5.2,0.395,52.275,7.69E-06,2.77E+01
+run_3_repetition_1,DONE,llama3.1:8b,remote,100,Chernobyl disaster,7.613641,12.8,1.483,52.9,2.09E-06,7.53E+00
+run_32_repetition_15,DONE,qwen2:7b,on_device,1000,Steve Jobs,56.471137,3.627,98.638,73.353,0.0001790464443,644.5671993
+run_30_repetition_29,DONE,qwen2:7b,on_device,100,List of presidents of the United States,18.803805,3.891,78.821,69.009,2.07E-05,7.44E+01
+run_16_repetition_0,DONE,gemma:7b,remote,500,Steve Jobs,13.179573,19.117,0.074,45.967,1.16E-05,4.18E+01
+run_22_repetition_0,DONE,phi3:3.8b,remote,500,September 11 attacks,16.45252,4.322,0.149,56.678,1.69E-05,6.10E+01
+run_0_repetition_9,DONE,llama3.1:8b,on_device,100,Miley Cyrus,14.359897,3.971,92.611,76.743,1.35E-05,4.86E+01
+run_35_repetition_24,DONE,qwen2:7b,remote,1000,Bruce Lee,17.639845,20.52,0.224,58.33,1.92E-05,6.90E+01
+run_5_repetition_25,DONE,llama3.1:8b,remote,1000,Arnold Schwarzenegger,17.637048,4.49,0.18,53.8,1.88E-05,6.77E+01
+run_34_repetition_5,DONE,qwen2:7b,remote,500,Lady Gaga,15.41623,16.45,0.22,56.862,1.57E-05,5.64E+01
+run_23_repetition_5,DONE,phi3:3.8b,remote,1000,Lionel Messi,15.36652,2.812,0.175,52.375,1.52E-05,5.46E+01
+run_7_repetition_24,DONE,gemma:2b,on_device,500,List of presidents of the United States,37.667801,2.932,97.179,65.625,0.000102969116,370.6888177
+run_0_repetition_20,DONE,llama3.1:8b,on_device,100,Titanic,15.440592,4.675,74.438,73.65,1.55E-05,5.59E+01
+run_3_repetition_19,DONE,llama3.1:8b,remote,100,Selena Gomez,8.69737,6.95,0.768,52.7,3.96E-06,1.43E+01
+run_40_repetition_22,DONE,mistral:7b,remote,500,Bill Gates,13.200868,3.983,0.271,57.117,1.14E-05,4.09E+01
+run_12_repetition_12,DONE,gemma:7b,on_device,100,Ryan Reynolds,16.665644,4.033,56.707,74.011,1.88E-05,6.76E+01
+run_31_repetition_14,DONE,qwen2:7b,on_device,500,Johnny Depp,44.291273,3.391,97.861,72.624,0.00013226583,476.156988
+run_27_repetition_27,DONE,qwen2:1.5b,remote,100,Michael Jackson,9.871248,10.9,0.432,56.467,5.82E-06,2.10E+01
+run_17_repetition_2,DONE,gemma:7b,remote,1000,Albert Einstein,13.134907,3.317,0.104,69.133,1.14E-05,4.11E+01
+run_18_repetition_1,DONE,phi3:3.8b,on_device,100,Eminem,12.127545,5.32,87.787,67.32,9.60E-06,3.46E+01
+run_38_repetition_19,DONE,mistral:7b,on_device,1000,Rihanna,48.708462,2.918,91.69,74.529,0.0001346816667,484.8540002
+run_8_repetition_1,DONE,gemma:2b,on_device,1000,Russia,26.547171,5.006,89.962,59.561,5.78E-05,2.08E+02
+run_29_repetition_26,DONE,qwen2:1.5b,remote,1000,"Prince Philip, Duke of Edinburgh",9.813451,6.167,0.516,57.933,5.81E-06,2.09E+01
+run_39_repetition_16,DONE,mistral:7b,remote,100,Michael Jackson,8.759741,8.5,0.693,52.25,3.96E-06,1.43E+01
+run_38_repetition_9,DONE,mistral:7b,on_device,1000,How I Met Your Mother,44.287851,2.9,90.538,74.776,0.0001271894226,457.8819215
+run_36_repetition_7,DONE,mistral:7b,on_device,100,Chernobyl disaster,18.816672,4.427,71.457,70.418,2.07E-05,7.47E+01
+run_8_repetition_6,DONE,gemma:2b,on_device,1000,"Princess Margaret, Countess of Snowdon",16.672194,8.478,91.176,64.933,1.71E-05,6.17E+01
+run_3_repetition_20,DONE,llama3.1:8b,remote,100,Elon Musk,8.747332,35.3,0.726,58.75,4.12E-06,1.48E+01
+run_26_repetition_0,DONE,qwen2:1.5b,on_device,1000,Elon Musk,17.632285,4.29,89.344,62.79,1.90E-05,6.85E+01
+run_23_repetition_21,DONE,phi3:3.8b,remote,1000,Canada,37.65732,23.857,0.272,53.589,5.98E-05,2.15E+02
+run_22_repetition_25,DONE,phi3:3.8b,remote,500,Earth,67.606186,30.251,0.41,57.289,9.21E-05,3.32E+02
+run_13_repetition_4,DONE,gemma:7b,on_device,500,Scarlett Johansson,38.795915,3.376,86.642,84.286,0.000113818204,409.7455343
+run_19_repetition_25,DONE,phi3:3.8b,on_device,500,"Princess Margaret, Countess of Snowdon",48.7471,3.258,95.118,64.729,0.000128315533,461.9359189
+run_13_repetition_5,DONE,gemma:7b,on_device,500,Barack Obama,40.851044,2.7,87.164,76.455,0.0001070634564,385.4284431
+run_36_repetition_1,DONE,mistral:7b,on_device,100,Angelina Jolie,18.734668,2.891,98.822,68.473,2.10E-05,7.57E+01
+run_41_repetition_0,DONE,mistral:7b,remote,1000,Albert Einstein,15.427354,4.325,0.214,59,1.52E-05,5.46E+01
+run_37_repetition_23,DONE,mistral:7b,on_device,500,List of presidents of the United States,54.267909,3.121,92.911,74.86,0.0001592866464,573.4319269
+run_4_repetition_10,DONE,llama3.1:8b,remote,500,Selena Gomez,15.35196,16.325,0.198,53.05,1.54E-05,5.55E+01
+run_9_repetition_23,DONE,gemma:2b,remote,100,Ariana Grande,7.640202,17.2,0.708,52.8,2.09E-06,7.54E+00
+run_38_repetition_1,DONE,mistral:7b,on_device,1000,Vietnam War,48.713777,4.571,91.667,71.111,0.0001347731998,485.1835191
+run_28_repetition_21,DONE,qwen2:1.5b,remote,500,Lionel Messi,8.769382,8.95,0.742,56.55,3.96E-06,1.43E+01
+run_13_repetition_19,DONE,gemma:7b,on_device,500,United States,37.677318,3.561,91.638,75.882,0.0001105551633,397.9985881
+run_38_repetition_14,DONE,mistral:7b,on_device,1000,Donald Trump,62.015273,3.584,92.92,71.496,0.0001808229494,650.9626178
+run_6_repetition_6,DONE,gemma:2b,on_device,100,Kim Kardashian,9.891875,4.933,83.839,65.6,5.86E-06,2.11E+01
+run_8_repetition_29,DONE,gemma:2b,on_device,1000,List of Marvel Cinematic Universe films,24.308672,3.612,88.148,59.556,5.64E-05,2.03E+02
+run_38_repetition_15,DONE,mistral:7b,on_device,1000,Charles III,38.76704,3.738,89.512,74.71,0.0001101111447,396.4001209
+run_9_repetition_1,DONE,gemma:2b,remote,100,Albert Einstein,7.642889,16.7,0.613,54.7,2.09E-06,7.52E+00
+run_15_repetition_12,DONE,gemma:7b,remote,100,Bill Gates,8.771575,6.95,0.822,66.7,3.97E-06,1.43E+01
+run_39_repetition_20,DONE,mistral:7b,remote,100,Steve Jobs,8.751354,6.95,0.717,55.75,3.96E-06,1.43E+01
+run_0_repetition_16,DONE,llama3.1:8b,on_device,100,Justin Bieber,18.763512,4.518,59.427,72.645,2.11E-05,7.59E+01
+run_19_repetition_7,DONE,phi3:3.8b,on_device,500,"Prince Philip, Duke of Edinburgh",34.305728,3.28,92.755,75.372,8.31E-05,2.99E+02
+run_41_repetition_28,DONE,mistral:7b,remote,1000,Brad Pitt,16.39675,3.522,0.157,46.1,1.70E-05,6.11E+01
+run_23_repetition_11,DONE,phi3:3.8b,remote,1000,India,17.621358,5.41,0.175,54.67,1.88E-05,6.77E+01
+run_0_repetition_12,DONE,llama3.1:8b,on_device,100,September 11 attacks,17.658916,5.83,65.607,73.2,1.91E-05,6.89E+01
+run_25_repetition_26,DONE,qwen2:1.5b,on_device,500,Arnold Schwarzenegger,15.438854,4.588,95.689,60.162,1.51E-05,5.44E+01
+run_27_repetition_11,DONE,qwen2:1.5b,remote,100,Marilyn Monroe,7.663442,18.3,0.661,57.8,2.09E-06,7.53E+00
+run_36_repetition_20,DONE,mistral:7b,on_device,100,Albert Einstein,16.580225,3.678,68.919,70.178,1.73E-05,6.21E+01
+run_3_repetition_9,DONE,llama3.1:8b,remote,100,Michael Jackson,8.762389,7.7,0.724,58.25,3.96E-06,1.42E+01
+run_30_repetition_18,DONE,qwen2:7b,on_device,100,Freddie Mercury,24.379389,19.806,78.851,71.431,5.73E-05,2.06E+02
+run_36_repetition_11,DONE,mistral:7b,on_device,100,Leonardo DiCaprio,15.450916,14.225,89.331,73.762,1.51E-05,5.45E+01
+run_39_repetition_19,DONE,mistral:7b,remote,100,Dwayne Johnson,9.918756,5.4,0.697,66.933,5.83E-06,2.10E+01
+run_38_repetition_25,DONE,mistral:7b,on_device,1000,The Big Bang Theory,43.152038,3.291,94.766,70.809,0.0001257221397,452.599703
+run_40_repetition_21,DONE,mistral:7b,remote,500,Muhammad Ali,13.213491,7.4,0.326,66.15,1.14E-05,4.10E+01
+run_9_repetition_14,DONE,gemma:2b,remote,100,Game of Thrones,7.590187,13,1.704,63.5,2.09E-06,7.52E+00
+run_15_repetition_10,DONE,gemma:7b,remote,100,Tom Brady,8.786289,10.5,0.784,76.8,3.96E-06,1.43E+01
+run_20_repetition_23,DONE,phi3:3.8b,on_device,1000,John Cena,35.413612,3.008,94.463,74.892,8.48E-05,3.05E+02
+run_28_repetition_13,DONE,qwen2:1.5b,remote,500,India,8.765638,25.5,0.697,57.3,4.07E-06,1.47E+01
+run_8_repetition_25,DONE,gemma:2b,on_device,1000,Abraham Lincoln,20.897148,4.638,88.491,64.592,2.45E-05,8.80E+01
+run_40_repetition_24,DONE,mistral:7b,remote,500,September 11 attacks,13.195614,3.233,0.277,54.717,1.14E-05,4.11E+01
+run_14_repetition_24,DONE,gemma:7b,on_device,1000,Angelina Jolie,38.807788,2.959,86.704,84.8,0.0001141674044,411.0026557
+run_36_repetition_8,DONE,mistral:7b,on_device,100,Elon Musk,17.650243,2.59,70.568,71.25,1.93E-05,6.96E+01
+run_37_repetition_12,DONE,mistral:7b,on_device,500,Mila Kunis,46.383271,3.086,90.948,74.939,0.0001314030554,473.0509993
+run_18_repetition_4,DONE,phi3:3.8b,on_device,100,Taylor Swift,16.530111,4,78.344,62.8,1.70E-05,6.12E+01
+run_9_repetition_21,DONE,gemma:2b,remote,100,Japan,7.638219,13.7,0.624,62.8,2.10E-06,7.57E+00
+run_35_repetition_9,DONE,qwen2:7b,remote,1000,John Cena,15.404295,4.925,0.19,47.175,1.51E-05,5.43E+01
+run_0_repetition_25,DONE,llama3.1:8b,on_device,100,Australia,14.340052,3.729,93.691,72.457,1.35E-05,4.85E+01
+run_22_repetition_7,DONE,phi3:3.8b,remote,500,LeBron James,16.523117,5.189,0.15,52.111,1.69E-05,6.10E+01
+run_27_repetition_16,DONE,qwen2:1.5b,remote,100,United States,7.701037,12.7,1.518,75.8,2.09E-06,7.54E+00
+run_13_repetition_20,DONE,gemma:7b,on_device,500,COVID-19 pandemic,39.746774,3.583,87.508,84.813,0.0001396447314,502.721033
+run_32_repetition_1,DONE,qwen2:7b,on_device,1000,Dwayne Johnson,46.48538,3.378,90.207,72.989,0.0001357069059,488.5448614
+run_24_repetition_11,DONE,qwen2:1.5b,on_device,100,Charles Manson,9.870272,6.1,61.96,53.5,5.85E-06,2.11E+01
+run_38_repetition_2,DONE,mistral:7b,on_device,1000,Taylor Swift,50.935074,22.878,93.407,70.572,0.0001405131382,505.8472977
+run_39_repetition_24,DONE,mistral:7b,remote,100,Jeffrey Dahmer,8.751142,9.75,0.73,52.95,3.96E-06,1.42E+01
+run_27_repetition_24,DONE,qwen2:1.5b,remote,100,Dwayne Johnson,7.625973,15,1.479,64.3,2.09E-06,7.51E+00
+run_24_repetition_17,DONE,qwen2:1.5b,on_device,100,Israel,13.221624,6.433,83.918,59.55,1.14E-05,4.11E+01
+run_26_repetition_29,DONE,qwen2:1.5b,on_device,1000,Japan,15.352652,4.262,87.467,61.862,1.52E-05,5.46E+01
+run_23_repetition_2,DONE,phi3:3.8b,remote,1000,Steve Jobs,17.613599,3.03,0.04,55.05,1.89E-05,6.80E+01
+run_1_repetition_16,DONE,llama3.1:8b,on_device,500,United States,36.518186,2.904,99.602,74.474,0.0001088042823,391.6954163
+run_4_repetition_24,DONE,llama3.1:8b,remote,500,Tupac Shakur,15.379256,27.938,0.164,49.888,1.56E-05,5.60E+01
+run_37_repetition_15,DONE,mistral:7b,on_device,500,Selena Gomez,34.279299,3.58,94.912,73.336,8.68E-05,3.13E+02
+run_38_repetition_6,DONE,mistral:7b,on_device,1000,China,50.948664,3.698,92.211,71.962,0.0001381840326,497.4625174
+run_12_repetition_8,DONE,gemma:7b,on_device,100,"Diana, Princess of Wales",17.529219,11.63,54.688,77.99,1.92E-05,6.92E+01
+run_22_repetition_14,DONE,phi3:3.8b,remote,500,Arnold Schwarzenegger,12.091591,3.52,0.303,52.68,9.55E-06,3.44E+01
+run_20_repetition_18,DONE,phi3:3.8b,on_device,1000,How I Met Your Mother,57.606854,3.148,100,76.154,0.0001653499651,595.2598744
+run_6_repetition_22,DONE,gemma:2b,on_device,100,World War II,12.127105,4.96,70.833,64.6,9.60E-06,3.46E+01
+run_20_repetition_28,DONE,phi3:3.8b,on_device,1000,Tom Cruise,59.71215,3.923,96.884,75.529,0.0001683327349,605.9978456
+run_26_repetition_1,DONE,qwen2:1.5b,on_device,1000,Titanic,13.247609,4.767,82.444,54.55,1.14E-05,4.11E+01
+run_20_repetition_5,DONE,phi3:3.8b,on_device,1000,Will Smith,52.064998,2.588,96.765,75.466,0.0001499636362,539.8690903
+run_39_repetition_26,DONE,mistral:7b,remote,100,Tom Cruise,8.749619,8,0.638,56.8,3.97E-06,1.43E+01
+run_17_repetition_21,DONE,gemma:7b,remote,1000,Chernobyl disaster,13.191583,13.517,0.195,46.25,1.14E-05,4.11E+01
+run_3_repetition_14,DONE,llama3.1:8b,remote,100,Rihanna,7.595908,13.6,1.418,58.4,2.09E-06,7.53E+00
+run_21_repetition_18,DONE,phi3:3.8b,remote,100,Chernobyl disaster,7.628439,15.2,1.438,55.7,2.09E-06,7.52E+00
+run_5_repetition_21,DONE,llama3.1:8b,remote,1000,Kobe Bryant,18.736781,3.909,0.174,63.073,2.07E-05,7.44E+01
+run_19_repetition_27,DONE,phi3:3.8b,on_device,500,United States,48.653311,2.945,98.724,64.774,0.0001282595788,461.7344838
+run_28_repetition_22,DONE,qwen2:1.5b,remote,500,Johnny Depp,9.882207,6.1,0.446,57.4,5.83E-06,2.10E+01
+run_35_repetition_29,DONE,qwen2:7b,remote,1000,Kobe Bryant,19.743439,5.133,0.212,55.35,2.25E-05,8.10E+01
+run_24_repetition_2,DONE,qwen2:1.5b,on_device,100,Chernobyl disaster,11.015233,6.1,67.139,55.6,7.69E-06,2.77E+01
+run_34_repetition_21,DONE,qwen2:7b,remote,500,"Prince Philip, Duke of Edinburgh",14.309215,29.814,0.213,55.829,1.40E-05,5.02E+01
+run_29_repetition_24,DONE,qwen2:1.5b,remote,1000,Arnold Schwarzenegger,10.959499,4.375,0.326,54.275,7.69E-06,2.77E+01
+run_14_repetition_27,DONE,gemma:7b,on_device,1000,"Princess Margaret, Countess of Snowdon",42.110466,4.716,87.865,84.5,0.0001294175992,465.903357
+run_29_repetition_14,DONE,qwen2:1.5b,remote,1000,The Big Bang Theory,9.854181,6.7,0.492,52.233,5.80E-06,2.09E+01
+run_33_repetition_12,DONE,qwen2:7b,remote,100,John F. Kennedy,10.932948,4.925,0.384,53.775,7.69E-06,2.77E+01
+run_18_repetition_13,DONE,phi3:3.8b,on_device,100,Selena Gomez,14.357765,4.5,84.742,65.743,1.34E-05,4.83E+01
+run_21_repetition_0,DONE,phi3:3.8b,remote,100,Jennifer Aniston,8.779354,9.2,0.687,55.15,3.95E-06,1.42E+01
+run_21_repetition_26,DONE,phi3:3.8b,remote,100,China,8.739226,12.85,0.731,55.15,3.94E-06,1.42E+01
+run_29_repetition_9,DONE,qwen2:1.5b,remote,1000,Stephen Hawking,9.891449,6.533,0.5,57.833,5.85E-06,2.10E+01
+run_29_repetition_25,DONE,qwen2:1.5b,remote,1000,"Diana, Princess of Wales",9.895639,6.267,0.437,55.2,5.83E-06,2.10E+01
+run_20_repetition_6,DONE,phi3:3.8b,on_device,1000,Game of Thrones,46.454145,3.728,99.649,75.969,0.000125004496,450.0161854
+run_6_repetition_25,DONE,gemma:2b,on_device,100,The Big Bang Theory,13.207547,5.333,80.848,64.9,1.15E-05,4.13E+01
+run_10_repetition_26,DONE,gemma:2b,remote,500,Rihanna,8.747229,17.25,0.693,56.55,3.96E-06,1.43E+01
+run_17_repetition_4,DONE,gemma:7b,remote,1000,India,14.303735,3.614,0.239,54.7,1.33E-05,4.78E+01
+run_25_repetition_16,DONE,qwen2:1.5b,on_device,500,Ariana Grande,14.354962,6.029,96.422,60.414,1.33E-05,4.80E+01
+run_12_repetition_28,DONE,gemma:7b,on_device,100,Elizabeth II,14.347197,4.357,84.195,75.329,1.36E-05,4.89E+01
+run_33_repetition_18,DONE,qwen2:7b,remote,100,Leonardo DiCaprio,8.767023,7.95,0.227,54.85,3.96E-06,1.43E+01
+run_17_repetition_8,DONE,gemma:7b,remote,1000,Jay-Z,13.240666,7.133,0.241,71.65,1.15E-05,4.15E+01
+run_21_repetition_5,DONE,phi3:3.8b,remote,100,Tom Brady,8.763534,8.05,0.667,55.8,3.96E-06,1.43E+01
+run_34_repetition_1,DONE,qwen2:7b,remote,500,Keanu Reeves,15.394537,4.675,0.188,62.838,1.51E-05,5.45E+01
+run_1_repetition_3,DONE,llama3.1:8b,on_device,500,Chernobyl disaster,47.617176,3.365,91.561,71.027,0.0001363530693,490.8710494
+run_27_repetition_21,DONE,qwen2:1.5b,remote,100,Charles Manson,7.628678,12.8,1.24,56,2.09E-06,7.52E+00
+run_1_repetition_10,DONE,llama3.1:8b,on_device,500,How I Met Your Mother,42.054341,3.197,91.023,74.169,0.0001273490797,458.4566868
+run_22_repetition_19,DONE,phi3:3.8b,remote,500,New York City,14.295937,8.657,0.182,56.371,1.34E-05,4.82E+01
+run_12_repetition_24,DONE,gemma:7b,on_device,100,"Diana, Princess of Wales",16.610172,4.122,70.074,83.556,1.76E-05,6.33E+01
+run_35_repetition_10,DONE,qwen2:7b,remote,1000,India,16.520757,4.2,0.051,58.6,1.69E-05,6.10E+01
+run_17_repetition_16,DONE,gemma:7b,remote,1000,Winston Churchill,15.502723,2.45,0.193,63.3,1.59E-05,5.72E+01
+run_20_repetition_9,DONE,phi3:3.8b,on_device,1000,Titanic,54.264064,17.972,96.268,67.607,0.0001564098415,563.0754293
+run_3_repetition_27,DONE,llama3.1:8b,remote,100,Elvis Presley,8.752971,6.95,0.225,57.15,3.96E-06,1.43E+01
+run_0_repetition_1,DONE,llama3.1:8b,on_device,100,Israel,17.674463,4.34,63.859,67.11,1.90E-05,6.83E+01
+run_16_repetition_19,DONE,gemma:7b,remote,500,Miley Cyrus,13.183607,15.067,0.218,57.75,1.14E-05,4.09E+01
+run_41_repetition_13,DONE,mistral:7b,remote,1000,Ariana Grande,15.433386,2.662,0.201,65.275,1.51E-05,5.44E+01
+run_36_repetition_17,DONE,mistral:7b,on_device,100,United States,18.719039,6.036,74.428,73.218,2.11E-05,7.59E+01
+run_40_repetition_17,DONE,mistral:7b,remote,500,Israel,14.361329,4.114,0.23,59.929,1.32E-05,4.76E+01
+run_14_repetition_7,DONE,gemma:7b,on_device,1000,Queen Victoria,37.578031,3.018,97.04,75.614,0.0001114844209,401.3439153
+run_34_repetition_3,DONE,qwen2:7b,remote,500,Game of Thrones,15.422777,3.85,0.212,52.738,1.51E-05,5.43E+01
+run_11_repetition_1,DONE,gemma:2b,remote,1000,Joe Biden,9.905339,11.267,0.749,64.067,5.80E-06,2.09E+01
+run_4_repetition_14,DONE,llama3.1:8b,remote,500,Academy Awards,14.280801,4.443,0.183,52.914,1.32E-05,4.77E+01
+run_8_repetition_0,DONE,gemma:2b,on_device,1000,Darth Vader,18.768641,3.355,87.457,64.936,2.07E-05,7.46E+01
+run_19_repetition_5,DONE,phi3:3.8b,on_device,500,The Big Bang Theory,42.063096,3.319,93.957,66.562,0.000117621708,423.4381489
+run_16_repetition_15,DONE,gemma:7b,remote,500,Germany,13.211577,4.3,0.204,56,1.14E-05,4.11E+01
+run_13_repetition_8,DONE,gemma:7b,on_device,500,Israel,35.40588,2.85,96.792,70.638,9.20E-05,3.31E+02
+run_10_repetition_13,DONE,gemma:2b,remote,500,Ted Bundy,9.796415,5.633,0.432,54.033,5.81E-06,2.09E+01
+run_6_repetition_13,DONE,gemma:2b,on_device,100,Lil Wayne,10.977378,4.75,75.361,63.675,7.71E-06,2.78E+01
+run_23_repetition_14,DONE,phi3:3.8b,remote,1000,China,19.825488,2.35,0.181,57.8,2.26E-05,8.14E+01
+run_35_repetition_12,DONE,qwen2:7b,remote,1000,Bruce Lee,16.510319,2.467,0.165,62.322,1.70E-05,6.13E+01
+run_16_repetition_12,DONE,gemma:7b,remote,500,"Princess Margaret, Countess of Snowdon",13.136713,3.217,0.216,57.467,1.14E-05,4.11E+01
+run_35_repetition_23,DONE,qwen2:7b,remote,1000,Elizabeth II,16.497074,3.489,0.155,50.978,1.70E-05,6.13E+01
+run_37_repetition_9,DONE,mistral:7b,on_device,500,LeBron James,39.76936,2.573,97.933,75.807,0.0001123009566,404.2834439
+run_31_repetition_13,DONE,qwen2:7b,on_device,500,Michael Jordan,45.255211,3.334,90.916,72.937,0.0001341540621,482.9546236
+run_34_repetition_9,DONE,qwen2:7b,remote,500,LeBron James,16.583832,23.056,2.785,57.322,1.75E-05,6.29E+01
+run_33_repetition_0,DONE,qwen2:7b,remote,100,September 11 attacks,10.998353,4.325,0.311,52.125,7.69E-06,2.77E+01
+run_38_repetition_13,DONE,mistral:7b,on_device,1000,Brad Pitt,40.941655,2.845,99.72,75.616,0.0001472775255,530.1990919
+run_6_repetition_5,DONE,gemma:2b,on_device,100,Marilyn Monroe,8.80233,37.2,84.718,61.75,4.14E-06,1.49E+01
+run_40_repetition_5,DONE,mistral:7b,remote,500,The Walking Dead (TV series),13.18472,28.917,0.205,56,1.19E-05,4.27E+01
+run_17_repetition_28,DONE,gemma:7b,remote,1000,Jay-Z,13.215283,35.45,0.214,53.917,1.14E-05,4.11E+01
+run_30_repetition_3,DONE,qwen2:7b,on_device,100,Charles III,17.691326,2.98,86.415,71.74,1.92E-05,6.91E+01
+run_36_repetition_28,DONE,mistral:7b,on_device,100,Selena Gomez,22.163838,3.414,74.286,73.714,5.17E-05,1.86E+02
+run_31_repetition_0,DONE,qwen2:7b,on_device,500,China,43.137618,4.282,89.586,73.018,0.0001297005979,466.9221526
+run_10_repetition_7,DONE,gemma:2b,remote,500,Ted Bundy,9.854133,6.533,0.454,58.467,5.84E-06,2.10E+01
+run_18_repetition_27,DONE,phi3:3.8b,on_device,100,COVID-19 pandemic,15.489641,4.075,80.847,74.925,1.55E-05,5.60E+01
+run_38_repetition_18,DONE,mistral:7b,on_device,1000,Brad Pitt,49.771841,3.187,95.451,74.562,0.0001365972497,491.750099
+run_26_repetition_3,DONE,qwen2:1.5b,on_device,1000,"Princess Margaret, Countess of Snowdon",18.787304,3.791,87.885,62.336,2.07E-05,7.47E+01
+run_30_repetition_2,DONE,qwen2:7b,on_device,100,Mark Zuckerberg,21.008609,3.192,78.576,71.208,2.48E-05,8.93E+01
+run_25_repetition_11,DONE,qwen2:1.5b,on_device,500,Bruce Lee,14.236417,20.157,95.404,57.757,1.37E-05,4.95E+01
+run_24_repetition_6,DONE,qwen2:1.5b,on_device,100,Canada,12.082744,28.28,73.211,60.46,9.81E-06,3.53E+01
+run_34_repetition_23,DONE,qwen2:7b,remote,500,China,13.114695,4.267,0.206,52.15,1.14E-05,4.11E+01
+run_15_repetition_8,DONE,gemma:7b,remote,100,Charles III,9.867879,11.5,0.516,55.967,5.80E-06,2.09E+01
+run_34_repetition_28,DONE,qwen2:7b,remote,500,Michael Jordan,17.648675,4.61,0.21,60.5,1.89E-05,6.80E+01
+run_28_repetition_29,DONE,qwen2:1.5b,remote,500,Rihanna,8.754864,21.05,0.713,56.7,4.01E-06,1.44E+01
+run_1_repetition_5,DONE,llama3.1:8b,on_device,500,Charles Manson,44.226427,13.015,96.982,70.882,0.0001320270017,475.2972062
+run_14_repetition_20,DONE,gemma:7b,on_device,1000,Singapore,42.045324,4.212,85.214,85.128,0.0001288621864,463.9038711
+run_7_repetition_25,DONE,gemma:2b,on_device,500,Charles III,18.791921,3.045,91.398,63.182,2.09E-05,7.51E+01
+run_17_repetition_5,DONE,gemma:7b,remote,1000,Elizabeth II,14.280867,2.857,0.248,54.914,1.36E-05,4.88E+01
+run_21_repetition_2,DONE,phi3:3.8b,remote,100,Germany,8.763737,9.1,0.717,52.25,3.97E-06,1.43E+01
+run_1_repetition_11,DONE,llama3.1:8b,on_device,500,World War I,45.398737,3.283,99.793,76.634,0.0001328589203,478.2921129
+run_16_repetition_13,DONE,gemma:7b,remote,500,Charles III,14.312466,3.929,0.231,66.143,1.32E-05,4.76E+01
+run_17_repetition_11,DONE,gemma:7b,remote,1000,Tupac Shakur,13.17807,5.217,0.219,51.217,1.14E-05,4.09E+01
+run_25_repetition_15,DONE,qwen2:1.5b,on_device,500,China,13.238305,25.233,86.19,60.267,1.17E-05,4.22E+01
+run_5_repetition_16,DONE,llama3.1:8b,remote,1000,List of Marvel Cinematic Universe films,24.275447,3.194,0.235,58.15,5.51E-05,1.98E+02
+run_27_repetition_25,DONE,qwen2:1.5b,remote,100,Justin Bieber,8.764307,38.45,0.796,58.95,4.13E-06,1.49E+01
+run_17_repetition_7,DONE,gemma:7b,remote,1000,Bill Gates,14.300994,7.071,0.243,56.2,1.32E-05,4.76E+01
+run_30_repetition_22,DONE,qwen2:7b,on_device,100,Ariana Grande,26.544973,3.411,81.294,71.322,7.17E-05,2.58E+02
+run_35_repetition_2,DONE,qwen2:7b,remote,1000,France,19.839499,3.467,0.199,52.892,2.26E-05,8.15E+01
+run_19_repetition_0,DONE,phi3:3.8b,on_device,500,Rihanna,40.97055,2.439,100,74.41,0.0001170848263,421.5053747
+run_30_repetition_7,DONE,qwen2:7b,on_device,100,Kanye West,23.258046,3.087,78.77,72.227,5.43E-05,1.96E+02
+run_5_repetition_12,DONE,llama3.1:8b,remote,1000,Chernobyl disaster,17.698193,3.527,0.212,52.159,2.07E-05,7.44E+01
+run_38_repetition_23,DONE,mistral:7b,on_device,1000,Lionel Messi,56.52456,3.184,94.114,66.418,0.0001734048851,624.2575864
+run_20_repetition_25,DONE,phi3:3.8b,on_device,1000,Keanu Reeves,68.374202,4.418,89.02,67.491,0.000205555,739.999
+run_20_repetition_11,DONE,phi3:3.8b,on_device,1000,Keanu Reeves,43.158027,2.897,94.423,67.561,0.0001193190205,429.5484738
+run_11_repetition_18,DONE,gemma:2b,remote,1000,Manchester United F.C.,10.994559,5.8,0.346,53.775,7.69E-06,2.77E+01
+run_20_repetition_16,DONE,phi3:3.8b,on_device,1000,Mark Zuckerberg,38.731485,3.262,99.829,67.859,0.0001066069814,383.7851332
+run_32_repetition_20,DONE,qwen2:7b,on_device,1000,William Shakespeare,55.274284,3.3,98.368,72.175,0.0001669381074,600.9771868
+run_17_repetition_9,DONE,gemma:7b,remote,1000,John Cena,14.296473,3.157,0.282,64.843,1.32E-05,4.76E+01
+run_28_repetition_0,DONE,qwen2:1.5b,remote,500,Arnold Schwarzenegger,9.843564,6.467,0.455,52.933,5.84E-06,2.10E+01
+run_22_repetition_28,DONE,phi3:3.8b,remote,500,"Princess Margaret, Countess of Snowdon",14.316299,3.5,0.214,57.043,1.33E-05,4.80E+01
+run_40_repetition_23,DONE,mistral:7b,remote,500,Ryan Reynolds,14.296153,3.571,0.19,45.9,1.32E-05,4.76E+01
+run_18_repetition_21,DONE,phi3:3.8b,on_device,100,Titanic,15.458891,16.325,77.081,67.338,1.53E-05,5.52E+01
+run_35_repetition_13,DONE,qwen2:7b,remote,1000,William Shakespeare,15.372546,33.762,0.248,67.112,1.57E-05,5.66E+01
+run_39_repetition_28,DONE,mistral:7b,remote,100,Arnold Schwarzenegger,9.873619,6.9,0.518,50.133,5.82E-06,2.10E+01
+run_7_repetition_11,DONE,gemma:2b,on_device,500,Johnny Depp,21.037173,2.992,86.006,59.8,2.45E-05,8.81E+01
+run_5_repetition_11,DONE,llama3.1:8b,remote,1000,Lionel Messi,18.688993,4.127,0.221,52.109,2.07E-05,7.44E+01
+run_7_repetition_20,DONE,gemma:2b,on_device,500,Harry Potter,16.544631,3.267,93.39,63.578,1.70E-05,6.14E+01
+run_3_repetition_11,DONE,llama3.1:8b,remote,100,Ted Bundy,7.663406,15.9,1.34,63.7,2.09E-06,7.54E+00
+run_41_repetition_23,DONE,mistral:7b,remote,1000,List of Marvel Cinematic Universe films,29.859751,2.333,0.337,65.505,2.96E-05,1.06E+02
+run_40_repetition_25,DONE,mistral:7b,remote,500,How I Met Your Mother,14.285463,3.014,0.222,60.929,1.33E-05,4.78E+01
+run_12_repetition_23,DONE,gemma:7b,on_device,100,Bill Gates,15.490824,6.137,84.65,84.162,1.57E-05,5.63E+01
+run_27_repetition_29,DONE,qwen2:1.5b,remote,100,The Big Bang Theory,7.64619,14.6,0.467,46.9,2.09E-06,7.52E+00
+run_7_repetition_17,DONE,gemma:2b,on_device,500,Ted Bundy,19.884347,2.967,87.881,61.533,2.28E-05,8.20E+01
+run_27_repetition_6,DONE,qwen2:1.5b,remote,100,Elon Musk,7.61968,12.7,0.719,48.5,2.10E-06,7.55E+00
+run_27_repetition_9,DONE,qwen2:1.5b,remote,100,Steve Jobs,8.747805,8.1,0.666,56.35,3.96E-06,1.42E+01
+run_35_repetition_20,DONE,qwen2:7b,remote,1000,World War II,17.565634,5.7,0.211,59.79,1.88E-05,6.75E+01
+run_31_repetition_17,DONE,qwen2:7b,on_device,500,Manchester United F.C.,46.486568,3.342,92.536,73.028,0.0001358856755,489.1884319
+run_22_repetition_8,DONE,phi3:3.8b,remote,500,Germany,15.308584,24.675,0.151,51.938,1.54E-05,5.56E+01
+run_8_repetition_4,DONE,gemma:2b,on_device,1000,Miley Cyrus,19.846083,5.592,87.607,59.142,2.27E-05,8.18E+01
+run_18_repetition_10,DONE,phi3:3.8b,on_device,100,Lionel Messi,19.89892,3.392,86.522,75.617,2.28E-05,8.20E+01
+run_39_repetition_23,DONE,mistral:7b,remote,100,List of Marvel Cinematic Universe films,18.717069,2.964,0.241,54.355,2.06E-05,7.43E+01
+run_19_repetition_14,DONE,phi3:3.8b,on_device,500,How I Met Your Mother,28.719506,5.78,95.873,76.03,7.38E-05,2.66E+02
+run_1_repetition_7,DONE,llama3.1:8b,on_device,500,Ariana Grande,43.152253,3.067,97.047,72.679,0.0001288874633,463.9948679
+run_31_repetition_26,DONE,qwen2:7b,on_device,500,Keanu Reeves,43.166347,3.364,98.964,73.585,0.0001299807042,467.9305351
+run_25_repetition_25,DONE,qwen2:1.5b,on_device,500,Scarlett Johansson,14.367521,4.914,94,58.229,1.33E-05,4.80E+01
+run_30_repetition_10,DONE,qwen2:7b,on_device,100,Queen Victoria,23.213225,2.607,81.554,71.013,5.45E-05,1.96E+02
+run_13_repetition_2,DONE,gemma:7b,on_device,500,Israel,35.388794,3.012,96.277,77.235,9.23E-05,3.32E+02
+run_26_repetition_17,DONE,qwen2:1.5b,on_device,1000,Tom Brady,20.97017,3.146,96.186,61.769,2.45E-05,8.83E+01
+run_37_repetition_13,DONE,mistral:7b,on_device,500,Muhammad Ali,38.795329,3.083,93.819,74.903,0.0001099837841,395.9416228
+run_5_repetition_6,DONE,llama3.1:8b,remote,1000,William Shakespeare,18.703793,2.236,0.224,52.964,2.07E-05,7.46E+01
+run_39_repetition_0,DONE,mistral:7b,remote,100,Academy Awards,8.75607,8,0.776,64.5,3.97E-06,1.43E+01
+run_30_repetition_20,DONE,qwen2:7b,on_device,100,Canada,19.905605,2.467,94.82,66.417,2.30E-05,8.27E+01
+run_4_repetition_1,DONE,llama3.1:8b,remote,500,Lil Wayne,14.254266,2.143,0.158,52.9,1.32E-05,4.76E+01
+run_32_repetition_21,DONE,qwen2:7b,on_device,1000,Miley Cyrus,57.605671,2.852,93.79,72.561,0.0001802486269,648.8950567
+run_34_repetition_11,DONE,qwen2:7b,remote,500,"Princess Margaret, Countess of Snowdon",14.30224,2.329,0.164,65.729,1.33E-05,4.78E+01
+run_3_repetition_15,DONE,llama3.1:8b,remote,100,Freddie Mercury,8.706952,8.75,0.685,47.95,3.96E-06,1.42E+01
+run_2_repetition_25,DONE,llama3.1:8b,on_device,1000,Charles Manson,44.241703,3.262,90.512,75.376,0.0001297031209,466.9312352
+run_1_repetition_1,DONE,llama3.1:8b,on_device,500,"Diana, Princess of Wales",47.633826,2.895,91.282,75.365,0.0001368801237,492.7684453
+run_21_repetition_29,DONE,phi3:3.8b,remote,100,Jay-Z,8.773225,8.15,0.729,60.3,3.96E-06,1.43E+01
+run_0_repetition_13,DONE,llama3.1:8b,on_device,100,Mila Kunis,18.78548,4.464,63.936,71.418,2.08E-05,7.47E+01
+run_21_repetition_19,DONE,phi3:3.8b,remote,100,"Diana, Princess of Wales",8.765729,8.55,0.741,54.6,3.94E-06,1.42E+01
+run_23_repetition_12,DONE,phi3:3.8b,remote,1000,Kim Kardashian,15.42448,2.838,0.205,52.7,1.51E-05,5.45E+01
+run_32_repetition_29,DONE,qwen2:7b,on_device,1000,India,53.176816,2.864,94.935,73.35,0.0001626152236,585.4148049
+run_13_repetition_18,DONE,gemma:7b,on_device,500,Charles III,37.616635,3.357,90.65,84.854,0.0001120300841,403.3083029
+run_27_repetition_8,DONE,qwen2:1.5b,remote,100,Scarlett Johansson,7.618335,15.9,0.74,75.3,2.10E-06,7.55E+00
+run_7_repetition_23,DONE,gemma:2b,on_device,500,The Big Bang Theory,19.799149,4.158,93.756,63.275,2.26E-05,8.14E+01
+run_6_repetition_24,DONE,gemma:2b,on_device,100,The Big Bang Theory,10.980182,7.875,76.125,62.625,7.71E-06,2.78E+01
+run_30_repetition_27,DONE,qwen2:7b,on_device,100,Abraham Lincoln,19.880315,3.642,71.246,70.375,2.28E-05,8.19E+01
+run_2_repetition_28,DONE,llama3.1:8b,on_device,1000,Leonardo DiCaprio,67.605581,3.171,95.642,76.069,0.0002106817789,758.4544041
+run_31_repetition_5,DONE,qwen2:7b,on_device,500,COVID-19 pandemic,49.808454,3.549,92.817,72.156,0.0001413537814,508.8736132
+run_13_repetition_11,DONE,gemma:7b,on_device,500,Breaking Bad,38.790981,3.266,86.124,85.024,0.0001138129416,409.7265899
+run_39_repetition_11,DONE,mistral:7b,remote,100,Elon Musk,9.843027,6.933,0.484,55.767,5.83E-06,2.10E+01
+run_27_repetition_15,DONE,qwen2:1.5b,remote,100,Scarlett Johansson,7.629429,12.5,0.891,56,2.10E-06,7.55E+00
+run_16_repetition_25,DONE,gemma:7b,remote,500,Selena Gomez,13.223924,4.1,0.253,57.25,1.14E-05,4.10E+01
+run_0_repetition_15,DONE,llama3.1:8b,on_device,100,Freddie Mercury,17.703533,3.9,69.547,74.22,1.89E-05,6.81E+01
+run_20_repetition_14,DONE,phi3:3.8b,on_device,1000,The Beatles,38.749528,3.283,95.942,64.414,0.0001068840816,384.7826939
+run_2_repetition_13,DONE,llama3.1:8b,on_device,1000,Harry Potter,67.581643,2.885,94.647,70.889,0.0002103492838,757.2574215
+run_28_repetition_6,DONE,qwen2:1.5b,remote,500,Harry Potter,9.880884,7.2,0.431,56.467,5.82E-06,2.10E+01
+run_2_repetition_5,DONE,llama3.1:8b,on_device,1000,Star Wars,59.780841,2.715,93.422,75.748,0.0001819761818,655.1142545
+run_30_repetition_16,DONE,qwen2:7b,on_device,100,New York City,17.665113,2.95,86.883,72.56,1.89E-05,6.81E+01
+run_28_repetition_14,DONE,qwen2:1.5b,remote,500,Vladimir Putin,8.691876,7.3,0.668,55.25,3.96E-06,1.43E+01
+run_31_repetition_24,DONE,qwen2:7b,on_device,500,Brad Pitt,37.672187,2.775,97.535,73.793,0.0001106477554,398.3319195
+run_32_repetition_23,DONE,qwen2:7b,on_device,1000,United Kingdom,50.886128,2.955,91.947,71.828,0.000143626119,517.0540282
+run_1_repetition_15,DONE,llama3.1:8b,on_device,500,Taylor Swift,44.32263,3.709,90.865,75.659,0.0001300546336,468.196681
+run_30_repetition_12,DONE,qwen2:7b,on_device,100,Elvis Presley,19.916156,2.95,77.33,70.883,2.30E-05,8.27E+01
+run_3_repetition_16,DONE,llama3.1:8b,remote,100,Kanye West,7.637102,14.8,1.437,53.8,2.09E-06,7.53E+00
+run_23_repetition_20,DONE,phi3:3.8b,remote,1000,Tom Brady,16.512192,5.011,0.242,56.733,1.70E-05,6.13E+01
+run_5_repetition_8,DONE,llama3.1:8b,remote,1000,Stephen Hawking,19.745624,2.858,0.228,53.175,2.26E-05,8.13E+01
+run_34_repetition_2,DONE,qwen2:7b,remote,500,Miley Cyrus,14.293388,8.071,0.295,51.9,1.32E-05,4.76E+01
+run_41_repetition_19,DONE,mistral:7b,remote,1000,Titanic,15.45745,2.8,0.194,56.375,1.52E-05,5.45E+01
+run_38_repetition_28,DONE,mistral:7b,on_device,1000,Harry Potter,52.075199,3.415,92.377,70.298,0.0001561768475,562.236651
+run_31_repetition_7,DONE,qwen2:7b,on_device,500,China,40.907723,4.523,91.2,72.426,0.0001514424493,545.1928176
+run_15_repetition_13,DONE,gemma:7b,remote,100,Academy Awards,7.599204,14.3,1.089,54.7,2.10E-06,7.55E+00
+run_16_repetition_27,DONE,gemma:7b,remote,500,United Kingdom,12.064515,4.64,0.257,57.62,9.51E-06,3.42E+01
+run_2_repetition_26,DONE,llama3.1:8b,on_device,1000,Queen Victoria,72.953157,4.107,96.33,76.09,0.0002287828725,823.6183409
+run_29_repetition_21,DONE,qwen2:1.5b,remote,1000,Lionel Messi,9.854819,6.2,0.488,64.567,5.83E-06,2.10E+01
+run_34_repetition_22,DONE,qwen2:7b,remote,500,The Beatles,16.453697,11.867,2.75,57.911,1.72E-05,6.19E+01
+run_2_repetition_10,DONE,llama3.1:8b,on_device,1000,"Prince Philip, Duke of Edinburgh",68.478167,6.471,94.383,74.205,0.0002135255434,768.6919564
+run_36_repetition_4,DONE,mistral:7b,on_device,100,The Beatles,18.780412,3.009,73.163,68.118,2.10E-05,7.55E+01
+run_1_repetition_19,DONE,llama3.1:8b,on_device,500,Star Wars,49.818773,3.049,91.45,72.518,0.000140046676,504.1680335
+run_13_repetition_6,DONE,gemma:7b,on_device,500,List of Marvel Cinematic Universe films,54.206723,3.744,94.015,86.107,0.0001659018432,597.2466355
+run_7_repetition_26,DONE,gemma:2b,on_device,500,Barack Obama,20.975552,3.008,95.173,62.438,2.45E-05,8.82E+01
+run_37_repetition_29,DONE,mistral:7b,on_device,500,How I Met Your Mother,41.999406,3.381,91.377,74.55,0.0001233721263,444.1396546
+run_16_repetition_21,DONE,gemma:7b,remote,500,Jeffrey Dahmer,13.193562,4,0.235,64,1.14E-05,4.12E+01
+run_39_repetition_1,DONE,mistral:7b,remote,100,Abraham Lincoln,9.842105,8.633,0.72,75.767,5.80E-06,2.09E+01
+run_27_repetition_2,DONE,qwen2:1.5b,remote,100,Jennifer Aniston,7.623851,16.7,1.394,46.8,2.09E-06,7.54E+00
+run_10_repetition_4,DONE,gemma:2b,remote,500,Harry Potter,9.906685,5.867,0.699,74.8,5.83E-06,2.10E+01
+run_4_repetition_12,DONE,llama3.1:8b,remote,500,Muhammad Ali,14.210895,3.686,0.219,58.143,1.32E-05,4.75E+01
+run_18_repetition_14,DONE,phi3:3.8b,on_device,100,"Diana, Princess of Wales",14.363372,3.514,86.455,74.8,1.33E-05,4.78E+01
+run_14_repetition_1,DONE,gemma:7b,on_device,1000,Joe Biden,37.694474,2.282,97.412,72.811,0.0001111456615,400.1243812
+run_24_repetition_18,DONE,qwen2:1.5b,on_device,100,Ariana Grande,11.005473,4.625,67.337,54.825,7.69E-06,2.77E+01
+run_28_repetition_4,DONE,qwen2:1.5b,remote,500,Japan,9.840022,4.867,0.531,57.833,5.82E-06,2.10E+01
+run_26_repetition_8,DONE,qwen2:1.5b,on_device,1000,France,13.216639,6.183,92.691,61.717,1.14E-05,4.12E+01
+run_29_repetition_13,DONE,qwen2:1.5b,remote,1000,Game of Thrones,9.868162,4.567,0.452,58.2,5.82E-06,2.10E+01
+run_7_repetition_2,DONE,gemma:2b,on_device,500,Ted Bundy,19.910436,5.275,86.747,63.542,2.27E-05,8.18E+01
+run_8_repetition_24,DONE,gemma:2b,on_device,1000,Jennifer Aniston,18.727849,3.918,91.375,63.291,2.07E-05,7.43E+01
+run_0_repetition_22,DONE,llama3.1:8b,on_device,100,Winston Churchill,17.672526,3.61,66.36,72.84,1.93E-05,6.93E+01
+run_12_repetition_26,DONE,gemma:7b,on_device,100,Kim Kardashian,17.711955,4.97,56.722,82.44,1.92E-05,6.92E+01
+run_15_repetition_29,DONE,gemma:7b,remote,100,Rihanna,8.757426,17.15,0.769,57.65,3.94E-06,1.42E+01
+run_7_repetition_9,DONE,gemma:2b,on_device,500,Elizabeth II,17.686542,3.82,86.11,62.45,1.89E-05,6.80E+01
+run_24_repetition_10,DONE,qwen2:1.5b,on_device,100,Ryan Reynolds,9.901091,7.8,85.273,62.667,5.85E-06,2.11E+01
+run_15_repetition_2,DONE,gemma:7b,remote,100,Lady Gaga,7.625231,17.1,0.726,54.3,2.12E-06,7.64E+00
+run_6_repetition_29,DONE,gemma:2b,on_device,100,Elon Musk,6.561151,9.15,61.903,65.95,3.99E-06,1.44E+01
+run_38_repetition_21,DONE,mistral:7b,on_device,1000,New York City,43.152737,2.976,90.755,68.206,0.0001252931895,451.0554821
+run_30_repetition_17,DONE,qwen2:7b,on_device,100,The Walking Dead (TV series),22.168271,2.743,79.253,71.7,5.21E-05,1.88E+02
+run_32_repetition_14,DONE,qwen2:7b,on_device,1000,Johnny Depp,59.762323,3.406,94.304,73.042,0.000184531162,664.3121834
+run_20_repetition_0,DONE,phi3:3.8b,on_device,1000,Selena Gomez,35.384852,3.192,94.162,67.388,8.48E-05,3.05E+02
+run_8_repetition_10,DONE,gemma:2b,on_device,1000,Angelina Jolie,18.750661,3.336,85.824,61.445,2.09E-05,7.52E+01
+run_36_repetition_21,DONE,mistral:7b,on_device,100,Tom Cruise,20.854799,3.2,76.785,73.423,2.49E-05,8.96E+01
+run_17_repetition_23,DONE,gemma:7b,remote,1000,Harry Potter,15.327381,3.062,0.161,63.925,1.51E-05,5.45E+01
+run_6_repetition_3,DONE,gemma:2b,on_device,100,Will Smith,12.151412,6.2,61.679,62.68,9.56E-06,3.44E+01
+run_20_repetition_19,DONE,phi3:3.8b,on_device,1000,Chernobyl disaster,56.449033,3.789,95.572,75.762,0.0001589440825,572.1986971
+run_30_repetition_1,DONE,qwen2:7b,on_device,100,Will Smith,19.862189,2.492,81.587,71.608,2.29E-05,8.23E+01
+run_21_repetition_15,DONE,phi3:3.8b,remote,100,Taylor Swift,8.732244,8,0.764,52.75,3.96E-06,1.43E+01
+run_3_repetition_12,DONE,llama3.1:8b,remote,100,Jeffrey Dahmer,8.702118,8.2,0.725,52.65,4.01E-06,1.44E+01
+run_33_repetition_15,DONE,qwen2:7b,remote,100,Tom Cruise,9.876529,6.633,0.457,46.667,5.81E-06,2.09E+01
+run_36_repetition_27,DONE,mistral:7b,on_device,100,"Diana, Princess of Wales",16.566705,3.8,70.368,69.522,1.73E-05,6.24E+01
+run_38_repetition_12,DONE,mistral:7b,on_device,1000,United Kingdom,43.218447,7.312,99.223,75.733,0.0001277959018,460.0652463
+run_13_repetition_14,DONE,gemma:7b,on_device,500,How I Met Your Mother,38.792467,2.766,91.946,85.597,0.0001144044843,411.8561435
+run_0_repetition_4,DONE,llama3.1:8b,on_device,100,"Diana, Princess of Wales",17.564372,4,64.461,72.06,1.92E-05,6.92E+01
+run_19_repetition_3,DONE,phi3:3.8b,on_device,500,Academy Awards,35.394355,2.923,96.615,71.981,8.50E-05,3.06E+02
+run_27_repetition_26,DONE,qwen2:1.5b,remote,100,Tupac Shakur,7.646189,14.8,0.688,55.3,2.11E-06,7.58E+00
+run_26_repetition_4,DONE,qwen2:1.5b,on_device,1000,Harry Potter,15.487168,3.7,90.151,61.65,1.52E-05,5.47E+01
+run_1_repetition_24,DONE,llama3.1:8b,on_device,500,Steve Jobs,43.161474,3.727,90.661,72.17,0.0001288947498,464.0210993
+run_7_repetition_14,DONE,gemma:2b,on_device,500,Star Wars,17.729546,3.39,90.677,56.15,1.89E-05,6.80E+01
+run_25_repetition_5,DONE,qwen2:1.5b,on_device,500,Nicki Minaj,15.565251,4.188,92.75,63.038,1.52E-05,5.48E+01
+run_33_repetition_23,DONE,qwen2:7b,remote,100,Eminem,9.880247,5.867,0.468,55.767,5.84E-06,2.10E+01
+run_8_repetition_8,DONE,gemma:2b,on_device,1000,John Cena,17.684437,3.1,88.87,63.06,1.90E-05,6.85E+01
+run_19_repetition_28,DONE,phi3:3.8b,on_device,500,Johnny Depp,29.849297,2.914,95.289,75.99,7.54E-05,2.71E+02
+run_9_repetition_28,DONE,gemma:2b,remote,100,September 11 attacks,8.762885,7.4,0.956,64.4,3.96E-06,1.43E+01
+run_10_repetition_6,DONE,gemma:2b,remote,500,LeBron James,9.83515,37.5,0.48,53.033,6.07E-06,2.18E+01
+run_9_repetition_18,DONE,gemma:2b,remote,100,New York City,8.781598,8.95,0.731,60.4,3.96E-06,1.43E+01
+run_10_repetition_10,DONE,gemma:2b,remote,500,Lady Gaga,9.853353,5.833,0.511,56.767,5.83E-06,2.10E+01
+run_15_repetition_20,DONE,gemma:7b,remote,100,France,9.861249,8.533,0.53,52.633,5.86E-06,2.11E+01
+run_7_repetition_12,DONE,gemma:2b,on_device,500,Chernobyl disaster,17.625826,2.82,83.831,60.4,1.89E-05,6.80E+01
+run_13_repetition_22,DONE,gemma:7b,on_device,500,Winston Churchill,36.579388,2.922,92.717,75.037,0.0001101480556,396.5330002
+run_10_repetition_16,DONE,gemma:2b,remote,500,New York City,9.875641,11.233,0.557,58.2,5.80E-06,2.09E+01
+run_2_repetition_7,DONE,llama3.1:8b,on_device,1000,France,78.438098,3.178,95.608,71.337,0.000239492993,862.1747748
+run_5_repetition_2,DONE,llama3.1:8b,remote,1000,Winston Churchill,22.092627,2.657,0.207,46.929,5.16E-05,1.86E+02
+run_18_repetition_20,DONE,phi3:3.8b,on_device,100,Elon Musk,14.329941,5.157,96.056,76.371,1.35E-05,4.86E+01
+run_33_repetition_28,DONE,qwen2:7b,remote,100,"Meghan, Duchess of Sussex",9.862467,7.4,0.472,45.533,5.82E-06,2.10E+01
+run_25_repetition_12,DONE,qwen2:1.5b,on_device,500,September 11 attacks,13.249698,45.283,93.458,59.7,1.22E-05,4.39E+01
+run_34_repetition_13,DONE,qwen2:7b,remote,500,Jeffrey Dahmer,18.781662,3.027,0.244,75.245,2.08E-05,7.48E+01
+run_1_repetition_20,DONE,llama3.1:8b,on_device,500,Charles III,40.920488,23.342,89.351,71.681,0.0001237184281,445.3863413
+run_29_repetition_4,DONE,qwen2:1.5b,remote,1000,Steve Jobs,12.139589,5.9,0.297,63.48,9.52E-06,3.43E+01
+run_15_repetition_0,DONE,gemma:7b,remote,100,Arnold Schwarzenegger,8.6968,14.5,0.641,63.65,3.95E-06,1.42E+01
+run_19_repetition_1,DONE,phi3:3.8b,on_device,500,Leonardo DiCaprio,35.390041,3.454,93.909,67.931,8.52E-05,3.07E+02
+run_20_repetition_3,DONE,phi3:3.8b,on_device,1000,Earth,48.720164,3.361,96.412,76.071,0.0001285828837,462.8983812
+run_31_repetition_16,DONE,qwen2:7b,on_device,500,Winston Churchill,50.923232,5.162,91.131,70.66,0.0001428820027,514.3752096
+run_10_repetition_3,DONE,gemma:2b,remote,500,World War II,9.889951,5.933,0.155,57.233,5.82E-06,2.10E+01
+run_3_repetition_13,DONE,llama3.1:8b,remote,100,Taylor Swift,8.707818,7.55,0.728,51.25,3.94E-06,1.42E+01
+run_28_repetition_7,DONE,qwen2:1.5b,remote,500,Game of Thrones,8.725303,6.95,2.575,57.9,4.07E-06,1.47E+01
+run_13_repetition_28,DONE,gemma:7b,on_device,500,Kim Kardashian,34.304084,2.344,98.028,74.096,9.01E-05,3.25E+02
+run_31_repetition_28,DONE,qwen2:7b,on_device,500,Australia,37.54742,3.389,98.646,68.332,0.0001104828247,397.7381689
+run_40_repetition_18,DONE,mistral:7b,remote,500,Earth,15.404006,2.975,0.262,75.812,1.52E-05,5.46E+01
+run_6_repetition_26,DONE,gemma:2b,on_device,100,Albert Einstein,9.950284,12.8,63.854,64.267,5.87E-06,2.11E+01
+run_38_repetition_11,DONE,mistral:7b,on_device,1000,China,43.164731,3.673,90.333,72.652,0.0001257355864,452.648111
+run_15_repetition_17,DONE,gemma:7b,remote,100,Miley Cyrus,9.917204,5.867,0.509,62.8,5.80E-06,2.09E+01
+run_33_repetition_6,DONE,qwen2:7b,remote,100,Bill Gates,9.877494,4.767,0.458,53.833,5.84E-06,2.10E+01
+run_40_repetition_3,DONE,mistral:7b,remote,500,Michael Jordan,15.42079,3.7,0.16,58.412,1.51E-05,5.45E+01
+run_23_repetition_18,DONE,phi3:3.8b,remote,1000,Joe Biden,13.195348,9.05,0.258,58.2,1.15E-05,4.13E+01
+run_13_repetition_10,DONE,gemma:7b,on_device,500,"Prince Philip, Duke of Edinburgh",37.730409,3.3,85.729,84.804,0.0001118490856,402.6567082
+run_25_repetition_9,DONE,qwen2:1.5b,on_device,500,Breaking Bad,14.330358,7.314,91.467,54.543,1.33E-05,4.79E+01
+run_33_repetition_26,DONE,qwen2:7b,remote,100,Tupac Shakur,9.826959,37.833,0.472,57.5,6.02E-06,2.17E+01
+run_38_repetition_0,DONE,mistral:7b,on_device,1000,France,51.965997,2.88,92.878,73.937,0.0001557632189,560.7475881
+run_25_repetition_4,DONE,qwen2:1.5b,on_device,500,Israel,13.173638,4.933,90.692,61.6,1.14E-05,4.11E+01
+run_19_repetition_2,DONE,phi3:3.8b,on_device,500,List of Marvel Cinematic Universe films,66.451108,3.313,96.89,67.869,0.0001797979139,647.27249
+run_20_repetition_21,DONE,phi3:3.8b,on_device,1000,Michael Jordan,48.741327,3.332,98.374,76.232,0.0001279257971,460.5328697
+run_17_repetition_14,DONE,gemma:7b,remote,1000,Tom Brady,14.258248,4.086,0.234,46.771,1.33E-05,4.78E+01
+run_29_repetition_18,DONE,qwen2:1.5b,remote,1000,Elon Musk,9.826632,5.067,0.448,57.933,5.84E-06,2.10E+01
+run_40_repetition_7,DONE,mistral:7b,remote,500,September 11 attacks,14.310644,3.329,0.197,62.743,1.33E-05,4.78E+01
+run_14_repetition_29,DONE,gemma:7b,on_device,1000,Rihanna,40.913523,2.6,88.07,76.655,0.0001168606528,420.6983501
+run_30_repetition_11,DONE,qwen2:7b,on_device,100,Stephen Hawking,16.593805,3.133,93.631,72.722,1.73E-05,6.22E+01
+run_17_repetition_1,DONE,gemma:7b,remote,1000,Marilyn Monroe,13.190483,3.883,0.301,61.5,1.14E-05,4.11E+01
+run_21_repetition_6,DONE,phi3:3.8b,remote,100,Freddie Mercury,7.619047,13.6,1.267,52.8,2.09E-06,7.53E+00
+run_18_repetition_23,DONE,phi3:3.8b,on_device,100,Justin Bieber,12.161544,4.9,83.48,62.86,9.65E-06,3.47E+01
+run_40_repetition_20,DONE,mistral:7b,remote,500,Albert Einstein,14.319014,11.2,0.732,57.286,1.32E-05,4.76E+01
+run_2_repetition_21,DONE,llama3.1:8b,on_device,1000,Vladimir Putin,89.686676,3.687,96.673,76.105,0.0002815507867,1013.582832
+run_4_repetition_20,DONE,llama3.1:8b,remote,500,Ryan Reynolds,13.090686,4.967,0.091,35.7,1.13E-05,4.08E+01
+run_35_repetition_28,DONE,qwen2:7b,remote,1000,Jay-Z,22.109841,3.3,0.195,51.821,5.14E-05,1.85E+02
+run_38_repetition_4,DONE,mistral:7b,on_device,1000,Tom Cruise,59.744576,3.529,94.332,65.027,0.0001778240659,640.1666372
+run_39_repetition_29,DONE,mistral:7b,remote,100,Japan,9.811415,6.933,0.432,47.9,5.82E-06,2.09E+01
+run_16_repetition_2,DONE,gemma:7b,remote,500,"Prince Philip, Duke of Edinburgh",14.279094,2.943,0.223,57.5,1.33E-05,4.78E+01
+run_21_repetition_4,DONE,phi3:3.8b,remote,100,"Princess Margaret, Countess of Snowdon",8.761993,9.1,0.703,52.85,3.96E-06,1.42E+01
+run_9_repetition_11,DONE,gemma:2b,remote,100,Tupac Shakur,7.702943,19.5,5.022,54.2,2.20E-06,7.90E+00
+run_12_repetition_29,DONE,gemma:7b,on_device,100,Game of Thrones,18.823735,15.636,57.533,82.545,2.16E-05,7.77E+01
+run_1_repetition_22,DONE,llama3.1:8b,on_device,500,Dwayne Johnson,37.68064,2.943,98.987,72.35,0.0001096253582,394.6512893
+run_28_repetition_1,DONE,qwen2:1.5b,remote,500,Harry Potter,9.801735,6.3,0.494,63.6,5.80E-06,2.09E+01
+run_5_repetition_14,DONE,llama3.1:8b,remote,1000,Miley Cyrus,18.693494,3.836,0.159,52.364,2.08E-05,7.47E+01
+run_3_repetition_5,DONE,llama3.1:8b,remote,100,Michael Jackson,8.71169,6.9,0.856,76.3,3.95E-06,1.42E+01
+run_24_repetition_4,DONE,qwen2:1.5b,on_device,100,Ted Bundy,9.880974,6.967,98.129,62.9,5.84E-06,2.10E+01
+run_7_repetition_15,DONE,gemma:2b,on_device,500,Joe Biden,16.571632,3.556,97.529,55.267,1.70E-05,6.12E+01
+run_4_repetition_29,DONE,llama3.1:8b,remote,500,Game of Thrones,14.28413,3.329,0.188,58.114,1.33E-05,4.78E+01
+run_24_repetition_5,DONE,qwen2:1.5b,on_device,100,"Meghan, Duchess of Sussex",8.796889,10,89.976,63.25,3.99E-06,1.44E+01
+run_23_repetition_16,DONE,phi3:3.8b,remote,1000,Jay-Z,16.506402,2.467,0.049,56.167,1.70E-05,6.12E+01
+run_28_repetition_5,DONE,qwen2:1.5b,remote,500,Canada,9.848431,5.1,0.614,62.767,5.84E-06,2.10E+01
+run_6_repetition_2,DONE,gemma:2b,on_device,100,World War II,11.038046,5.4,74.411,64.525,7.72E-06,2.78E+01
+run_10_repetition_11,DONE,gemma:2b,remote,500,Earth,10.968302,6.175,0.352,54.725,7.68E-06,2.77E+01
+run_26_repetition_16,DONE,qwen2:1.5b,on_device,1000,"Prince Philip, Duke of Edinburgh",15.465317,4.65,86.34,62.825,1.51E-05,5.45E+01
+run_15_repetition_23,DONE,gemma:7b,remote,100,New York City,9.824209,5.433,0.46,51.2,5.79E-06,2.09E+01
+run_14_repetition_18,DONE,gemma:7b,on_device,1000,Justin Bieber,40.971715,3.358,87.618,85.129,0.0001289410101,464.1876365
+run_41_repetition_24,DONE,mistral:7b,remote,1000,Darth Vader,15.421701,24.138,0.235,58.925,1.54E-05,5.55E+01
+run_9_repetition_17,DONE,gemma:2b,remote,100,Ariana Grande,7.619131,32.9,1.42,50.7,2.09E-06,7.53E+00
+run_15_repetition_27,DONE,gemma:7b,remote,100,"Prince Philip, Duke of Edinburgh",8.787015,14.55,0.862,67.45,3.97E-06,1.43E+01
+run_10_repetition_0,DONE,gemma:2b,remote,500,Jay-Z,10.941172,4.325,0.321,55.125,7.69E-06,2.77E+01
+run_20_repetition_4,DONE,phi3:3.8b,on_device,1000,Canada,45.351573,3.694,93.747,76.463,0.0001224696211,440.890636
+run_3_repetition_7,DONE,llama3.1:8b,remote,100,How I Met Your Mother,8.772752,9.3,0.916,63.4,3.98E-06,1.43E+01

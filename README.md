@@ -34,7 +34,8 @@ In this experiment we used the following models: [llama3.1:8b](https://ollama.co
 ```
 
 # Getting the results
-The output data is saved in the `run_table.csv` file, which could be found in "/experiment/experiment_output" folder.
+The output data is saved in the `run_table.csv` file, which could be found in `/experiment/experiment_output` folder.
+
 # Data Analysis
 
-For performing statistical tests on the data generated from the experiment follow the instructions provided in [Data Analysis](data-analysis/README.md)
+For performing statistical tests on the data generated from the experiment, run the `.ipynb` file (R runtime)  in folder [Data Analysis](data-analysis/) with the `run_table.csv` file.
