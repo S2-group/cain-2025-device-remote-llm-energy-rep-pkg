@@ -1,6 +1,8 @@
 
 # On-Device or Remote? On the Energy Efficiency of Fetching LLM-Generated Content
 
+[![DOI](https://zenodo.org/badge/917569031.svg)](https://doi.org/10.5281/zenodo.14670949)
+
 This repository contains the replication package of the following publication:
 > Vince Nguyen, Hieu Huynh, Vidya Dhopate, Anusha Annengala, Hiba Bouhlal, Gian Luca Scoccia, Matias Martinez, Vincenzo Stoico, Ivano Malavolta. On-Device or Remote? On the Energy Efficiency of Fetching LLM-Generated Content. Proceedings of the IEEE/ACM 4th International Conference on AI Engineering--Software Engineering for AI (CAIN), 2025.
  
